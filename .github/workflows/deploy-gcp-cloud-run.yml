@@ -31,6 +31,8 @@ env:
   REGION: ${{ vars.GCP_REGION }}
   SERVICE: ${{ vars.GCP_CLOUD_RUN_SERVICE }}
   AR_REPOSITORY: ${{ vars.GCP_ARTIFACT_REPOSITORY }}
+  WIF_PROVIDER: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+  DEPLOY_SERVICE_ACCOUNT: ${{ vars.GCP_SERVICE_ACCOUNT }}
   CLOUD_SQL_CONNECTION: ${{ vars.GCP_CLOUD_SQL_CONNECTION }}
   DB_SECRET_NAME: ${{ vars.GCP_DB_SECRET_NAME }}
   SERVICE_TOKEN_SECRET_NAME: ${{ vars.GCP_SERVICE_TOKEN_SECRET_NAME }}
@@ -50,9 +52,8 @@ jobs:
             REGION
             SERVICE
             AR_REPOSITORY
-            CLOUD_SQL_CONNECTION
-            DB_SECRET_NAME
-            SERVICE_TOKEN_SECRET_NAME
+            WIF_PROVIDER
+            DEPLOY_SERVICE_ACCOUNT
           )
           for key in "${required[@]}"; do
             if [[ -z "${!key}" ]]; then
@@ -64,8 +65,8 @@ jobs:
       - name: Authenticate to GCP
         uses: google-github-actions/auth@v2
         with:
-          workload_identity_provider: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
-          service_account: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+          workload_identity_provider: ${{ env.WIF_PROVIDER }}
+          service_account: ${{ env.DEPLOY_SERVICE_ACCOUNT }}
 
       - name: Setup gcloud
         uses: google-github-actions/setup-gcloud@v2
@@ -97,14 +98,27 @@ jobs:
       - name: Deploy to Cloud Run
         shell: bash
         run: |
-          gcloud run deploy "${SERVICE}" \
-            --image "${{ steps.build.outputs.image }}" \
-            --region "${REGION}" \
-            --platform managed \
-            --allow-unauthenticated \
-            --add-cloudsql-instances "${CLOUD_SQL_CONNECTION}" \
-            --set-secrets "DATABASE_URL=${DB_SECRET_NAME}:latest,SERVICE_TOKEN=${SERVICE_TOKEN_SECRET_NAME}:latest" \
+          args=(
+            --image "${{ steps.build.outputs.image }}"
+            --region "${REGION}"
+            --platform managed
+            --allow-unauthenticated
             --set-env-vars "NODE_ENV=production"
+          )
+
+          if [[ -n "${CLOUD_SQL_CONNECTION}" ]]; then
+            args+=(--add-cloudsql-instances "${CLOUD_SQL_CONNECTION}")
+          fi
+
+          if [[ -n "${DB_SECRET_NAME}" && -n "${SERVICE_TOKEN_SECRET_NAME}" ]]; then
+            args+=(--set-secrets "DATABASE_URL=${DB_SECRET_NAME}:latest,SERVICE_TOKEN=${SERVICE_TOKEN_SECRET_NAME}:latest")
+          elif [[ -n "${DB_SECRET_NAME}" ]]; then
+            args+=(--set-secrets "DATABASE_URL=${DB_SECRET_NAME}:latest")
+          elif [[ -n "${SERVICE_TOKEN_SECRET_NAME}" ]]; then
+            args+=(--set-secrets "SERVICE_TOKEN=${SERVICE_TOKEN_SECRET_NAME}:latest")
+          fi
+
+          gcloud run deploy "${SERVICE}" "${args[@]}"
 
       - name: Capture service URL
         id: service_url
