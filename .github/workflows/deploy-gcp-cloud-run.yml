@@ -92,8 +92,34 @@ jobs:
         shell: bash
         run: |
           IMAGE="${REGION}-docker.pkg.dev/${PROJECT_ID}/${AR_REPOSITORY}/${SERVICE}:${GITHUB_SHA}"
-          gcloud builds submit web --tag "${IMAGE}"
+          BUILD_ID="$(gcloud builds submit web --tag "${IMAGE}" --async --format='value(id)')"
+          echo "build_id=${BUILD_ID}" >> "${GITHUB_OUTPUT}"
           echo "image=${IMAGE}" >> "${GITHUB_OUTPUT}"
+
+          for _ in {1..120}; do
+            STATUS="$(gcloud builds describe "${BUILD_ID}" --format='value(status)')"
+            echo "Cloud Build status: ${STATUS}"
+            case "${STATUS}" in
+              SUCCESS)
+                break
+                ;;
+              FAILURE|INTERNAL_ERROR|TIMEOUT|CANCELLED|EXPIRED)
+                gcloud builds describe "${BUILD_ID}" \
+                  --format='yaml(status,logUrl,images,results.failureInfo)'
+                echo "Cloud Build failed with status: ${STATUS}"
+                exit 1
+                ;;
+            esac
+            sleep 5
+          done
+
+          FINAL_STATUS="$(gcloud builds describe "${BUILD_ID}" --format='value(status)')"
+          if [[ "${FINAL_STATUS}" != "SUCCESS" ]]; then
+            gcloud builds describe "${BUILD_ID}" \
+              --format='yaml(status,logUrl,images,results.failureInfo)'
+            echo "Cloud Build did not reach SUCCESS in expected time window."
+            exit 1
+          fi
 
       - name: Deploy to Cloud Run
         shell: bash
