@@ -33,6 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </Link>
             <nav className="site-nav">
               <Link href="/">Events</Link>
+              <Link href="/events/stream">Event Stream</Link>
               <Link href="/timelines">Timelines</Link>
               <Link href="/calendar/09-15">On This Day</Link>
               <Link href="/admin">Admin</Link>

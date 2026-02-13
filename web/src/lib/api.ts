@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { isDatabaseUnavailableMessage } from "@/lib/runtime";
+import { isDatabaseUnavailableError, isDatabaseUnavailableMessage, toErrorMessage } from "@/lib/runtime";
 
 export function ok(data: unknown, status = 200) {
   return NextResponse.json({ data }, { status });
@@ -51,14 +51,18 @@ export function conflict(message = "Conflict") {
   );
 }
 
-export function serverError(message = "Internal server error") {
-  if (isDatabaseUnavailableMessage(message)) {
+export function serverError(input: string | unknown = "Internal server error") {
+  const message = typeof input === "string" ? input : toErrorMessage(input);
+  const isDbUnavailable = isDatabaseUnavailableError(input) || isDatabaseUnavailableMessage(message);
+
+  if (isDbUnavailable) {
+    const originalMessage = message && message.trim().length > 0 ? message : "Database connection error";
     return NextResponse.json(
       {
         error: {
           code: "SERVICE_UNAVAILABLE",
           message: "Database is unavailable. Configure DATABASE_URL or run demo mode.",
-          details: { original_message: message },
+          details: { original_message: originalMessage },
         },
       },
       { status: 503 },
@@ -66,7 +70,7 @@ export function serverError(message = "Internal server error") {
   }
 
   return NextResponse.json(
-    { error: { code: "INTERNAL_ERROR", message, details: {} } },
+    { error: { code: "INTERNAL_ERROR", message: message || "Internal server error", details: {} } },
     { status: 500 },
   );
 }

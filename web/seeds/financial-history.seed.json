@@ -1834,6 +1834,578 @@
       "publisher": "Wikipedia",
       "access_date": "2026-02-12",
       "notes_on_reliability": "Secondary chronology reference for the 1976 Tiananmen mourning protests and crackdown date anchor."
+    },
+    {
+      "source_name": "WHO Timeline - COVID-19 (notification of cluster in Wuhan)",
+      "source_url": "https://www.who.int/news/item/27-04-2020-who-timeline---covid-19",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO DG Statement on Emergency Committee (PHEIC declaration, 2020-01-30)",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-statement-on-ihr-emergency-committee-on-novel-coronavirus-(2019-ncov)",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO DG Opening Remarks - COVID-19 Media Briefing (Pandemic declaration, 2020-03-11)",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Congress.gov - CARES Act (H.R.748)",
+      "source_url": "https://www.congress.gov/bill/116th-congress/house-bill/748",
+      "source_type": "official",
+      "publisher": "U.S. Congress",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Federal Reserve Press Release (2020-04-09) - Additional support for the economy",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200409a.htm",
+      "source_type": "official",
+      "publisher": "Federal Reserve",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "FDA issues first COVID-19 vaccine EUA (2020-12-11)",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19",
+      "source_type": "official",
+      "publisher": "U.S. Food and Drug Administration",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO classification of Omicron as a Variant of Concern (2021-11-26)",
+      "source_url": "https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council (PRC) policy watch on optimizing COVID response (2022-12-07)",
+      "source_url": "https://english.www.gov.cn/policies/policywatch/202212/07/content_WS639026f6c6d0a757729e4e46.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO statement on fifteenth IHR emergency committee meeting (end of PHEIC, 2023-05-05)",
+      "source_url": "https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-ihr-(2005)-emergency-committee-on-the-covid-19-pandemic",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Xinhua: Wuhan to temporarily close outbound transport channels (2020-01-23)",
+      "source_url": "https://www.news.cn/english/2020-01/23/c_138729318.htm",
+      "source_type": "official",
+      "publisher": "Xinhua News Agency",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Xinhua: Wuhan lifts outbound travel restrictions (2020-04-08)",
+      "source_url": "https://www.news.cn/english/2020-04/08/c_138958581.htm",
+      "source_type": "official",
+      "publisher": "Xinhua News Agency",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council: China approves first self-developed COVID-19 vaccine for conditional market use (2020-12-31)",
+      "source_url": "https://english.www.gov.cn/news/topnews/202012/31/content_WS5fed6440c6d0f72576942c83.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council: China optimizes COVID-19 response with 20 measures (2022-11-11)",
+      "source_url": "https://english.www.gov.cn/news/topnews/202211/11/content_WS636e31efc6d0a757729e2e63.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Xinhua: China to manage COVID-19 with Class B measures from Jan 8 (2022-12-27)",
+      "source_url": "https://english.news.cn/20221227/e741f7606c0548bd931b9040532ad516/c.html",
+      "source_type": "official",
+      "publisher": "Xinhua News Agency",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council Ministries: China enters new phase of COVID response from Jan 8 (2023-01-09)",
+      "source_url": "https://english.www.gov.cn/statecouncil/ministries/202301/09/content_WS63bb82bcc6d0a757729e5483.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Xinhua: China confirms human-to-human transmission of 2019-nCoV (2020-01-21)",
+      "source_url": "https://www.xinhuanet.com/english/2020-01/21/c_138721933.htm",
+      "source_type": "official",
+      "publisher": "Xinhua News Agency",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO DG remarks (2020-02-11): disease officially named COVID-19",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO DG remarks (2020-03-18): launch of Solidarity trial",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---18-march-2020",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO: global leaders launch ACT-Accelerator (2020-04-24)",
+      "source_url": "https://www.who.int/news/item/24-04-2020-global-leaders-unite-to-ensure-everyone-everywhere-can-access-new-vaccines-tests-and-treatments-for-covid-19",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO: first COVAX shipment reaches Ghana (2021-02-24)",
+      "source_url": "https://www.who.int/news/item/24-02-2021-covid-19-vaccine-doses-shipped-by-the-covax-facility-head-to-ghana-marking-beginning-of-global-rollout",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO: Sinopharm vaccine listed for emergency use (2021-05-07)",
+      "source_url": "https://www.who.int/news/item/07-05-2021-who-lists-additional-covid-19-vaccine-for-emergency-use-and-issues-interim-policy-recommendations",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council (PRC): notice on regular COVID prevention and control work (2020-05-08)",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2020-05/08/content_5509896.htm",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council: white paper 'Fighting COVID-19: China in Action' released (2020-06-07)",
+      "source_url": "https://english.www.gov.cn/news/topnews/202006/07/content_WS5edc1f8bc6d0b3f0e9497f8f.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council: vigilance against resurgence and response measures (2021-01-20)",
+      "source_url": "https://english.www.gov.cn/policies/latestreleases/202101/20/content_WS6007b4a3c6d0f72576944014.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Xinhua: Shanghai to lock down in two phases for citywide testing (2022-03-31)",
+      "source_url": "https://english.news.cn/20220331/c07ba5f134bd4b88aab2b9e4ee2d2728/c.html",
+      "source_type": "official",
+      "publisher": "Xinhua News Agency",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council: work plan to strengthen rural COVID response during transition (2022-12-31)",
+      "source_url": "https://english.www.gov.cn/policies/latestreleases/202212/31/content_WS63b026d0c6d0a757729e4e32.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "State Council: China releases 10th edition of COVID prevention and control protocol (2023-01-07)",
+      "source_url": "https://english.www.gov.cn/news/topnews/202301/07/content_WS63b8c503c6d0a757729e5478.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "CNBC: China confirms coronavirus can pass person-to-person (2020-01-21)",
+      "source_url": "https://www.cnbc.com/2020/01/21/china-coronavirus-human-to-human-transmission-confirmed.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "International business media report providing non-PRC-official coverage of early transmission disclosure."
+    },
+    {
+      "source_name": "BBC: Wuhan lockdown - A year of China's fight against Covid (2021-01-22)",
+      "source_url": "https://www.bbc.com/news/world-asia-china-55628488",
+      "source_type": "news",
+      "publisher": "BBC News",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent international media timeline covering lockdown, reopening, and subsequent control phases."
+    },
+    {
+      "source_name": "CBS/AP: China eases zero-COVID restrictions with 20-point plan (2022-11-11)",
+      "source_url": "https://www.cbsnews.com/news/china-covid-lockdown-restrictions-eased-slightly-travel-quarantine/",
+      "source_type": "news",
+      "publisher": "CBS News / Associated Press",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Non-China media report tied to the nationally announced 20-point optimization package."
+    },
+    {
+      "source_name": "The Guardian: China allows home quarantine as COVID restrictions eased (2022-12-07)",
+      "source_url": "https://www.theguardian.com/world/2022/dec/07/china-covid-home-quarantine-restrictions-eased-nationwide",
+      "source_type": "news",
+      "publisher": "The Guardian",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent reporting on policy easing scope and implementation after nationwide tightening period."
+    },
+    {
+      "source_name": "CNBC: China is shutting down Shanghai in two phases (2022-03-28)",
+      "source_url": "https://www.cnbc.com/2022/03/28/china-is-shutting-down-shanghai-in-two-phases.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "International coverage of phased Shanghai lockdown and market-sensitive operational impact."
+    },
+    {
+      "source_name": "WHO statement: meeting with Chinese officials on current COVID-19 situation (2022-12-30)",
+      "source_url": "https://www.who.int/news/item/30-12-2022-who-meets-with-chinese-officials-on-current-covid-19-situation",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Non-PRC multilateral public-health source documenting data-sharing requests and transition conditions."
+    },
+    {
+      "source_name": "WHO statement: welcomes COVID-19 data from China after ministerial meeting (2023-01-14)",
+      "source_url": "https://www.who.int/news/item/14-01-2023-who-welcomes-data-on-covid-19-in-china--meeting-with-minister",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "External institutional confirmation and interpretation of China's released hospitalization and mortality data."
+    },
+    {
+      "source_name": "WHO TAG-VE statement on COVID-19 situation in China (2023-01-04)",
+      "source_url": "https://www.who.int/news/item/04-01-2023-tag-ve-statement-on-the-3rd-january-meeting-on-the-covid-19-situation-in-china",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent technical advisory summary on genomic data presented by China CDC during transition period."
+    },
+    {
+      "source_name": "AP: China says 200 million treated as zero-COVID exit wave peaks (2023-02-17)",
+      "source_url": "https://apnews.com/article/61d2e8c7599b3bf9fe6a08615fb5d82a",
+      "source_type": "news",
+      "publisher": "Associated Press",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent wire coverage capturing post-policy-shift epidemiological claims and external skepticism context."
+    },
+    {
+      "source_name": "PBS FRONTLINE: Timeline of China's response in the first days of COVID-19",
+      "source_url": "https://www.pbs.org/wgbh/frontline/article/a-timeline-of-chinas-response-in-the-first-days-of-covid-19/",
+      "source_type": "news",
+      "publisher": "PBS FRONTLINE",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent long-form timeline synthesis used as contextual cross-check for early policy sequence."
+    },
+    {
+      "source_name": "NHC daily briefing: Hubei adds clinically diagnosed cases (2020-02-13)",
+      "source_url": "https://en.nhc.gov.cn/2020-02/13/c_76512.htm",
+      "source_type": "official",
+      "publisher": "National Health Commission of the PRC",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Primary daily bulletin documenting the case-definition adjustment and resulting one-day reporting jump."
+    },
+    {
+      "source_name": "TIME: Why Hubei's reported case count jumped (2020-02-13)",
+      "source_url": "https://time.com/5783401/covid19-hubei-cases-classification/",
+      "source_type": "news",
+      "publisher": "TIME",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent international reporting used to contextualize interpretation of the case-definition change."
+    },
+    {
+      "source_name": "State Council: China to hold national mourning for COVID-19 victims (2020-04-03)",
+      "source_url": "https://english.www.gov.cn/policies/latestreleases/202004/03/content_WS5e868c35c6d0c201c2cc00e3.html",
+      "source_type": "official",
+      "publisher": "The State Council of the People's Republic of China",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "CNBC: China mourns COVID-19 victims nationwide (2020-04-04)",
+      "source_url": "https://www.cnbc.com/2020/04/04/china-mourns-thousands-who-died-in-countrys-coronavirus-epidemic.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent non-PRC media coverage of the national mourning implementation."
+    },
+    {
+      "source_name": "WHO: Cluster of COVID-19 cases in Beijing (Xinfadi) (2020-06-13)",
+      "source_url": "https://www.who.int/news/item/13-06-2020-a-cluster-of-covid-19-in-beijing-people-s-republic-of-china",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "CNBC: Beijing district enters wartime emergency mode amid Xinfadi outbreak (2020-06-13)",
+      "source_url": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "International reporting (Reuters-based) on restrictions and case cluster scale."
+    },
+    {
+      "source_name": "NHC: Source of Qingdao outbreak identified (2020-10-20)",
+      "source_url": "https://en.nhc.gov.cn/2020-10/20/c_81915.htm",
+      "source_type": "official",
+      "publisher": "National Health Commission of the PRC",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Al Jazeera: Qingdao to test whole city after cluster (2020-10-12)",
+      "source_url": "https://www.aljazeera.com/news/2020/10/12/china-to-test-entire-city-of-qingdao-after-covid-19-cases-appear",
+      "source_type": "news",
+      "publisher": "Al Jazeera",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent non-PRC media coverage of the citywide testing response."
+    },
+    {
+      "source_name": "NHC: Delta variant detected in Nanjing outbreak (2021-07-28)",
+      "source_url": "https://en.nhc.gov.cn/2021-07/28/c_84238.htm",
+      "source_type": "official",
+      "publisher": "National Health Commission of the PRC",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "The Guardian: Nanjing outbreak and mobility controls (2021-07-29)",
+      "source_url": "https://www.theguardian.com/world/2021/jul/29/city-of-nanjing-isolated-as-china-fights-worst-covid-outbreak-in-months",
+      "source_type": "news",
+      "publisher": "The Guardian",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent non-PRC media coverage of spread and control measures."
+    },
+    {
+      "source_name": "NHC: Xi'an imposes citywide closed management (2021-12-23)",
+      "source_url": "https://en.nhc.gov.cn/2021-12/23/c_85427.htm",
+      "source_type": "official",
+      "publisher": "National Health Commission of the PRC",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "The Guardian: Xi'an lockdown of 13 million residents (2021-12-23)",
+      "source_url": "https://www.theguardian.com/world/2021/dec/23/china-locks-down-13-million-people-in-xian-after-detecting-127-covid-cases",
+      "source_type": "news",
+      "publisher": "The Guardian",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent non-PRC report on lockdown scope and restrictions."
+    },
+    {
+      "source_name": "Euronews/Reuters: Shanghai to lift city lockdown from June 1 (2022-05-31)",
+      "source_url": "https://www.euronews.com/2022/05/31/us-health-coronavirus-china-shanghai",
+      "source_type": "news",
+      "publisher": "Euronews (Reuters)",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Reuters wire report hosted by Euronews with date-specific policy details."
+    },
+    {
+      "source_name": "The Guardian: Shanghai lockdown easing and reopening details (2022-05-31)",
+      "source_url": "https://www.theguardian.com/world/2022/may/31/shanghai-starts-to-dismantle-fences-as-covid-lockdown-due-to-end",
+      "source_type": "news",
+      "publisher": "The Guardian",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "China Daily: Zhengzhou probes health code misuse involving depositors (2022-06-17)",
+      "source_url": "https://global.chinadaily.com.cn/a/202206/17/WS62ac7ceba310fd2b29e635ff.html",
+      "source_type": "official",
+      "publisher": "China Daily",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Euronews/Reuters: Henan bank protest blocked by red health codes (2022-06-15)",
+      "source_url": "https://www.euronews.com/2022/06/15/china-banks-henan",
+      "source_type": "news",
+      "publisher": "Euronews (Reuters)",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent Reuters coverage of the red-code controversy before local accountability action."
+    },
+    {
+      "source_name": "AP: Bus carrying quarantine transferees crashes in Guizhou (2022-09-18)",
+      "source_url": "https://www.ksat.com/news/world/2022/09/18/bus-for-covid-19-quarantine-in-china-crashes-killing-27/",
+      "source_type": "news",
+      "publisher": "Associated Press (via KSAT)",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "AP report with casualty figures and official statements on the transfer vehicle."
+    },
+    {
+      "source_name": "The Guardian: Guizhou quarantine bus crash and policy backlash (2022-09-19)",
+      "source_url": "https://www.theguardian.com/world/2022/sep/19/anger-in-china-after-27-people-killed-in-covid-quarantine-bus-crash",
+      "source_type": "news",
+      "publisher": "The Guardian",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent reporting on public reaction and zero-COVID policy scrutiny."
+    },
+    {
+      "source_name": "Xinhua via China.org: 10 killed in Urumqi residential fire (2022-11-25)",
+      "source_url": "https://www.china.org.cn/china/2022-11/25/content_78536574.htm",
+      "source_type": "official",
+      "publisher": "Xinhua / China.org.cn",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "The Guardian: Urumqi fire prompts anti-lockdown protests (2022-11-26)",
+      "source_url": "https://www.theguardian.com/world/2022/nov/26/covid-lockdown-protests-break-out-in-western-china-after-deadly-fire",
+      "source_type": "news",
+      "publisher": "The Guardian",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent non-PRC reporting on protests and official response context."
+    },
+    {
+      "source_name": "People's Daily: China ends digital travel code service (2022-12-12)",
+      "source_url": "https://en.people.cn/n3/2022/1212/c90000-10182916.html",
+      "source_type": "official",
+      "publisher": "People's Daily",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "CNBC: China removes itinerary tracking app (2022-12-13)",
+      "source_url": "https://www.cnbc.com/2022/12/13/china-axes-travel-tracking-app-in-latest-easing-of-covid-curbs.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent non-PRC coverage on the travel-code shutdown and policy transition."
+    },
+    {
+      "source_name": "WHO Situation Report 15 (Diamond Princess quarantine period, 2020-02-04)",
+      "source_url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200204-sitrep-15-ncov.pdf",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "BBC: Coronavirus - Diamond Princess passengers allowed to leave (2020-02-19)",
+      "source_url": "https://www.bbc.com/news/world-asia-51409801",
+      "source_type": "news",
+      "publisher": "BBC News",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Independent coverage of the quarantine timeline and case escalation onboard."
+    },
+    {
+      "source_name": "Spain BOE Royal Decree 463/2020 declaring State of Alarm (2020-03-14)",
+      "source_url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3692",
+      "source_type": "official",
+      "publisher": "Boletin Oficial del Estado (Spain)",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "BBC: Spain enforces nationwide lockdown (2020-03-14)",
+      "source_url": "https://www.bbc.com/news/world-europe-51892477",
+      "source_type": "news",
+      "publisher": "BBC News",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "California Executive Order N-33-20 statewide stay-at-home order (2020-03-19)",
+      "source_url": "https://www.gov.ca.gov/wp-content/uploads/2020/03/3.19.20-attested-EO-N-33-20-COVID-19-HEALTH-ORDER.pdf",
+      "source_type": "official",
+      "publisher": "Office of the Governor of California",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "CNBC: California issues statewide stay-at-home order (2020-03-19)",
+      "source_url": "https://www.cnbc.com/2020/03/19/california-gov-newsom-orders-statewide-home-isolation.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "UK Gov: PM address to the nation on coronavirus (2020-03-23)",
+      "source_url": "https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-23-march-2020",
+      "source_type": "official",
+      "publisher": "UK Government",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "BBC: Boris Johnson announces strict UK lockdown (2020-03-23)",
+      "source_url": "https://www.bbc.com/news/uk-52012432",
+      "source_type": "news",
+      "publisher": "BBC News",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "WHO Situation Report 73 (global confirmed cases exceed 1 million, 2020-04-02)",
+      "source_url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf",
+      "source_type": "official",
+      "publisher": "World Health Organization",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Pfizer/BioNTech Phase 3 interim efficacy announcement (2020-11-09)",
+      "source_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against",
+      "source_type": "research",
+      "publisher": "Pfizer",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Primary issuer announcement of interim trial efficacy readout."
+    },
+    {
+      "source_name": "CNBC: Pfizer says vaccine is over 90% effective (2020-11-09)",
+      "source_url": "https://www.cnbc.com/2020/11/09/pfizer-covid-vaccine-is-more-than-90percent-effective-in-preventing-infection.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Moderna Phase 3 COVE interim efficacy announcement (2020-11-16)",
+      "source_url": "https://investors.modernatx.com/news/news-details/2020/Moderna-Announces-Primary-Efficacy-Analysis-in-Phase-3-COVE-Study-for-Its-COVID-19-Vaccine-Candidate-and-Filing-Today-with-U.S.-FDA-for-Emergency-Use-Authorization/default.aspx",
+      "source_type": "research",
+      "publisher": "Moderna",
+      "access_date": "2026-02-13",
+      "notes_on_reliability": "Primary issuer announcement of interim trial efficacy readout."
+    },
+    {
+      "source_name": "CNBC: Moderna says vaccine is more than 94% effective (2020-11-16)",
+      "source_url": "https://www.cnbc.com/2020/11/16/moderna-says-its-covid-vaccine-is-more-than-94percent-effective.html",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "UK Gov: Regulatory approval of Pfizer/BioNTech vaccine (2020-12-02)",
+      "source_url": "https://www.gov.uk/government/news/regulatory-approval-of-pfizer-biontech-vaccine-for-covid-19",
+      "source_type": "official",
+      "publisher": "UK Government",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "BBC: UK approves Pfizer-BioNTech Covid vaccine (2020-12-02)",
+      "source_url": "https://www.bbc.com/news/health-55145696",
+      "source_type": "news",
+      "publisher": "BBC News",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "UK Gov: Prime Minister confirms Step 4 (England reopening) will go ahead (2021-07-12)",
+      "source_url": "https://www.gov.uk/government/news/prime-minister-confirms-step-4-will-go-ahead",
+      "source_type": "official",
+      "publisher": "UK Government",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "BBC: England's 'Freedom Day' begins with most legal restrictions lifted (2021-07-19)",
+      "source_url": "https://www.bbc.com/news/uk-57809691",
+      "source_type": "news",
+      "publisher": "BBC News",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "HHS fact sheet on end of U.S. COVID-19 Public Health Emergency (2023-05-09)",
+      "source_url": "https://www.hhs.gov/about/news/2023/05/09/fact-sheet-end-covid-19-public-health-emergency.html",
+      "source_type": "official",
+      "publisher": "U.S. Department of Health and Human Services",
+      "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "NPR: U.S. COVID public health emergency ends (2023-05-11)",
+      "source_url": "https://www.npr.org/2023/05/11/1175465317/covid-public-health-emergency-ends",
+      "source_type": "news",
+      "publisher": "NPR",
+      "access_date": "2026-02-13"
     }
   ],
   "events": [
@@ -5604,6 +6176,582 @@
       "importance_score": 5,
       "confidence_score": 4,
       "status": "published"
+    },
+    {
+      "slug": "covid-who-cluster-notification-2019-12-31",
+      "title": "WHO is informed of pneumonia cluster in Wuhan",
+      "event_date": "2019-12-31",
+      "region": "Global",
+      "category": "Public Health Alert",
+      "summary": "WHO's country office in China was informed of pneumonia cases of unknown cause in Wuhan.",
+      "impact": "Marked the formal start of global risk monitoring that would later drive cross-asset repricing.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-who-pheic-2020-01-30",
+      "title": "WHO declares COVID-19 a Public Health Emergency of International Concern",
+      "event_date": "2020-01-30",
+      "region": "Global",
+      "category": "Public Health Policy",
+      "summary": "WHO declared a PHEIC under the International Health Regulations for the novel coronavirus outbreak.",
+      "impact": "Accelerated emergency preparedness and raised expectations for coordinated policy intervention.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-who-pandemic-declaration-2020-03-11",
+      "title": "WHO characterizes COVID-19 as a pandemic",
+      "event_date": "2020-03-11",
+      "region": "Global",
+      "category": "Public Health Policy",
+      "summary": "WHO announced that COVID-19 could be characterized as a pandemic as transmission broadened globally.",
+      "impact": "Triggered rapid flight-to-safety positioning, volatility spikes, and emergency policy escalation.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-us-cares-act-signed-2020-03-27",
+      "title": "U.S. enacts the CARES Act fiscal package",
+      "event_date": "2020-03-27",
+      "region": "United States",
+      "category": "Fiscal Policy",
+      "summary": "The CARES Act was enacted to provide large-scale fiscal support to households, firms, and public services.",
+      "impact": "Reduced near-term solvency risk and supported a stabilization in credit and equity pricing.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-fed-credit-facilities-expanded-2020-04-09",
+      "title": "Fed expands emergency credit facilities during pandemic stress",
+      "event_date": "2020-04-09",
+      "region": "United States",
+      "category": "Liquidity Backstop",
+      "summary": "The Federal Reserve announced additional and expanded facilities to support households, businesses, and state and local governments.",
+      "impact": "Helped cap funding stress and narrow credit spreads across core and risk segments.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-first-vaccine-eua-us-2020-12-11",
+      "title": "FDA issues first U.S. COVID-19 vaccine emergency authorization",
+      "event_date": "2020-12-11",
+      "region": "United States",
+      "category": "Vaccine Policy",
+      "summary": "FDA granted the first emergency use authorization for a COVID-19 vaccine in the United States.",
+      "impact": "Improved reopening expectations and supported rotation toward growth-sensitive sectors.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-omicron-designated-voc-2021-11-26",
+      "title": "WHO designates Omicron as a Variant of Concern",
+      "event_date": "2021-11-26",
+      "region": "Global",
+      "category": "Variant Risk",
+      "summary": "WHO classified Omicron (B.1.1.529) as a Variant of Concern amid uncertainty over transmissibility and immune escape.",
+      "impact": "Repriced reopening trajectories, raised volatility, and renewed demand for safe-haven assets.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-response-optimization-2022-12-07",
+      "title": "China announces broad optimization of COVID response measures",
+      "event_date": "2022-12-07",
+      "region": "China",
+      "category": "Reopening Policy",
+      "summary": "Chinese authorities issued measures to optimize epidemic control and reduce broad movement restrictions.",
+      "impact": "Shifted expectations for domestic reopening and global demand across commodities and supply chains.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-who-ends-pheic-2023-05-05",
+      "title": "WHO ends the COVID-19 global emergency phase (PHEIC)",
+      "event_date": "2023-05-05",
+      "region": "Global",
+      "category": "Public Health Policy",
+      "summary": "WHO accepted advice to end COVID-19's status as a Public Health Emergency of International Concern.",
+      "impact": "Signaled transition from acute emergency management toward medium-term normalization of policy and risk pricing.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-wuhan-lockdown-2020-01-23",
+      "title": "Wuhan suspends outbound transport and city-wide mobility tightens",
+      "event_date": "2020-01-23",
+      "region": "China",
+      "category": "Containment Policy",
+      "summary": "Authorities announced temporary closure of outbound transport channels from Wuhan as emergency containment measures escalated.",
+      "impact": "Signaled severe domestic disruption risk and triggered sharp repricing of China-related growth and supply-chain expectations.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-wuhan-reopens-2020-04-08",
+      "title": "Wuhan lifts outbound travel restrictions after 76-day lockdown",
+      "event_date": "2020-04-08",
+      "region": "China",
+      "category": "Reopening Policy",
+      "summary": "Wuhan reopened outbound channels and began transition from emergency shutdown to phased normalization.",
+      "impact": "Improved sentiment on domestic activity restart and global manufacturing recovery assumptions.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-first-domestic-vaccine-approval-2020-12-31",
+      "title": "China grants conditional market approval to first domestic COVID-19 vaccine",
+      "event_date": "2020-12-31",
+      "region": "China",
+      "category": "Vaccine Policy",
+      "summary": "Chinese regulators approved the first domestically developed COVID-19 vaccine for conditional market use.",
+      "impact": "Strengthened reopening expectations and supported plans for broader immunization and mobility normalization.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-twenty-measures-2022-11-11",
+      "title": "China issues '20 measures' to optimize epidemic control",
+      "event_date": "2022-11-11",
+      "region": "China",
+      "category": "Reopening Policy",
+      "summary": "Authorities released twenty measures aimed at improving control precision and reducing overly broad restrictions.",
+      "impact": "Markets repriced domestic reopening paths and near-term demand prospects in China-sensitive sectors.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-class-b-announced-2022-12-26",
+      "title": "China announces shift to Class B management for COVID-19",
+      "event_date": "2022-12-26",
+      "region": "China",
+      "category": "Public Health Policy",
+      "summary": "China announced that COVID-19 management would be adjusted to Class B from January 8, 2023.",
+      "impact": "Marked a decisive policy pivot, changing expectations for mobility, services demand, and regional supply chains.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-new-phase-begins-2023-01-08",
+      "title": "China enters new COVID response phase under Class B management",
+      "event_date": "2023-01-08",
+      "region": "China",
+      "category": "Reopening Policy",
+      "summary": "China entered the new response phase with Class B management and related border and mobility policy adjustments.",
+      "impact": "Accelerated market focus on reopening-driven normalization in consumption, travel, and external demand linkages.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-human-transmission-confirmed-2020-01-20",
+      "title": "China confirms human-to-human transmission of the novel coronavirus",
+      "event_date": "2020-01-20",
+      "region": "China",
+      "category": "Public Health Alert",
+      "summary": "A national expert team confirmed person-to-person transmission and infections among medical staff.",
+      "impact": "Marked a key escalation point that accelerated domestic containment measures and global risk repricing.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-who-names-disease-2020-02-11",
+      "title": "WHO formally names the disease COVID-19",
+      "event_date": "2020-02-11",
+      "region": "Global",
+      "category": "Public Health Policy",
+      "summary": "WHO announced the official disease name COVID-19 under international naming guidance.",
+      "impact": "Improved global policy coordination and standardized risk communication across jurisdictions.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-who-solidarity-trial-launch-2020-03-18",
+      "title": "WHO launches the international Solidarity therapeutics trial",
+      "event_date": "2020-03-18",
+      "region": "Global",
+      "category": "Clinical Research Coordination",
+      "summary": "WHO and partners launched the multinational Solidarity trial to evaluate COVID-19 treatments at scale.",
+      "impact": "Strengthened evidence-generation infrastructure and reduced fragmentation in emergency treatment research.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-act-accelerator-launch-2020-04-24",
+      "title": "Global leaders launch ACT-Accelerator for tools access",
+      "event_date": "2020-04-24",
+      "region": "Global",
+      "category": "Global Health Financing",
+      "summary": "WHO and partners launched the ACT-Accelerator framework to speed development and equitable access to tests, treatments, and vaccines.",
+      "impact": "Institutionalized multilateral financing and procurement channels for pandemic-response tools.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-covax-first-shipment-2021-02-24",
+      "title": "First COVAX vaccine shipment reaches Ghana",
+      "event_date": "2021-02-24",
+      "region": "Global",
+      "category": "Vaccine Distribution",
+      "summary": "WHO and COVAX partners announced the first delivered COVAX shipment outside India, marking the start of multilateral rollout.",
+      "impact": "Reduced distribution concentration risk and advanced global vaccination expectations in lower-income economies.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-who-sinopharm-eul-2021-05-07",
+      "title": "WHO grants emergency use listing to Sinopharm vaccine",
+      "event_date": "2021-05-07",
+      "region": "Global",
+      "category": "Vaccine Policy",
+      "summary": "WHO added Sinopharm's COVID-19 vaccine to emergency use listing, enabling wider regulatory and COVAX pathways.",
+      "impact": "Expanded global vaccine supply options and supported broader reopening timelines in multiple markets.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-regularized-control-framework-2020-05-08",
+      "title": "China issues framework for normalized COVID prevention and control",
+      "event_date": "2020-05-08",
+      "region": "China",
+      "category": "Containment Governance",
+      "summary": "The State Council released guidance to shift from emergency response toward normalized prevention and control arrangements.",
+      "impact": "Provided policy predictability for phased reopening and reduced uncertainty for domestic production and logistics planning.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-white-paper-in-action-2020-06-07",
+      "title": "China publishes official white paper on COVID response",
+      "event_date": "2020-06-07",
+      "region": "China",
+      "category": "Policy Communication",
+      "summary": "China released the white paper 'Fighting COVID-19: China in Action' outlining response measures and timeline.",
+      "impact": "Improved external policy visibility and informed global expectations on China's reopening and supply-chain continuity.",
+      "importance_score": 3,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-resurgence-guardrails-2021-01-20",
+      "title": "China reinforces anti-resurgence controls during winter wave risk",
+      "event_date": "2021-01-20",
+      "region": "China",
+      "category": "Containment Policy",
+      "summary": "Authorities emphasized stricter control in key areas and stronger testing and tracing readiness against renewed outbreaks.",
+      "impact": "Tempered near-term mobility expectations while supporting continuity of industrial output under targeted controls.",
+      "importance_score": 3,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-shanghai-two-phase-lockdown-2022-03-31",
+      "title": "Shanghai begins two-phase city lockdown for mass testing",
+      "event_date": "2022-03-31",
+      "region": "China",
+      "category": "Urban Outbreak Response",
+      "summary": "Shanghai implemented phased closure and large-scale testing as local outbreaks intensified.",
+      "impact": "Increased near-term disruption risk for ports, manufacturing, and domestic logistics with global spillovers.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-rural-transition-plan-2022-12-31",
+      "title": "China issues rural healthcare support plan during COVID transition",
+      "event_date": "2022-12-31",
+      "region": "China",
+      "category": "Health System Capacity",
+      "summary": "Authorities announced work arrangements to strengthen rural treatment capacity and referral mechanisms during policy transition.",
+      "impact": "Reduced tail-risk concerns around healthcare bottlenecks and supported expectations for smoother reopening execution.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-protocol-10th-edition-2023-01-07",
+      "title": "China releases 10th edition COVID prevention and control protocol",
+      "event_date": "2023-01-07",
+      "region": "China",
+      "category": "Reopening Policy",
+      "summary": "The updated protocol set detailed operational guidance under the new management phase entering 2023.",
+      "impact": "Clarified implementation rules for the post-pivot period, improving visibility for mobility and business normalization.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-clinical-diagnosis-reclassification-2020-02-13",
+      "title": "Hubei case-definition change triggers one-day jump in reported infections",
+      "event_date": "2020-02-13",
+      "region": "China",
+      "category": "Data Classification",
+      "summary": "Health authorities in Hubei began counting clinically diagnosed cases as confirmed in official tallies, producing a sharp one-day increase in reported infections.",
+      "impact": "The revision changed how global observers interpreted China's epidemic curve and highlighted uncertainty around cross-country case comparability.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-national-mourning-day-2020-04-04",
+      "title": "China holds nationwide COVID-19 mourning observance",
+      "event_date": "2020-04-04",
+      "region": "China",
+      "category": "Public Memorial",
+      "summary": "China held a national day of mourning for people who died during the outbreak response, with flags lowered and public silence observed.",
+      "impact": "The event marked a symbolic transition in domestic pandemic narrative and affected confidence signals around policy stabilization.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-beijing-xinfadi-cluster-2020-06-13",
+      "title": "Beijing responds to Xinfadi market cluster with targeted emergency controls",
+      "event_date": "2020-06-13",
+      "region": "China",
+      "category": "Local Outbreak Control",
+      "summary": "Authorities launched targeted restrictions and broad tracing around the Xinfadi wholesale market after a new Beijing cluster was detected.",
+      "impact": "The response became a key template for later localized containment, affecting expectations for mobility and supply continuity risk.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-qingdao-citywide-testing-2020-10-12",
+      "title": "Qingdao initiates citywide testing after hospital-linked cluster",
+      "event_date": "2020-10-12",
+      "region": "China",
+      "category": "Mass Testing",
+      "summary": "Qingdao began rapid citywide nucleic-acid testing after local infections linked to a hospital cluster were reported.",
+      "impact": "The campaign reinforced expectations that large-scale testing would be used to suppress flare-ups while preserving wider economic activity.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-nanjing-lukou-outbreak-2021-07-20",
+      "title": "Nanjing Lukou airport outbreak sparks multi-province Delta containment wave",
+      "event_date": "2021-07-20",
+      "region": "China",
+      "category": "Variant Outbreak",
+      "summary": "Local infections associated with Nanjing Lukou airport were detected and later identified as Delta-variant linked transmission.",
+      "impact": "The outbreak raised nationwide control intensity and reintroduced downside pressure on mobility-sensitive consumption sectors.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-xian-city-lockdown-2021-12-23",
+      "title": "Xi'an enters strict citywide lockdown amid rising local cases",
+      "event_date": "2021-12-23",
+      "region": "China",
+      "category": "Lockdown Policy",
+      "summary": "Xi'an implemented closed management controls for most residents as local transmission expanded in late 2021.",
+      "impact": "The move signaled continued zero-COVID enforcement before the Winter Olympics and renewed concerns about recurring local shutdown risk.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-shanghai-lockdown-lift-2022-06-01",
+      "title": "Shanghai lifts broad lockdown restrictions after two months",
+      "event_date": "2022-06-01",
+      "region": "China",
+      "category": "Reopening Policy",
+      "summary": "Shanghai reopened transport and basic movement in most low-risk areas after prolonged citywide restrictions.",
+      "impact": "Reopening eased immediate supply-chain disruption risks and shifted expectations for growth normalization, though policy uncertainty remained.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-henan-red-code-accountability-2022-06-22",
+      "title": "Henan red-code misuse case triggers official accountability action",
+      "event_date": "2022-06-22",
+      "region": "China",
+      "category": "Governance Incident",
+      "summary": "Local authorities announced disciplinary outcomes after controversy over use of health codes against bank depositors in Zhengzhou.",
+      "impact": "The incident intensified scrutiny of digital control tools, raising governance and rights-risk concerns relevant to social-stability assessments.",
+      "importance_score": 4,
+      "confidence_score": 3,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-guizhou-quarantine-bus-crash-2022-09-18",
+      "title": "Guizhou quarantine-transfer bus crash causes mass casualties",
+      "event_date": "2022-09-18",
+      "region": "China",
+      "category": "Safety Incident",
+      "summary": "A bus transporting people to a quarantine facility in Guizhou crashed, causing 27 deaths and 20 injuries.",
+      "impact": "The crash increased policy-cost scrutiny of strict control implementation and accelerated debate over operational safety in epidemic enforcement.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-urumqi-fire-2022-11-24",
+      "title": "Urumqi high-rise fire amplifies debate over lockdown-era public safety",
+      "event_date": "2022-11-24",
+      "region": "China",
+      "category": "Public Safety Incident",
+      "summary": "A residential high-rise fire in Urumqi killed 10 people and injured 9, followed by nationwide debate over restrictions and emergency access.",
+      "impact": "The event became a major social turning point in late-2022 policy sentiment and preceded faster national relaxation of strict controls.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-china-itinerary-code-offline-2022-12-13",
+      "title": "China takes national digital travel itinerary code offline",
+      "event_date": "2022-12-13",
+      "region": "China",
+      "category": "Digital Policy Shift",
+      "summary": "China ended operation of its cross-city travel tracking code system as part of broader easing in late 2022.",
+      "impact": "The shutdown reduced mobility frictions and was interpreted as a concrete systems-level rollback of zero-COVID monitoring infrastructure.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-japan-diamond-princess-quarantine-2020-02-04",
+      "title": "Diamond Princess cruise ship quarantine becomes major early offshore outbreak",
+      "event_date": "2020-02-04",
+      "region": "Japan; Global",
+      "category": "Cluster Outbreak",
+      "summary": "Japan began broad onboard quarantine and testing on Diamond Princess, which became one of the largest early COVID-19 clusters outside mainland China.",
+      "impact": "The episode shaped global risk assessment for dense enclosed settings and prompted stricter border and maritime health controls.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-spain-state-of-alarm-lockdown-2020-03-14",
+      "title": "Spain declares state of alarm and imposes nationwide lockdown",
+      "event_date": "2020-03-14",
+      "region": "Spain; Europe",
+      "category": "Lockdown Policy",
+      "summary": "Spain enacted a national state of alarm with broad movement restrictions as domestic transmission accelerated.",
+      "impact": "The policy shift reinforced Europe-wide repricing of growth and mobility risk and signaled escalating cross-country containment responses.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-us-california-stay-at-home-2020-03-19",
+      "title": "California issues first statewide U.S. stay-at-home order",
+      "event_date": "2020-03-19",
+      "region": "United States",
+      "category": "Containment Policy",
+      "summary": "California ordered residents to stay home except for essential needs, becoming the first U.S. state to adopt a statewide stay-at-home mandate.",
+      "impact": "The order set a policy precedent that influenced other states and affected expectations for U.S. consumption and labor-market activity.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-uk-national-lockdown-2020-03-23",
+      "title": "United Kingdom enters first national lockdown",
+      "event_date": "2020-03-23",
+      "region": "United Kingdom; Europe",
+      "category": "Lockdown Policy",
+      "summary": "The UK government announced legally enforceable restrictions on movement and non-essential activity across the country.",
+      "impact": "The decision intensified global expectations for synchronized advanced-economy shutdowns and deeper near-term output contraction.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-global-confirmed-cases-one-million-2020-04-02",
+      "title": "Global confirmed COVID-19 cases pass one million",
+      "event_date": "2020-04-02",
+      "region": "Global",
+      "category": "Pandemic Milestone",
+      "summary": "WHO reporting showed confirmed global cases exceeding one million as transmission accelerated across multiple regions.",
+      "impact": "The threshold reinforced recession expectations and sustained extraordinary demand for policy backstops and safe-haven assets.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-pfizer-biontech-interim-efficacy-2020-11-09",
+      "title": "Pfizer/BioNTech report strong interim Phase 3 vaccine efficacy",
+      "event_date": "2020-11-09",
+      "region": "Global",
+      "category": "Vaccine Research",
+      "summary": "Pfizer and BioNTech announced interim Phase 3 results indicating high efficacy for their mRNA vaccine candidate.",
+      "impact": "The release triggered sharp rotation toward reopening-sensitive assets and reduced tail-risk pricing tied to prolonged lockdown scenarios.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-moderna-interim-efficacy-2020-11-16",
+      "title": "Moderna reports high interim efficacy in Phase 3 vaccine trial",
+      "event_date": "2020-11-16",
+      "region": "Global",
+      "category": "Vaccine Research",
+      "summary": "Moderna reported strong interim efficacy results in its Phase 3 COVE trial, adding evidence for mRNA vaccine effectiveness.",
+      "impact": "The second major efficacy readout strengthened confidence in scalable vaccine-driven reopening paths across developed markets.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-uk-first-vaccine-authorization-2020-12-02",
+      "title": "UK grants first Western regulatory authorization for Pfizer/BioNTech vaccine",
+      "event_date": "2020-12-02",
+      "region": "United Kingdom; Global",
+      "category": "Vaccine Regulation",
+      "summary": "UK regulators authorized emergency use of the Pfizer/BioNTech COVID-19 vaccine, launching the first major Western rollout pathway.",
+      "impact": "The authorization advanced global deployment timelines and improved market expectations for a transition from crisis controls to reopening.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "covid-england-step4-freedom-day-2021-07-19",
+      "title": "England removes most legal COVID restrictions under Step 4 reopening",
+      "event_date": "2021-07-19",
+      "region": "United Kingdom; Europe",
+      "category": "Reopening Policy",
+      "summary": "England entered Step 4 and lifted most remaining legal restrictions, shifting policy emphasis toward vaccination and personal risk management.",
+      "impact": "The move became an early large-economy test case for reopening amid ongoing transmission and influenced policy debates across Europe.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "covid-us-public-health-emergency-end-2023-05-11",
+      "title": "United States ends federal COVID-19 public health emergency",
+      "event_date": "2023-05-11",
+      "region": "United States",
+      "category": "Emergency Policy",
+      "summary": "The U.S. federal COVID-19 public health emergency declaration expired, ending several temporary emergency-era health policy authorities.",
+      "impact": "The end of emergency status marked a formal regime shift for healthcare coverage, data reporting cadence, and post-pandemic policy normalization.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
     }
   ],
   "event_sources": [
@@ -7564,6 +8712,440 @@
       "event_slug": "ccp-april-fifth-tiananmen-incident-1976-04-05",
       "source_url": "https://en.wikipedia.org/wiki/April_Fifth_Movement",
       "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-cluster-notification-2019-12-31",
+      "source_url": "https://www.who.int/news/item/27-04-2020-who-timeline---covid-19",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-pheic-2020-01-30",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-statement-on-ihr-emergency-committee-on-novel-coronavirus-(2019-ncov)",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-pandemic-declaration-2020-03-11",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-us-cares-act-signed-2020-03-27",
+      "source_url": "https://www.congress.gov/bill/116th-congress/house-bill/748",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-fed-credit-facilities-expanded-2020-04-09",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200409a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-first-vaccine-eua-us-2020-12-11",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-takes-key-action-fight-against-covid-19-issuing-emergency-use-authorization-first-covid-19",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-omicron-designated-voc-2021-11-26",
+      "source_url": "https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-response-optimization-2022-12-07",
+      "source_url": "https://english.www.gov.cn/policies/policywatch/202212/07/content_WS639026f6c6d0a757729e4e46.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-ends-pheic-2023-05-05",
+      "source_url": "https://www.who.int/news/item/05-05-2023-statement-on-the-fifteenth-meeting-of-the-ihr-(2005)-emergency-committee-on-the-covid-19-pandemic",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-wuhan-lockdown-2020-01-23",
+      "source_url": "https://www.news.cn/english/2020-01/23/c_138729318.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-wuhan-reopens-2020-04-08",
+      "source_url": "https://www.news.cn/english/2020-04/08/c_138958581.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-first-domestic-vaccine-approval-2020-12-31",
+      "source_url": "https://english.www.gov.cn/news/topnews/202012/31/content_WS5fed6440c6d0f72576942c83.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-twenty-measures-2022-11-11",
+      "source_url": "https://english.www.gov.cn/news/topnews/202211/11/content_WS636e31efc6d0a757729e2e63.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-class-b-announced-2022-12-26",
+      "source_url": "https://english.news.cn/20221227/e741f7606c0548bd931b9040532ad516/c.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-new-phase-begins-2023-01-08",
+      "source_url": "https://english.www.gov.cn/statecouncil/ministries/202301/09/content_WS63bb82bcc6d0a757729e5483.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-human-transmission-confirmed-2020-01-20",
+      "source_url": "https://www.xinhuanet.com/english/2020-01/21/c_138721933.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-names-disease-2020-02-11",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-solidarity-trial-launch-2020-03-18",
+      "source_url": "https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---18-march-2020",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-act-accelerator-launch-2020-04-24",
+      "source_url": "https://www.who.int/news/item/24-04-2020-global-leaders-unite-to-ensure-everyone-everywhere-can-access-new-vaccines-tests-and-treatments-for-covid-19",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-covax-first-shipment-2021-02-24",
+      "source_url": "https://www.who.int/news/item/24-02-2021-covid-19-vaccine-doses-shipped-by-the-covax-facility-head-to-ghana-marking-beginning-of-global-rollout",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-who-sinopharm-eul-2021-05-07",
+      "source_url": "https://www.who.int/news/item/07-05-2021-who-lists-additional-covid-19-vaccine-for-emergency-use-and-issues-interim-policy-recommendations",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-regularized-control-framework-2020-05-08",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2020-05/08/content_5509896.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-white-paper-in-action-2020-06-07",
+      "source_url": "https://english.www.gov.cn/news/topnews/202006/07/content_WS5edc1f8bc6d0b3f0e9497f8f.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-resurgence-guardrails-2021-01-20",
+      "source_url": "https://english.www.gov.cn/policies/latestreleases/202101/20/content_WS6007b4a3c6d0f72576944014.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-shanghai-two-phase-lockdown-2022-03-31",
+      "source_url": "https://english.news.cn/20220331/c07ba5f134bd4b88aab2b9e4ee2d2728/c.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-rural-transition-plan-2022-12-31",
+      "source_url": "https://english.www.gov.cn/policies/latestreleases/202212/31/content_WS63b026d0c6d0a757729e4e32.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-protocol-10th-edition-2023-01-07",
+      "source_url": "https://english.www.gov.cn/news/topnews/202301/07/content_WS63b8c503c6d0a757729e5478.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-human-transmission-confirmed-2020-01-20",
+      "source_url": "https://www.cnbc.com/2020/01/21/china-coronavirus-human-to-human-transmission-confirmed.html",
+      "relevance_rank": 2,
+      "citation_note": "Independent non-PRC media confirmation of human-to-human transmission announcement timing."
+    },
+    {
+      "event_slug": "covid-china-wuhan-lockdown-2020-01-23",
+      "source_url": "https://www.bbc.com/news/world-asia-china-55628488",
+      "relevance_rank": 2,
+      "citation_note": "Independent retrospective documenting Wuhan lockdown start date and implementation scale."
+    },
+    {
+      "event_slug": "covid-china-wuhan-reopens-2020-04-08",
+      "source_url": "https://www.bbc.com/news/world-asia-china-55628488",
+      "relevance_rank": 2,
+      "citation_note": "Independent timeline noting reopening phase after the Wuhan closure period."
+    },
+    {
+      "event_slug": "covid-china-first-domestic-vaccine-approval-2020-12-31",
+      "source_url": "https://www.who.int/news/item/07-05-2021-who-lists-additional-covid-19-vaccine-for-emergency-use-and-issues-interim-policy-recommendations",
+      "relevance_rank": 2,
+      "citation_note": "WHO external validation path for China-developed vaccine platform in subsequent emergency-use review."
+    },
+    {
+      "event_slug": "covid-china-twenty-measures-2022-11-11",
+      "source_url": "https://www.cbsnews.com/news/china-covid-lockdown-restrictions-eased-slightly-travel-quarantine/",
+      "relevance_rank": 2,
+      "citation_note": "Non-China reporting summarizing the announced 20-point policy adjustment package."
+    },
+    {
+      "event_slug": "covid-china-response-optimization-2022-12-07",
+      "source_url": "https://www.theguardian.com/world/2022/dec/07/china-covid-home-quarantine-restrictions-eased-nationwide",
+      "relevance_rank": 2,
+      "citation_note": "Independent coverage of broad December optimization measures and home-isolation shift."
+    },
+    {
+      "event_slug": "covid-china-class-b-announced-2022-12-26",
+      "source_url": "https://www.who.int/news/item/30-12-2022-who-meets-with-chinese-officials-on-current-covid-19-situation",
+      "relevance_rank": 2,
+      "citation_note": "WHO external context on transition-phase surge and data-sharing requests around Class B shift."
+    },
+    {
+      "event_slug": "covid-china-rural-transition-plan-2022-12-31",
+      "source_url": "https://www.who.int/news/item/30-12-2022-who-meets-with-chinese-officials-on-current-covid-19-situation",
+      "relevance_rank": 2,
+      "citation_note": "WHO meeting statement captures rural and health-system readiness concerns during national transition."
+    },
+    {
+      "event_slug": "covid-china-protocol-10th-edition-2023-01-07",
+      "source_url": "https://www.who.int/news/item/04-01-2023-tag-ve-statement-on-the-3rd-january-meeting-on-the-covid-19-situation-in-china",
+      "relevance_rank": 2,
+      "citation_note": "WHO technical advisory source on circulating variants during protocol transition window."
+    },
+    {
+      "event_slug": "covid-china-new-phase-begins-2023-01-08",
+      "source_url": "https://www.who.int/news/item/14-01-2023-who-welcomes-data-on-covid-19-in-china--meeting-with-minister",
+      "relevance_rank": 2,
+      "citation_note": "WHO statement provides non-PRC external read on early outcomes in the new response phase."
+    },
+    {
+      "event_slug": "covid-china-shanghai-two-phase-lockdown-2022-03-31",
+      "source_url": "https://www.cnbc.com/2022/03/28/china-is-shutting-down-shanghai-in-two-phases.html",
+      "relevance_rank": 2,
+      "citation_note": "Independent report on two-phase lockdown timing and implementation in Shanghai."
+    },
+    {
+      "event_slug": "covid-china-regularized-control-framework-2020-05-08",
+      "source_url": "https://www.pbs.org/wgbh/frontline/article/a-timeline-of-chinas-response-in-the-first-days-of-covid-19/",
+      "relevance_rank": 2,
+      "citation_note": "Independent contextual timeline for early institutionalization of control policy after first-wave containment."
+    },
+    {
+      "event_slug": "covid-china-white-paper-in-action-2020-06-07",
+      "source_url": "https://www.pbs.org/wgbh/frontline/article/a-timeline-of-chinas-response-in-the-first-days-of-covid-19/",
+      "relevance_rank": 2,
+      "citation_note": "Independent chronology used as external context for official narrative consolidation stage."
+    },
+    {
+      "event_slug": "covid-china-resurgence-guardrails-2021-01-20",
+      "source_url": "https://www.bbc.com/news/world-asia-china-55628488",
+      "relevance_rank": 2,
+      "citation_note": "Independent media context on winter-wave vigilance and post-lockdown control posture."
+    },
+    {
+      "event_slug": "covid-china-new-phase-begins-2023-01-08",
+      "source_url": "https://apnews.com/article/61d2e8c7599b3bf9fe6a08615fb5d82a",
+      "relevance_rank": 3,
+      "citation_note": "Independent follow-up report on post-reopening wave progression and official claims."
+    },
+    {
+      "event_slug": "covid-china-clinical-diagnosis-reclassification-2020-02-13",
+      "source_url": "https://en.nhc.gov.cn/2020-02/13/c_76512.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-clinical-diagnosis-reclassification-2020-02-13",
+      "source_url": "https://time.com/5783401/covid19-hubei-cases-classification/",
+      "relevance_rank": 2,
+      "citation_note": "Independent context on interpretation and comparability effects of the reporting change."
+    },
+    {
+      "event_slug": "covid-china-national-mourning-day-2020-04-04",
+      "source_url": "https://english.www.gov.cn/policies/latestreleases/202004/03/content_WS5e868c35c6d0c201c2cc00e3.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-national-mourning-day-2020-04-04",
+      "source_url": "https://www.cnbc.com/2020/04/04/china-mourns-thousands-who-died-in-countrys-coronavirus-epidemic.html",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-beijing-xinfadi-cluster-2020-06-13",
+      "source_url": "https://www.who.int/news/item/13-06-2020-a-cluster-of-covid-19-in-beijing-people-s-republic-of-china",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-beijing-xinfadi-cluster-2020-06-13",
+      "source_url": "https://www.cnbc.com/2020/06/13/beijing-district-in-wartime-emergency-after-virus-spike-shuts-market.html",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-qingdao-citywide-testing-2020-10-12",
+      "source_url": "https://en.nhc.gov.cn/2020-10/20/c_81915.htm",
+      "relevance_rank": 1,
+      "citation_note": "Official follow-up document summarizing outbreak source and citywide testing completion."
+    },
+    {
+      "event_slug": "covid-china-qingdao-citywide-testing-2020-10-12",
+      "source_url": "https://www.aljazeera.com/news/2020/10/12/china-to-test-entire-city-of-qingdao-after-covid-19-cases-appear",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-nanjing-lukou-outbreak-2021-07-20",
+      "source_url": "https://en.nhc.gov.cn/2021-07/28/c_84238.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-nanjing-lukou-outbreak-2021-07-20",
+      "source_url": "https://www.theguardian.com/world/2021/jul/29/city-of-nanjing-isolated-as-china-fights-worst-covid-outbreak-in-months",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-xian-city-lockdown-2021-12-23",
+      "source_url": "https://en.nhc.gov.cn/2021-12/23/c_85427.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-xian-city-lockdown-2021-12-23",
+      "source_url": "https://www.theguardian.com/world/2021/dec/23/china-locks-down-13-million-people-in-xian-after-detecting-127-covid-cases",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-shanghai-lockdown-lift-2022-06-01",
+      "source_url": "https://www.euronews.com/2022/05/31/us-health-coronavirus-china-shanghai",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-shanghai-lockdown-lift-2022-06-01",
+      "source_url": "https://www.theguardian.com/world/2022/may/31/shanghai-starts-to-dismantle-fences-as-covid-lockdown-due-to-end",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-henan-red-code-accountability-2022-06-22",
+      "source_url": "https://global.chinadaily.com.cn/a/202206/17/WS62ac7ceba310fd2b29e635ff.html",
+      "relevance_rank": 1,
+      "citation_note": "Official-side report on investigation and accountability process."
+    },
+    {
+      "event_slug": "covid-china-henan-red-code-accountability-2022-06-22",
+      "source_url": "https://www.euronews.com/2022/06/15/china-banks-henan",
+      "relevance_rank": 2,
+      "citation_note": "Reuters wire coverage describing depositor claims and mobility restrictions."
+    },
+    {
+      "event_slug": "covid-china-guizhou-quarantine-bus-crash-2022-09-18",
+      "source_url": "https://www.ksat.com/news/world/2022/09/18/bus-for-covid-19-quarantine-in-china-crashes-killing-27/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-guizhou-quarantine-bus-crash-2022-09-18",
+      "source_url": "https://www.theguardian.com/world/2022/sep/19/anger-in-china-after-27-people-killed-in-covid-quarantine-bus-crash",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-urumqi-fire-2022-11-24",
+      "source_url": "https://www.china.org.cn/china/2022-11/25/content_78536574.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-urumqi-fire-2022-11-24",
+      "source_url": "https://www.theguardian.com/world/2022/nov/26/covid-lockdown-protests-break-out-in-western-china-after-deadly-fire",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-china-itinerary-code-offline-2022-12-13",
+      "source_url": "https://en.people.cn/n3/2022/1212/c90000-10182916.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-china-itinerary-code-offline-2022-12-13",
+      "source_url": "https://www.cnbc.com/2022/12/13/china-axes-travel-tracking-app-in-latest-easing-of-covid-curbs.html",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-japan-diamond-princess-quarantine-2020-02-04",
+      "source_url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200204-sitrep-15-ncov.pdf",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-japan-diamond-princess-quarantine-2020-02-04",
+      "source_url": "https://www.bbc.com/news/world-asia-51409801",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-spain-state-of-alarm-lockdown-2020-03-14",
+      "source_url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3692",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-spain-state-of-alarm-lockdown-2020-03-14",
+      "source_url": "https://www.bbc.com/news/world-europe-51892477",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-us-california-stay-at-home-2020-03-19",
+      "source_url": "https://www.gov.ca.gov/wp-content/uploads/2020/03/3.19.20-attested-EO-N-33-20-COVID-19-HEALTH-ORDER.pdf",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-us-california-stay-at-home-2020-03-19",
+      "source_url": "https://www.cnbc.com/2020/03/19/california-gov-newsom-orders-statewide-home-isolation.html",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-uk-national-lockdown-2020-03-23",
+      "source_url": "https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-23-march-2020",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-uk-national-lockdown-2020-03-23",
+      "source_url": "https://www.bbc.com/news/uk-52012432",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-global-confirmed-cases-one-million-2020-04-02",
+      "source_url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-pfizer-biontech-interim-efficacy-2020-11-09",
+      "source_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-vaccine-candidate-against",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-pfizer-biontech-interim-efficacy-2020-11-09",
+      "source_url": "https://www.cnbc.com/2020/11/09/pfizer-covid-vaccine-is-more-than-90percent-effective-in-preventing-infection.html",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-moderna-interim-efficacy-2020-11-16",
+      "source_url": "https://investors.modernatx.com/news/news-details/2020/Moderna-Announces-Primary-Efficacy-Analysis-in-Phase-3-COVE-Study-for-Its-COVID-19-Vaccine-Candidate-and-Filing-Today-with-U.S.-FDA-for-Emergency-Use-Authorization/default.aspx",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-moderna-interim-efficacy-2020-11-16",
+      "source_url": "https://www.cnbc.com/2020/11/16/moderna-says-its-covid-vaccine-is-more-than-94percent-effective.html",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-uk-first-vaccine-authorization-2020-12-02",
+      "source_url": "https://www.gov.uk/government/news/regulatory-approval-of-pfizer-biontech-vaccine-for-covid-19",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-uk-first-vaccine-authorization-2020-12-02",
+      "source_url": "https://www.bbc.com/news/health-55145696",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-england-step4-freedom-day-2021-07-19",
+      "source_url": "https://www.gov.uk/government/news/prime-minister-confirms-step-4-will-go-ahead",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-england-step4-freedom-day-2021-07-19",
+      "source_url": "https://www.bbc.com/news/uk-57809691",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "covid-us-public-health-emergency-end-2023-05-11",
+      "source_url": "https://www.hhs.gov/about/news/2023/05/09/fact-sheet-end-covid-19-public-health-emergency.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "covid-us-public-health-emergency-end-2023-05-11",
+      "source_url": "https://www.npr.org/2023/05/11/1175465317/covid-public-health-emergency-ends",
+      "relevance_rank": 2
     }
   ]
 }

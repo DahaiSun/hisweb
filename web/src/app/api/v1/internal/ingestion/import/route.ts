@@ -15,7 +15,6 @@ export async function POST(req: Request) {
     const result = await runIngestionImport(validation.value);
     return ok(result);
   } catch (error) {
-    const message = error instanceof Error ? error.message : "Unknown error";
-    return serverError(message);
+    return serverError(error);
   }
 }

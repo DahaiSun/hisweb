@@ -45,8 +45,7 @@ function mergeByKey(baseItems, incomingItems, keyOf) {
 function isDbUnavailable(parsed, status) {
   if (status !== 503) return false;
   const code = parsed?.error?.code;
-  const message = `${parsed?.error?.message ?? ""} ${parsed?.error?.details?.original_message ?? ""}`;
-  return code === "SERVICE_UNAVAILABLE" && /DATABASE_URL is not set/i.test(message);
+  return code === "SERVICE_UNAVAILABLE";
 }
 
 async function applyDemoFallback({ cwd, filePath, payload }) {

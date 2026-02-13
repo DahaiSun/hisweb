@@ -115,8 +115,20 @@ Notes:
   - `official` (central bank, treasury, regulator, government)
   - `dataset` (FRED, official statistics portals)
 - News-only events should include at least one high-quality wire/source and one market data reference when impact claims are numeric.
+- For events in highly controlled information environments (for example PRC domestic policy news), do not rely on domestic official sources alone:
+  - add at least one non-domestic corroborating source (`news`, `research`, or multilateral `official` like WHO/UN/IMF)
+  - if corroboration is partial, state that limitation in `citation_note`
 - Keep `source_type` accurate:
   - `official`, `dataset`, `news`, `research`, `archive`, `other`
+
+### 5.4.1 China News Search Checklist
+- When searching China-related events, always use mixed-source verification:
+  - at least `1` PRC official source (policy text, regulator release, ministry statement)
+  - at least `1` non-PRC international source (`Reuters`, `AP`, `BBC`, `FT`, `WSJ`, `Bloomberg`, etc.)
+  - for public health or macro topics, prefer adding a multilateral source (`WHO`, `IMF`, `World Bank`, `UN`) when available
+- If external and domestic narratives differ, keep both links and write a neutral `summary`; do not present a single narrative as certain fact.
+- If only domestic official sources are available, keep `status=review` and cap `confidence_score` at `3` until independent corroboration is added.
+- For politically sensitive topics, avoid impact claims that require hidden/non-public data; label interpretation clearly in `impact` and `citation_note`.
 
 ### 5.5 Writing Standards for Event Text
 - `summary`: objective fact of what happened on that date.
@@ -302,10 +314,10 @@ A change is done only if:
 - Add editorial review UI and workflow states.
 - Add production monitoring and alerting.
 
-## 13. Project Progress (as of 2026-02-12)
+## 13. Project Progress (as of 2026-02-13)
 
 ### 13.1 Delivered in this cycle
-- Expanded curated seed coverage to `221` sources, `297` events, `321` event-source links (`all published`).
+- Expanded curated seed coverage to `235` sources, `314` events, `338` event-source links (`all published`).
 - Added and integrated a complete U.S.-Soviet Cold War timeline dataset (`36` events) for `1946-1991`.
 - Added and integrated a post-1900 China-U.S. relations timeline dataset (`20` events) for `1900-2022`.
 - Added and integrated a second China-U.S. classic milestones pack (`20` events) for `1954-2024`, lifting the China-U.S. timeline to `40` published events.
@@ -322,6 +334,12 @@ A change is done only if:
 - Added a CPC timeline completion pack (`+12` events: 2nd-6th congress milestones, Chinese Soviet Republic, 10th/11th/13th/17th congresses, 1981 historical resolution, 2021 sixth plenum), lifting `ccp-history-since-1921` to `32` published events.
 - Added a CPC key-plenum expansion pack (`+7` events: 12th/14th/16th/17th/18th/19th/20th Central Committee third plenums), lifting `ccp-history-since-1921` to `39` published events.
 - Added a Mao-era completion pack (`+11` events: Autumn Harvest Uprising, Long March opening, Chongqing talks, Moscow visit, 1950 Sino-Soviet treaty, Great Leap/Lushan/1962 cadre conference checkpoints, Lin Biao incident, Nixon-Mao meeting, Mao's death), lifting `ccp-history-since-1921` to `50` published events.
+- Added a Great Leap Forward expansion pack (`+9` events: Beidaihe expanded Politburo session, two Zhengzhou conferences, 1959 Lushan plenum line shift, 1960 Soviet-expert withdrawal shock, 1961 readjustment meetings, 1962 commune accounting-unit reform, 10th plenum), lifting `ccp-history-since-1921` to `59` published events.
+- Added a Cultural Revolution expansion pack (`+8` events: 1966 Sixteen Points, first Tiananmen Red Guard rally, January Storm, Wuhan incident, Liu Shaoqi expulsion, Down-to-the-Countryside expansion, Zhou Enlai death, April Fifth incident), lifting `ccp-history-since-1921` to `67` published events.
+- Added a new event visualization page `/events/stream` with timeline-style event chips above a month axis and click-through to `/events/[slug]`.
+- Added timeline filtering on `/events/stream` via query param (`?timeline=<slug>`) and selector UI, enabling focused views such as China-US, Cold War, and WWII.
+- Deployed the latest service to Cloud Run (`hisweb`, `europe-west1`) from source and validated public homepage/API availability.
+- Initialized and pushed the repository to GitHub (`https://github.com/DahaiSun/hisweb.git`) and removed duplicate docs directory (`data source/`, keeping `data-source/`).
 - Hardened internal ingestion auth from header-presence check to strict `SERVICE_TOKEN` value matching (`x-service-token` must equal runtime secret).
 - Added containerized runtime assets for Cloud Run deployment (`web/Dockerfile`, `web/.dockerignore`).
 - Added GitHub Actions continuous deployment workflow for Cloud Run (`.github/workflows/deploy-gcp-cloud-run.yml`) with optional post-deploy seed import trigger.
@@ -345,15 +363,16 @@ A change is done only if:
   - `us-wars-since-1900`
   - `ccp-history-since-1921`
   - `world-war-ii`
-- Database snapshot after import:
-  - `events=297`
-  - `sources=221`
-  - `event_sources=321`
+- Latest confirmed snapshot (seed + API):
+  - `events=314`
+  - `sources=235`
+  - `event_sources=338`
   - `timelines=9`
-  - `timeline_events=452`
+  - `global-financial-turning-points events=314`
   - `world-war-ii events=47`
   - `us-wars-since-1900 events=24`
-  - `ccp-history-since-1921 events=50`
+  - `ccp-history-since-1921 events=67`
+  - `cloud-run-url=https://hisweb-886542139628.europe-west1.run.app`
 
 ### 13.3 Validation completed
 - `npm run seed:check`
@@ -361,6 +380,10 @@ A change is done only if:
 - `npm run seed:import`
 - `npm run typecheck`
 - `npm run build`
+- Cloud Run source deploy + runtime checks:
+  - `gcloud run deploy hisweb --source web --region europe-west1 ...`
+  - `GET /` on deployed URL returns `200`
+  - `GET /api/v1/timelines` on deployed URL returns `200`
 - direct PostgreSQL upsert import for `seeds/china-us-classics-2.seed.json` (equivalent write path applied successfully)
 - timeline rebuild for `global-financial-turning-points`, `crisis-and-stabilization`, `us-soviet-cold-war`, `china-us-since-1900`, `china-soviet-relations`, `world-war-ii`, `us-wars-since-1900`, `ccp-history-since-1921`
 

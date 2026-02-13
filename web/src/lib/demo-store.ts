@@ -249,6 +249,16 @@ function buildTimelines(events: DemoEventRecord[]): {
     updated_at: now,
   };
 
+  const covidTimeline: DemoTimelineRecord = {
+    id: stableUuid("timeline:covid-19-pandemic"),
+    title: "COVID-19 Pandemic Timeline (2019-2023)",
+    slug: "covid-19-pandemic",
+    description:
+      "Major public-health, macro-policy, and market-regime milestones during the COVID-19 cycle.",
+    created_at: now,
+    updated_at: now,
+  };
+
   const crisisEvents = publishedEvents.filter((event) => {
     const haystack = `${event.title} ${event.category}`.toLowerCase();
     return /crash|crisis|stress|banking|default|rescue|failure/.test(haystack);
@@ -263,6 +273,10 @@ function buildTimelines(events: DemoEventRecord[]): {
   const usWarEvents = publishedEvents.filter((event) => event.slug.startsWith("us-war-"));
   const ccpEvents = publishedEvents.filter((event) => event.slug.startsWith("ccp-"));
   const worldWarTwoEvents = publishedEvents.filter((event) => event.slug.startsWith("wwii-"));
+  const covidCarryOverSlugs = new Set(["fed-emergency-cut-2020", "fed-unlimited-qe-2020", "fed-liftoff-2022"]);
+  const covidEvents = publishedEvents.filter(
+    (event) => event.slug.startsWith("covid-") || covidCarryOverSlugs.has(event.slug),
+  );
 
   const timelineEvents: DemoTimelineEventRecord[] = [];
 
@@ -338,6 +352,14 @@ function buildTimelines(events: DemoEventRecord[]): {
     });
   });
 
+  covidEvents.forEach((event, index) => {
+    timelineEvents.push({
+      timeline_id: covidTimeline.id,
+      event_id: event.id,
+      sequence_no: index + 1,
+    });
+  });
+
   return {
     timelines: [
       primaryTimeline,
@@ -349,6 +371,7 @@ function buildTimelines(events: DemoEventRecord[]): {
       usWarTimeline,
       ccpTimeline,
       worldWarTwoTimeline,
+      covidTimeline,
     ],
     timelineEvents,
   };
@@ -454,6 +477,10 @@ async function buildDataset(): Promise<DemoDataset> {
 }
 
 export async function getDemoDataset(): Promise<DemoDataset> {
+  if (process.env.NODE_ENV !== "production") {
+    return buildDataset();
+  }
+
   if (!demoDatasetPromise) {
     demoDatasetPromise = buildDataset();
   }
