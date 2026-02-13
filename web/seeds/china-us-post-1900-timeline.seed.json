@@ -1,0 +1,504 @@
+{
+  "sources": [
+    {
+      "source_name": "U.S. Office of the Historian - John Hay and the Open Door in China, 1899-1900",
+      "source_url": "https://history.state.gov/milestones/1899-1913/hay-and-china",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. diplomatic history source including Open Door notes and 1900 circular context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Repeal of the Chinese Exclusion Act, 1943",
+      "source_url": "https://history.state.gov/milestones/1937-1945/chinese-exclusion-act-repeal",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for repeal timing and bilateral wartime context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - The Chinese Revolution of 1949",
+      "source_url": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source documenting PRC founding date and U.S. diplomatic implications."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Korean War and Japan's Recovery",
+      "source_url": "https://history.state.gov/milestones/1945-1952/korean-war",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official chronology and policy context for the Korean War period."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - The Taiwan Straits Crises: 1954-55 and 1958",
+      "source_url": "https://history.state.gov/milestones/1953-1960/taiwan-strait-crises",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for Mutual Defense Treaty and offshore-islands crisis chronology."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Rapprochement with China, 1972",
+      "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china%3B",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source covering 1971 opening, Nixon visit, and Shanghai Communique context."
+    },
+    {
+      "source_name": "UN Digital Library - General Assembly Resolution 2758",
+      "source_url": "https://digitallibrary.un.org/record/192054/",
+      "source_type": "official",
+      "publisher": "United Nations",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Primary UN record for Resolution 2758 with adoption date metadata."
+    },
+    {
+      "source_name": "FRUS - Joint Statement Following Discussions With Leaders of the PRC (Shanghai Communique)",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v17/d203",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Primary document text of the Shanghai Communique."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - China Policy (1977-1980)",
+      "source_url": "https://history.state.gov/milestones/1977-1980/china-policy",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official account of normalization announcement and diplomatic establishment timeline."
+    },
+    {
+      "source_name": "Congress.gov - Taiwan Relations Act (H.R.2479, Public Law 96-8)",
+      "source_url": "https://www.congress.gov/bill/96th-congress/house-bill/2479/text/statute",
+      "source_type": "official",
+      "publisher": "U.S. Congress / Library of Congress",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Primary U.S. statutory text and enactment date metadata."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - The August 17, 1982 U.S.-China Communique on Arms Sales to Taiwan",
+      "source_url": "https://history.state.gov/milestones/1981-1988/china-communique",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for negotiation and publication of the August 17 Communique."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Tiananmen Square, 1989",
+      "source_url": "https://history.state.gov/milestones/1989-1992/tiananmen-square",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. historical narrative including June 1989 actions and U.S. response."
+    },
+    {
+      "source_name": "U.S. Information Agency Archive - Pacific Command transcript on aircraft incident (April 1, 2001)",
+      "source_url": "https://usinfo.org/wf-archive/2001/010402/epf108.htm",
+      "source_type": "archive",
+      "publisher": "U.S. Information Agency (archived)",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Archived official U.S. military briefing transcript with collision and emergency-landing timeline."
+    },
+    {
+      "source_name": "WTO - China marks 20 years of WTO membership",
+      "source_url": "https://www.wto.org/english/news_e/news21_e/china_10dec21_e.htm",
+      "source_type": "official",
+      "publisher": "World Trade Organization",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official WTO source citing accession date and institutional context."
+    },
+    {
+      "source_name": "USTR - Section 301 tariffs in effect on first tranche of Chinese imports (July 6, 2018)",
+      "source_url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2018/july/ustr-releases-product-exclusion",
+      "source_type": "official",
+      "publisher": "Office of the United States Trade Representative",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official release stating first 25% tariffs took effect July 6, 2018."
+    },
+    {
+      "source_name": "USTR - Economic and Trade Agreement Between the United States and China (Phase One)",
+      "source_url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2020/january/economic-and-trade-agreement-between-government-united-states-and-government-peoples-republic-china",
+      "source_type": "official",
+      "publisher": "Office of the United States Trade Representative",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for the January 15, 2020 signing of the Phase One agreement."
+    },
+    {
+      "source_name": "BIS - Advanced Computing and Semiconductor Manufacturing Items Controls to PRC",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/advanced-computing-and-semiconductor-manufacturing-items-controls-to-prc",
+      "source_type": "official",
+      "publisher": "U.S. Department of Commerce, Bureau of Industry and Security",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official BIS page documenting October 7, 2022 export controls and follow-on updates."
+    }
+  ],
+  "events": [
+    {
+      "slug": "china-us-open-door-circular-1900-07-03",
+      "title": "United States issues Open Door Circular during Boxer crisis period",
+      "event_date": "1900-07-03",
+      "region": "China; United States",
+      "category": "Diplomatic Doctrine",
+      "summary": "Secretary of State John Hay circulated a note emphasizing China's territorial and administrative integrity amid great-power intervention pressures.",
+      "impact": "The move set a long-running U.S. baseline for China policy and strategic-commercial access in East Asia.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-chinese-exclusion-repeal-1943-12-17",
+      "title": "U.S. repeals Chinese Exclusion Act regime in wartime alliance context",
+      "event_date": "1943-12-17",
+      "region": "United States; China",
+      "category": "Immigration Policy",
+      "summary": "Congress repealed Chinese exclusion laws and created a small China immigration quota during World War II.",
+      "impact": "The repeal removed a major diplomatic grievance and supported alignment with China against Japan.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-prc-proclaimed-1949-10-01",
+      "title": "People's Republic of China is proclaimed, reshaping bilateral alignment",
+      "event_date": "1949-10-01",
+      "region": "China; United States",
+      "category": "Systemic Transition",
+      "summary": "Mao Zedong announced the establishment of the PRC, ending mainland control by the ROC government.",
+      "impact": "U.S.-PRC official ties were suspended for decades and the Taiwan-centered diplomatic framework hardened.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-korean-war-outbreak-1950-06-25",
+      "title": "Korean War outbreak initiates period of direct U.S.-China military confrontation",
+      "event_date": "1950-06-25",
+      "region": "Korean Peninsula; East Asia",
+      "category": "War and Conflict",
+      "summary": "War on the Korean Peninsula rapidly drew in U.S.-led and Chinese forces, internationalizing Cold War conflict in Asia.",
+      "impact": "Military hostility deepened and bilateral estrangement extended across security, trade, and diplomatic channels.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-us-roc-mutual-defense-treaty-1954-12-02",
+      "title": "United States and ROC sign Mutual Defense Treaty",
+      "event_date": "1954-12-02",
+      "region": "Taiwan Strait; United States; East Asia",
+      "category": "Military Alliance",
+      "summary": "Washington and Taipei signed a treaty formalizing U.S. defense commitments in the Taiwan theater.",
+      "impact": "The agreement entrenched strategic rivalry with Beijing and raised cross-strait escalation stakes.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-second-taiwan-strait-crisis-1958-08-23",
+      "title": "Second Taiwan Strait crisis erupts with shelling of offshore islands",
+      "event_date": "1958-08-23",
+      "region": "Taiwan Strait; East Asia",
+      "category": "Geopolitical Shock",
+      "summary": "PRC bombardment of ROC-held offshore islands resumed major cross-strait military confrontation.",
+      "impact": "U.S.-China military risk intensified and crisis management became central to bilateral security policy.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-nixon-announces-china-visit-1971-07-15",
+      "title": "Nixon announces planned visit to the PRC",
+      "event_date": "1971-07-15",
+      "region": "United States; China",
+      "category": "Summit Diplomacy",
+      "summary": "Following secret diplomacy, President Nixon publicly announced that he would visit China.",
+      "impact": "The announcement marked a strategic break from two decades of isolation and opened a path to normalization.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-unga-resolution-2758-1971-10-25",
+      "title": "UN General Assembly adopts Resolution 2758 on China's representation",
+      "event_date": "1971-10-25",
+      "region": "United Nations; China; United States",
+      "category": "UN Representation",
+      "summary": "The General Assembly recognized the PRC's representatives in the United Nations framework.",
+      "impact": "China's diplomatic position strengthened globally and the bilateral normalization trajectory accelerated.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-nixon-arrives-beijing-1972-02-21",
+      "title": "Nixon arrives in Beijing for first U.S. presidential visit to PRC",
+      "event_date": "1972-02-21",
+      "region": "China; United States",
+      "category": "Summit Diplomacy",
+      "summary": "President Nixon began a landmark visit to mainland China and held high-level talks with Chinese leadership.",
+      "impact": "The visit reset great-power alignment and created durable diplomatic channels after long estrangement.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-shanghai-communique-issued-1972-02-27",
+      "title": "Shanghai Communique is issued",
+      "event_date": "1972-02-27",
+      "region": "China; United States",
+      "category": "Diplomatic Framework",
+      "summary": "The United States and the PRC published a joint communique outlining principles for future relations, including Taiwan language.",
+      "impact": "It established the core political framework that later enabled full diplomatic normalization.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-normalization-announced-1978-12-15",
+      "title": "Washington and Beijing announce normalization agreement",
+      "event_date": "1978-12-15",
+      "region": "United States; China",
+      "category": "Diplomatic Framework",
+      "summary": "Both governments announced they would establish formal diplomatic relations effective January 1, 1979.",
+      "impact": "The announcement ended the non-recognition era and reset bilateral diplomatic architecture.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-diplomatic-relations-begin-1979-01-01",
+      "title": "Formal diplomatic relations between the U.S. and PRC begin",
+      "event_date": "1979-01-01",
+      "region": "United States; China",
+      "category": "Diplomatic Framework",
+      "summary": "Official diplomatic relations entered into force and embassy-level relations were established.",
+      "impact": "Bilateral engagement expanded across trade, science, and security while Taiwan issues remained contested.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-taiwan-relations-act-enacted-1979-04-10",
+      "title": "Taiwan Relations Act is enacted in U.S. law",
+      "event_date": "1979-04-10",
+      "region": "United States; Taiwan Strait",
+      "category": "Legal Framework",
+      "summary": "Congress enacted the Taiwan Relations Act to govern unofficial ties and security commitments after recognition shifted to Beijing.",
+      "impact": "The law became a central structural constraint and stabilizer in the triangular U.S.-PRC-Taiwan relationship.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-august-17-communique-1982-08-17",
+      "title": "U.S.-China August 17 Communique on Taiwan arms sales is issued",
+      "event_date": "1982-08-17",
+      "region": "United States; China; Taiwan Strait",
+      "category": "Diplomatic Framework",
+      "summary": "Washington and Beijing announced a communique addressing U.S. arms sales to Taiwan and broader bilateral principles.",
+      "impact": "It lowered immediate diplomatic friction but left long-run interpretive disputes embedded in the relationship.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-tiananmen-crackdown-1989-06-04",
+      "title": "Tiananmen crackdown causes major bilateral freeze",
+      "event_date": "1989-06-04",
+      "region": "China; United States",
+      "category": "Geopolitical Shock",
+      "summary": "Chinese military suppression of protests in Beijing triggered sharp U.S. political backlash and policy restrictions.",
+      "impact": "High-level military and political ties were curtailed, introducing persistent human-rights friction into bilateral policy.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-ep3-hainan-incident-2001-04-01",
+      "title": "EP-3 aircraft collision near Hainan triggers acute bilateral crisis",
+      "event_date": "2001-04-01",
+      "region": "South China Sea; China; United States",
+      "category": "Military Incident",
+      "summary": "A U.S. EP-3 reconnaissance aircraft collided with a Chinese fighter and made an emergency landing on Hainan Island.",
+      "impact": "Crisis diplomacy intensified and military-operational risk management became a central bilateral issue.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-china-wto-entry-2001-12-11",
+      "title": "China enters WTO, accelerating U.S.-China economic integration",
+      "event_date": "2001-12-11",
+      "region": "China; United States; Global",
+      "category": "Trade Policy",
+      "summary": "China became a WTO member, embedding its trade with the United States in a formal multilateral rules framework.",
+      "impact": "Goods trade and supply-chain integration expanded rapidly, reshaping investment and industrial competition patterns.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-section301-first-tariffs-2018-07-06",
+      "title": "First tranche of U.S. Section 301 tariffs on China takes effect",
+      "event_date": "2018-07-06",
+      "region": "United States; China",
+      "category": "Trade Policy",
+      "summary": "The United States began collecting additional 25 percent tariffs on a first tranche of Chinese imports under Section 301.",
+      "impact": "The tariff cycle formalized a new phase of strategic economic competition and broad repricing of bilateral trade risk.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-phase-one-trade-deal-signed-2020-01-15",
+      "title": "U.S. and China sign Phase One trade agreement",
+      "event_date": "2020-01-15",
+      "region": "United States; China",
+      "category": "Trade Policy",
+      "summary": "Both governments signed the Phase One agreement covering commitments on trade, IP, technology transfer, and enforcement mechanisms.",
+      "impact": "Escalation paused temporarily, but structural rivalry in technology and industrial policy remained unresolved.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-advanced-chip-export-controls-2022-10-07",
+      "title": "U.S. announces broad advanced-chip and semiconductor export controls to PRC",
+      "event_date": "2022-10-07",
+      "region": "United States; China",
+      "category": "Export Controls",
+      "summary": "BIS released major controls targeting advanced computing chips and semiconductor manufacturing capabilities linked to China.",
+      "impact": "Technology competition shifted to systemic controls on compute supply chains, investment planning, and licensing risk.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_slug": "china-us-open-door-circular-1900-07-03",
+      "source_url": "https://history.state.gov/milestones/1899-1913/hay-and-china",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone references the July 3, 1900 Open Door circular."
+    },
+    {
+      "event_slug": "china-us-chinese-exclusion-repeal-1943-12-17",
+      "source_url": "https://history.state.gov/milestones/1937-1945/chinese-exclusion-act-repeal",
+      "relevance_rank": 1,
+      "citation_note": "Official source on the 1943 repeal and bilateral wartime context."
+    },
+    {
+      "event_slug": "china-us-prc-proclaimed-1949-10-01",
+      "source_url": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "relevance_rank": 1,
+      "citation_note": "Official source documenting PRC proclamation date and U.S. policy implications."
+    },
+    {
+      "event_slug": "china-us-korean-war-outbreak-1950-06-25",
+      "source_url": "https://history.state.gov/milestones/1945-1952/korean-war",
+      "relevance_rank": 1,
+      "citation_note": "Official source anchoring Korean War onset and East Asia strategic effects."
+    },
+    {
+      "event_slug": "china-us-us-roc-mutual-defense-treaty-1954-12-02",
+      "source_url": "https://history.state.gov/milestones/1953-1960/taiwan-strait-crises",
+      "relevance_rank": 1,
+      "citation_note": "Official source detailing treaty context in the first Taiwan Strait crisis."
+    },
+    {
+      "event_slug": "china-us-second-taiwan-strait-crisis-1958-08-23",
+      "source_url": "https://history.state.gov/milestones/1953-1960/taiwan-strait-crises",
+      "relevance_rank": 1,
+      "citation_note": "Official chronology for renewed PRC bombardment in 1958."
+    },
+    {
+      "event_slug": "china-us-nixon-announces-china-visit-1971-07-15",
+      "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china%3B",
+      "relevance_rank": 1,
+      "citation_note": "Official account of secret diplomacy and Nixon's public announcement."
+    },
+    {
+      "event_slug": "china-us-unga-resolution-2758-1971-10-25",
+      "source_url": "https://digitallibrary.un.org/record/192054/",
+      "relevance_rank": 1,
+      "citation_note": "UN primary record with adoption action date metadata."
+    },
+    {
+      "event_slug": "china-us-nixon-arrives-beijing-1972-02-21",
+      "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china%3B",
+      "relevance_rank": 1,
+      "citation_note": "Official source for Nixon visit start date and diplomatic significance."
+    },
+    {
+      "event_slug": "china-us-shanghai-communique-issued-1972-02-27",
+      "source_url": "https://history.state.gov/historicaldocuments/frus1969-76v17/d203",
+      "relevance_rank": 1,
+      "citation_note": "Primary text of the Shanghai Communique."
+    },
+    {
+      "event_slug": "china-us-normalization-announced-1978-12-15",
+      "source_url": "https://history.state.gov/milestones/1977-1980/china-policy",
+      "relevance_rank": 1,
+      "citation_note": "Official source covering December 15, 1978 normalization announcement."
+    },
+    {
+      "event_slug": "china-us-diplomatic-relations-begin-1979-01-01",
+      "source_url": "https://history.state.gov/milestones/1977-1980/china-policy",
+      "relevance_rank": 1,
+      "citation_note": "Official source confirming diplomatic relations took effect January 1, 1979."
+    },
+    {
+      "event_slug": "china-us-taiwan-relations-act-enacted-1979-04-10",
+      "source_url": "https://www.congress.gov/bill/96th-congress/house-bill/2479/text/statute",
+      "relevance_rank": 1,
+      "citation_note": "Primary statutory record with enactment date."
+    },
+    {
+      "event_slug": "china-us-august-17-communique-1982-08-17",
+      "source_url": "https://history.state.gov/milestones/1981-1988/china-communique",
+      "relevance_rank": 1,
+      "citation_note": "Official source for August 17, 1982 communique and policy interpretation."
+    },
+    {
+      "event_slug": "china-us-tiananmen-crackdown-1989-06-04",
+      "source_url": "https://history.state.gov/milestones/1989-1992/tiananmen-square",
+      "relevance_rank": 1,
+      "citation_note": "Official account of June 1989 events and U.S. response."
+    },
+    {
+      "event_slug": "china-us-ep3-hainan-incident-2001-04-01",
+      "source_url": "https://usinfo.org/wf-archive/2001/010402/epf108.htm",
+      "relevance_rank": 1,
+      "citation_note": "Archived Pacific Command transcript on April 1 collision and emergency landing."
+    },
+    {
+      "event_slug": "china-us-china-wto-entry-2001-12-11",
+      "source_url": "https://www.wto.org/english/news_e/news21_e/china_10dec21_e.htm",
+      "relevance_rank": 1,
+      "citation_note": "WTO source citing China's accession date."
+    },
+    {
+      "event_slug": "china-us-section301-first-tariffs-2018-07-06",
+      "source_url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2018/july/ustr-releases-product-exclusion",
+      "relevance_rank": 1,
+      "citation_note": "Official USTR release notes first tariffs in effect on July 6, 2018."
+    },
+    {
+      "event_slug": "china-us-phase-one-trade-deal-signed-2020-01-15",
+      "source_url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases/2020/january/economic-and-trade-agreement-between-government-united-states-and-government-peoples-republic-china",
+      "relevance_rank": 1,
+      "citation_note": "Official USTR source for Phase One signing date and agreement text links."
+    },
+    {
+      "event_slug": "china-us-advanced-chip-export-controls-2022-10-07",
+      "source_url": "https://www.bis.doc.gov/index.php/policy-guidance/advanced-computing-and-semiconductor-manufacturing-items-controls-to-prc",
+      "relevance_rank": 1,
+      "citation_note": "BIS source documenting October 7, 2022 controls on advanced computing and semiconductor items."
+    }
+  ]
+}

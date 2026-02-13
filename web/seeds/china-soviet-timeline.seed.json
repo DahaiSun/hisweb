@@ -1,0 +1,340 @@
+{
+  "sources": [
+    {
+      "source_name": "U.S. Office of the Historian - The Chinese Revolution of 1949",
+      "source_url": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. diplomatic history source for PRC founding context."
+    },
+    {
+      "source_name": "FMPRC Archive - Sino-Soviet Treaty of Friendship, Alliance and Mutual Assistance (1950)",
+      "source_url": "https://www.fmprc.gov.cn/mfa_eng/zy/wjls/3604_665547/202405/t20240531_11367548.html",
+      "source_type": "official",
+      "publisher": "Ministry of Foreign Affairs of the People's Republic of China",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official Chinese diplomatic archive page covering the 1950 treaty and historical context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Korean War and Japan's Recovery",
+      "source_url": "https://history.state.gov/milestones/1945-1952/korean-war",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for chronology and strategic context of the Korean War."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - The Taiwan Straits Crises: 1954-55 and 1958",
+      "source_url": "https://history.state.gov/milestones/1953-1960/taiwan-strait-crises",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. source for cross-strait crisis dates and superpower signaling context."
+    },
+    {
+      "source_name": "Britannica - The Sino-Soviet split",
+      "source_url": "https://www.britannica.com/topic/20th-century-international-relations-2085155/The-Sino-Soviet-split",
+      "source_type": "research",
+      "publisher": "Encyclopaedia Britannica",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Reference overview with dated milestones for ideological and political split dynamics."
+    },
+    {
+      "source_name": "Wikipedia - Sino-Soviet border conflict",
+      "source_url": "https://en.wikipedia.org/wiki/Sino-Soviet_border_conflict",
+      "source_type": "other",
+      "publisher": "Wikipedia",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Secondary chronology reference for specific 1969 border clash date anchors."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Rapprochement with China, 1972",
+      "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china%3B",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. diplomatic source covering Sino-Soviet split implications and triangular diplomacy."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - China Policy, 1977-1980",
+      "source_url": "https://history.state.gov/milestones/1977-1980/china-policy",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source on late-1970s strategic shifts involving China, Vietnam, and the Soviet Union."
+    },
+    {
+      "source_name": "FMPRC Archive - Sino-Soviet Relations and Normalization (1989 context)",
+      "source_url": "https://www.fmprc.gov.cn/eng/zy/wjls/3604_665547/202405/t20240531_11367539.html",
+      "source_type": "official",
+      "publisher": "Ministry of Foreign Affairs of the People's Republic of China",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official Chinese archival summary covering normalization milestones including the 1989 summit."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Collapse of the Soviet Union",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official chronology for late-Soviet transition and dissolution timeline."
+    }
+  ],
+  "events": [
+    {
+      "slug": "china-soviet-prc-founded-1949-10-01",
+      "title": "PRC is founded, creating the basis for early China-Soviet alliance",
+      "event_date": "1949-10-01",
+      "region": "China; Soviet Union",
+      "category": "Systemic Transition",
+      "summary": "The People's Republic of China was proclaimed in Beijing, reshaping socialist bloc dynamics in Eurasia.",
+      "impact": "A new strategic partnership with the USSR emerged, redefining alliance calculations in Asia and the broader Cold War.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-treaty-signed-1950-02-14",
+      "title": "China and the Soviet Union sign Treaty of Friendship, Alliance, and Mutual Assistance",
+      "event_date": "1950-02-14",
+      "region": "China; Soviet Union",
+      "category": "Military Alliance",
+      "summary": "Beijing and Moscow formalized alliance commitments and strategic cooperation in a major postwar treaty framework.",
+      "impact": "The treaty consolidated the early socialist bloc in Asia and altered regional deterrence and security expectations.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-korean-war-begins-1950-06-25",
+      "title": "Korean War begins and deepens China-Soviet military coordination pressures",
+      "event_date": "1950-06-25",
+      "region": "Korean Peninsula; China; Soviet Union",
+      "category": "War and Conflict",
+      "summary": "The Korean War escalated into a major Cold War theater involving Chinese forces and Soviet backing.",
+      "impact": "Operational coordination and burden-sharing frictions appeared alongside strategic alignment against U.S.-led forces.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-ideological-frictions-after-1956-02-25",
+      "title": "Post-Stalin de-Stalinization speech accelerates Sino-Soviet ideological divergence",
+      "event_date": "1956-02-25",
+      "region": "Soviet Union; China",
+      "category": "Ideological Conflict",
+      "summary": "Khrushchev's denunciation of Stalin intensified political and doctrinal disagreements between Beijing and Moscow.",
+      "impact": "Competing leadership claims within the socialist camp grew, weakening bloc cohesion and policy coordination.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-taiwan-strait-crisis-1958-08-23",
+      "title": "Second Taiwan Strait crisis exposes strategic tension within the alliance",
+      "event_date": "1958-08-23",
+      "region": "Taiwan Strait; China; Soviet Union",
+      "category": "Geopolitical Shock",
+      "summary": "Renewed shelling in the Taiwan Strait raised escalation risk and stressed Beijing-Moscow strategic coordination.",
+      "impact": "Differences over crisis management and nuclear risk contributed to long-run deterioration of bilateral trust.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-advisers-withdrawal-1960-07-16",
+      "title": "Soviet advisers are withdrawn from China during the widening split",
+      "event_date": "1960-07-16",
+      "region": "China; Soviet Union",
+      "category": "Alliance Breakdown",
+      "summary": "Moscow withdrew large numbers of technical experts and advisers from China as bilateral disputes intensified.",
+      "impact": "The move formalized alliance breakdown and disrupted industrial, defense, and technology cooperation channels.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-zhenbao-border-clash-1969-03-02",
+      "title": "Armed border clash breaks out at Zhenbao (Damansky) Island",
+      "event_date": "1969-03-02",
+      "region": "China-Soviet border",
+      "category": "War and Conflict",
+      "summary": "Chinese and Soviet forces engaged in deadly combat at Zhenbao Island during a major border crisis.",
+      "impact": "Direct military confrontation between socialist powers raised nuclear escalation concerns and transformed global strategic calculations.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-ussr-us-china-triangle-shift-1972-02-21",
+      "title": "U.S.-China opening intensifies strategic pressure on the Soviet Union",
+      "event_date": "1972-02-21",
+      "region": "China; Soviet Union; United States",
+      "category": "Strategic Realignment",
+      "summary": "Nixon's Beijing visit signaled a major geopolitical realignment amid the ongoing Sino-Soviet split.",
+      "impact": "Triangular diplomacy reduced Soviet strategic leverage and pushed Moscow to reassess force posture and negotiations.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-china-vietnam-war-1979-02-17",
+      "title": "China-Vietnam war turns Sino-Soviet rivalry into direct proxy confrontation",
+      "event_date": "1979-02-17",
+      "region": "China; Vietnam; Soviet Union",
+      "category": "War and Conflict",
+      "summary": "China launched a punitive campaign against Vietnam, a Soviet-aligned state, amid escalating regional tensions.",
+      "impact": "The conflict deepened Moscow-Beijing antagonism and reinforced competing military alignments in Asia.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-brezhnev-tashkent-signal-1982-03-24",
+      "title": "Brezhnev's Tashkent speech opens a new path toward Sino-Soviet normalization",
+      "event_date": "1982-03-24",
+      "region": "Soviet Union; China",
+      "category": "Diplomatic Thaw",
+      "summary": "Soviet leadership publicly signaled interest in easing tensions and improving relations with China.",
+      "impact": "The speech marked an early diplomatic opening that later enabled high-level normalization talks.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-gorbachev-era-reset-1985-03-11",
+      "title": "Gorbachev leadership transition accelerates Sino-Soviet reset",
+      "event_date": "1985-03-11",
+      "region": "Soviet Union; China",
+      "category": "Political Transition",
+      "summary": "Mikhail Gorbachev's rise created policy space for renewed diplomacy with Beijing after prolonged hostility.",
+      "impact": "Strategic competition began to de-escalate, improving prospects for border talks and normalization.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-normalization-summit-1989-05-15",
+      "title": "Gorbachev's Beijing visit formalizes Sino-Soviet normalization",
+      "event_date": "1989-05-15",
+      "region": "China; Soviet Union",
+      "category": "Diplomatic Framework",
+      "summary": "Top leaders met in Beijing and formally restored normalized state-to-state relations after decades of split.",
+      "impact": "The summit reduced bilateral military tension and closed a major Cold War fault line in Eurasia.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-border-agreement-1991-05-16",
+      "title": "China and the Soviet Union sign major eastern border agreement",
+      "event_date": "1991-05-16",
+      "region": "China-Soviet border",
+      "category": "Treaty Settlement",
+      "summary": "Both sides signed a key border arrangement in Moscow, institutionalizing de-escalation along contested sectors.",
+      "impact": "Border stabilization lowered long-run conflict risk and enabled post-Soviet continuity in bilateral diplomacy.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-soviet-ussr-dissolution-1991-12-25",
+      "title": "Soviet Union dissolves, ending the Sino-Soviet state relationship framework",
+      "event_date": "1991-12-25",
+      "region": "Soviet Union; China; Eurasia",
+      "category": "Systemic Transition",
+      "summary": "The Soviet Union ceased to function as a union-level state after leadership resignation and institutional collapse.",
+      "impact": "China's northern strategic environment shifted from one superpower relationship to multiple successor-state tracks.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_slug": "china-soviet-prc-founded-1949-10-01",
+      "source_url": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "relevance_rank": 1,
+      "citation_note": "Official source for PRC founding date and Cold War alignment context."
+    },
+    {
+      "event_slug": "china-soviet-treaty-signed-1950-02-14",
+      "source_url": "https://www.fmprc.gov.cn/mfa_eng/zy/wjls/3604_665547/202405/t20240531_11367548.html",
+      "relevance_rank": 1,
+      "citation_note": "Official Chinese archival source for the 1950 treaty."
+    },
+    {
+      "event_slug": "china-soviet-korean-war-begins-1950-06-25",
+      "source_url": "https://history.state.gov/milestones/1945-1952/korean-war",
+      "relevance_rank": 1,
+      "citation_note": "Official U.S. chronology for war onset and strategic context."
+    },
+    {
+      "event_slug": "china-soviet-ideological-frictions-after-1956-02-25",
+      "source_url": "https://www.britannica.com/topic/20th-century-international-relations-2085155/The-Sino-Soviet-split",
+      "relevance_rank": 1,
+      "citation_note": "Reference overview of split chronology following de-Stalinization."
+    },
+    {
+      "event_slug": "china-soviet-taiwan-strait-crisis-1958-08-23",
+      "source_url": "https://history.state.gov/milestones/1953-1960/taiwan-strait-crises",
+      "relevance_rank": 1,
+      "citation_note": "Official source for second Taiwan Strait crisis date anchor."
+    },
+    {
+      "event_slug": "china-soviet-advisers-withdrawal-1960-07-16",
+      "source_url": "https://www.britannica.com/topic/20th-century-international-relations-2085155/The-Sino-Soviet-split",
+      "relevance_rank": 1,
+      "citation_note": "Reference chronology for Soviet adviser withdrawal and split escalation."
+    },
+    {
+      "event_slug": "china-soviet-zhenbao-border-clash-1969-03-02",
+      "source_url": "https://en.wikipedia.org/wiki/Sino-Soviet_border_conflict",
+      "relevance_rank": 1,
+      "citation_note": "Secondary chronology reference for March 1969 border clash date."
+    },
+    {
+      "event_slug": "china-soviet-ussr-us-china-triangle-shift-1972-02-21",
+      "source_url": "https://history.state.gov/milestones/1969-1976/rapprochement-china%3B",
+      "relevance_rank": 1,
+      "citation_note": "Official source for U.S.-China opening and split-related strategic context."
+    },
+    {
+      "event_slug": "china-soviet-china-vietnam-war-1979-02-17",
+      "source_url": "https://history.state.gov/milestones/1977-1980/china-policy",
+      "relevance_rank": 1,
+      "citation_note": "Official source for late-1970s China policy and regional strategic competition context."
+    },
+    {
+      "event_slug": "china-soviet-brezhnev-tashkent-signal-1982-03-24",
+      "source_url": "https://www.fmprc.gov.cn/eng/zy/wjls/3604_665547/202405/t20240531_11367539.html",
+      "relevance_rank": 1,
+      "citation_note": "Official Chinese archive source on the diplomatic path toward normalization."
+    },
+    {
+      "event_slug": "china-soviet-gorbachev-era-reset-1985-03-11",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "relevance_rank": 1,
+      "citation_note": "Official source for leadership transition date and late-Cold-War strategic context."
+    },
+    {
+      "event_slug": "china-soviet-normalization-summit-1989-05-15",
+      "source_url": "https://www.fmprc.gov.cn/eng/zy/wjls/3604_665547/202405/t20240531_11367539.html",
+      "relevance_rank": 1,
+      "citation_note": "Official source for 1989 normalization summit in Beijing."
+    },
+    {
+      "event_slug": "china-soviet-border-agreement-1991-05-16",
+      "source_url": "https://www.fmprc.gov.cn/eng/zy/wjls/3604_665547/202405/t20240531_11367539.html",
+      "relevance_rank": 1,
+      "citation_note": "Official source for May 1991 border-settlement milestone in final Soviet period."
+    },
+    {
+      "event_slug": "china-soviet-ussr-dissolution-1991-12-25",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "relevance_rank": 1,
+      "citation_note": "Official source for USSR dissolution sequence."
+    }
+  ]
+}

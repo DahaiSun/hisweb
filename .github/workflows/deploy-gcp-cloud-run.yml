@@ -1,0 +1,138 @@
+name: Deploy To Google Cloud Run
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "web/**"
+      - ".github/workflows/deploy-gcp-cloud-run.yml"
+  workflow_dispatch:
+    inputs:
+      import_seed:
+        description: "Run seed import after deploy"
+        required: true
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: deploy-cloud-run-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
+  REGION: ${{ vars.GCP_REGION }}
+  SERVICE: ${{ vars.GCP_CLOUD_RUN_SERVICE }}
+  AR_REPOSITORY: ${{ vars.GCP_ARTIFACT_REPOSITORY }}
+  CLOUD_SQL_CONNECTION: ${{ vars.GCP_CLOUD_SQL_CONNECTION }}
+  DB_SECRET_NAME: ${{ vars.GCP_DB_SECRET_NAME }}
+  SERVICE_TOKEN_SECRET_NAME: ${{ vars.GCP_SERVICE_TOKEN_SECRET_NAME }}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate required variables
+        shell: bash
+        run: |
+          required=(
+            PROJECT_ID
+            REGION
+            SERVICE
+            AR_REPOSITORY
+            CLOUD_SQL_CONNECTION
+            DB_SECRET_NAME
+            SERVICE_TOKEN_SECRET_NAME
+          )
+          for key in "${required[@]}"; do
+            if [[ -z "${!key}" ]]; then
+              echo "Missing required repo variable: ${key}"
+              exit 1
+            fi
+          done
+
+      - name: Authenticate to GCP
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ secrets.GCP_SERVICE_ACCOUNT }}
+
+      - name: Setup gcloud
+        uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ env.PROJECT_ID }}
+
+      - name: Ensure Artifact Registry repository exists
+        shell: bash
+        run: |
+          gcloud artifacts repositories describe "${AR_REPOSITORY}" \
+            --location="${REGION}" >/dev/null 2>&1 || \
+          gcloud artifacts repositories create "${AR_REPOSITORY}" \
+            --repository-format=docker \
+            --location="${REGION}" \
+            --description="Container images for ${SERVICE}"
+
+      - name: Configure Docker auth
+        shell: bash
+        run: gcloud auth configure-docker "${REGION}-docker.pkg.dev" --quiet
+
+      - name: Build and push image
+        id: build
+        shell: bash
+        run: |
+          IMAGE="${REGION}-docker.pkg.dev/${PROJECT_ID}/${AR_REPOSITORY}/${SERVICE}:${GITHUB_SHA}"
+          gcloud builds submit web --tag "${IMAGE}"
+          echo "image=${IMAGE}" >> "${GITHUB_OUTPUT}"
+
+      - name: Deploy to Cloud Run
+        shell: bash
+        run: |
+          gcloud run deploy "${SERVICE}" \
+            --image "${{ steps.build.outputs.image }}" \
+            --region "${REGION}" \
+            --platform managed \
+            --allow-unauthenticated \
+            --add-cloudsql-instances "${CLOUD_SQL_CONNECTION}" \
+            --set-secrets "DATABASE_URL=${DB_SECRET_NAME}:latest,SERVICE_TOKEN=${SERVICE_TOKEN_SECRET_NAME}:latest" \
+            --set-env-vars "NODE_ENV=production"
+
+      - name: Capture service URL
+        id: service_url
+        shell: bash
+        run: |
+          URL="$(gcloud run services describe "${SERVICE}" --region "${REGION}" --format='value(status.url)')"
+          echo "url=${URL}" >> "${GITHUB_OUTPUT}"
+          echo "Service URL: ${URL}"
+
+      - name: Setup Node.js (seed import)
+        if: github.event_name == 'workflow_dispatch' && inputs.import_seed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: web/package-lock.json
+
+      - name: Import seed after deploy
+        if: github.event_name == 'workflow_dispatch' && inputs.import_seed == 'true'
+        shell: bash
+        working-directory: web
+        env:
+          SEED_API_BASE_URL: ${{ steps.service_url.outputs.url }}
+          SERVICE_TOKEN: ${{ secrets.SERVICE_TOKEN }}
+        run: |
+          if [[ -z "${SERVICE_TOKEN}" ]]; then
+            echo "Missing required repo secret: SERVICE_TOKEN"
+            exit 1
+          fi
+          npm ci
+          npm run seed:import

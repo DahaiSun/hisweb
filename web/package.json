@@ -1,0 +1,27 @@
+{
+  "name": "financial-history-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test:api": "node scripts/test-api.mjs",
+    "seed:import": "node scripts/import-seed.mjs",
+    "seed:check": "node scripts/import-seed.mjs --dry-run",
+    "seed:coverage:2025": "node scripts/seed-coverage.mjs --year 2025"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "pg": "^8.13.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/pg": "^8.16.0",
+    "@types/react": "19.2.13",
+    "typescript": "^5.7.2"
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "sources": [
+    {
+      "source_name": "UK National Archives - Iron Curtain speech transcript",
+      "source_url": "https://www.nationalarchives.gov.uk/education/resources/cold-war-on-file/iron-curtain-speech/",
+      "source_type": "archive",
+      "publisher": "The National Archives (UK)",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official archival transcript context for Churchill's 1946 speech."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Truman Doctrine",
+      "source_url": "https://history.state.gov/milestones/1945-1952/truman-doctrine",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official U.S. diplomatic history summary with date and policy context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Marshall Plan",
+      "source_url": "https://history.state.gov/milestones/1945-1952/marshall-plan",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official U.S. diplomatic history source for Marshall Plan milestones."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Berlin Airlift",
+      "source_url": "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official timeline and date anchors for blockade and airlift."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - NATO, 1949",
+      "source_url": "https://history.state.gov/milestones/1945-1952/nato",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official diplomatic history entry on NATO founding."
+    },
+    {
+      "source_name": "CTBTO - International Day against Nuclear Tests",
+      "source_url": "https://www.ctbto.org/news-and-events/international-day-against-nuclear-tests",
+      "source_type": "official",
+      "publisher": "Comprehensive Nuclear-Test-Ban Treaty Organization",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Intergovernmental institution noting first Soviet test date and site."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Korean War and Japan's Recovery",
+      "source_url": "https://history.state.gov/milestones/1945-1952/korean-war",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official U.S. diplomatic history context for Korean War onset."
+    },
+    {
+      "source_name": "NATO - What was the Warsaw Pact?",
+      "source_url": "https://www.nato.int/cps/en/natohq/declassified_138294.htm",
+      "source_type": "official",
+      "publisher": "North Atlantic Treaty Organization",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official NATO historical page with formation and dissolution dates."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Berlin Crisis, 1958-1961",
+      "source_url": "https://history.state.gov/milestones/1953-1960/berlin-crises",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official source covering Berlin Wall construction context and date."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Cuban Missile Crisis",
+      "source_url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official source documenting the 1962 nuclear crisis timeline."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Soviet Invasion of Czechoslovakia, 1968",
+      "source_url": "https://history.state.gov/milestones/1961-1968/soviet-invasion-czechoslavkia",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official timeline for Warsaw Pact intervention in Czechoslovakia."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - SALT I and II",
+      "source_url": "https://history.state.gov/milestones/1969-1976/salt",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official diplomatic history source for SALT and ABM treaty milestones."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Soviet Invasion of Afghanistan",
+      "source_url": "https://history.state.gov/milestones/1977-1980/soviet-invasion-afghanistan",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official source for invasion timing and strategic significance."
+    },
+    {
+      "source_name": "Ronald Reagan Library - Address on Defense and National Security (1983)",
+      "source_url": "https://www.reaganlibrary.gov/archives/speech/address-nation-defense-and-national-security",
+      "source_type": "archive",
+      "publisher": "Ronald Reagan Presidential Library and Museum",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Presidential archive text for SDI announcement speech."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - U.S.-Soviet Relations, 1981-1991",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official narrative covering Gorbachev era and late Cold War diplomacy."
+    },
+    {
+      "source_name": "U.S. DoD Strategic Deterrence - INF Treaty Text",
+      "source_url": "https://www.acq.osd.mil/asda/ssipm/sdc/tc/inf/INFtext.html",
+      "source_type": "official",
+      "publisher": "U.S. Department of Defense",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official treaty text repository with signature and entry-into-force dates."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Fall of Communism in Eastern Europe, 1989",
+      "source_url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official source for Berlin Wall collapse and 1989 transitions."
+    },
+    {
+      "source_name": "German Federal Foreign Office - Two Plus Four Treaty",
+      "source_url": "https://www.auswaertiges-amt.de/en/aussenpolitik/themen/uebersicht-248550",
+      "source_type": "official",
+      "publisher": "Federal Foreign Office of Germany",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official treaty page with full text and signature date."
+    },
+    {
+      "source_name": "U.S. National Archives - German Reunification Day Anniversary",
+      "source_url": "https://www.archives.gov/presidential-libraries/events/german-reunification",
+      "source_type": "official",
+      "publisher": "U.S. National Archives and Records Administration",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official archive page confirming 3 Oct 1990 reunification date context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Collapse of the Soviet Union",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official source for 1991 collapse sequence and key dates."
+    }
+  ],
+  "events": [
+    {
+      "slug": "cold-war-iron-curtain-speech-1946-03-05",
+      "title": "Churchill delivers the Iron Curtain speech in Fulton",
+      "event_date": "1946-03-05",
+      "region": "Europe; United States",
+      "category": "Cold War Doctrine",
+      "summary": "Winston Churchill's 'Sinews of Peace' speech publicly framed postwar Europe as divided by an 'iron curtain' under Soviet influence.",
+      "impact": "The speech accelerated policy alignment in Western capitals and became an early doctrinal marker of bloc confrontation.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-truman-doctrine-1947-03-12",
+      "title": "Truman Doctrine formally commits U.S. to containment",
+      "event_date": "1947-03-12",
+      "region": "United States; Europe",
+      "category": "Cold War Doctrine",
+      "summary": "President Truman asked Congress to support Greece and Turkey and stated a broader policy of backing states resisting coercive takeover.",
+      "impact": "U.S. foreign policy shifted toward sustained global containment, anchoring long-run Cold War security commitments.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-marshall-plan-proposal-1947-06-05",
+      "title": "Marshall Plan proposal launched for European recovery",
+      "event_date": "1947-06-05",
+      "region": "Europe; United States",
+      "category": "Economic Statecraft",
+      "summary": "Secretary of State George Marshall proposed a large-scale U.S.-backed recovery program for war-damaged Europe.",
+      "impact": "The program strengthened Western European reconstruction and institutionalized economic competition between blocs.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-berlin-blockade-begins-1948-06-24",
+      "title": "Soviet blockade of West Berlin begins",
+      "event_date": "1948-06-24",
+      "region": "Germany; Europe",
+      "category": "Geopolitical Shock",
+      "summary": "Soviet authorities cut land and water access to West Berlin, triggering the first major Berlin crisis.",
+      "impact": "The crisis hardened East-West separation, prompted the Allied airlift, and raised direct superpower confrontation risk.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-nato-founded-1949-04-04",
+      "title": "North Atlantic Treaty signed, establishing NATO",
+      "event_date": "1949-04-04",
+      "region": "North Atlantic; Europe",
+      "category": "Military Alliance",
+      "summary": "The United States, Canada, and Western European states signed the North Atlantic Treaty to institutionalize collective defense.",
+      "impact": "A formal Western security architecture emerged, reshaping military planning and long-run risk pricing in Europe.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-soviet-first-atomic-test-1949-08-29",
+      "title": "Soviet Union conducts first atomic bomb test",
+      "event_date": "1949-08-29",
+      "region": "Soviet Union; Central Asia",
+      "category": "Nuclear Policy",
+      "summary": "The USSR carried out its first nuclear test at Semipalatinsk, ending the U.S. atomic monopoly.",
+      "impact": "Strategic deterrence shifted to bilateral nuclear competition and intensified arms-race dynamics.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-korean-war-begins-1950-06-25",
+      "title": "Korean War begins",
+      "event_date": "1950-06-25",
+      "region": "Korean Peninsula; East Asia",
+      "category": "War and Conflict",
+      "summary": "The outbreak of war on the Korean Peninsula internationalized Cold War confrontation in Asia.",
+      "impact": "The conflict expanded alliance commitments, defense spending, and the proxy-war pattern of superpower rivalry.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-warsaw-pact-signed-1955-05-14",
+      "title": "Warsaw Pact signed",
+      "event_date": "1955-05-14",
+      "region": "Eastern Europe",
+      "category": "Military Alliance",
+      "summary": "The Soviet Union and allied Eastern European states established the Warsaw Pact collective defense framework.",
+      "impact": "Europe's military bipolarity was formalized, increasing bloc-to-bloc force posturing and escalation pathways.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-berlin-wall-construction-1961-08-13",
+      "title": "Berlin Wall construction starts",
+      "event_date": "1961-08-13",
+      "region": "Germany; Europe",
+      "category": "Geopolitical Shock",
+      "summary": "East German authorities, backed by Soviet strategy, sealed the intra-Berlin border and began constructing the Berlin Wall.",
+      "impact": "The Wall became the central physical symbol of Cold War division and entrenched systemic separation in Europe.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-cuban-missile-crisis-public-1962-10-22",
+      "title": "Cuban Missile Crisis becomes public and blockade begins",
+      "event_date": "1962-10-22",
+      "region": "Caribbean; Global",
+      "category": "Nuclear Policy",
+      "summary": "President Kennedy publicly announced Soviet missile deployments in Cuba and imposed a naval quarantine.",
+      "impact": "Nuclear confrontation risk spiked to extreme levels, driving later crisis-management and arms-control mechanisms.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-prague-spring-crushed-1968-08-20",
+      "title": "Warsaw Pact invasion crushes Prague Spring reforms",
+      "event_date": "1968-08-20",
+      "region": "Czechoslovakia; Eastern Europe",
+      "category": "War and Conflict",
+      "summary": "Soviet-led Warsaw Pact forces entered Czechoslovakia to halt reform efforts associated with the Prague Spring.",
+      "impact": "The intervention reaffirmed Soviet coercive control in Eastern Europe and constrained reform pathways within the bloc.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-salt-i-abm-signed-1972-05-26",
+      "title": "SALT I and ABM Treaty signed in Moscow",
+      "event_date": "1972-05-26",
+      "region": "United States; Soviet Union",
+      "category": "Arms Control",
+      "summary": "Washington and Moscow signed SALT I accords and the ABM Treaty, setting initial constraints on strategic systems.",
+      "impact": "Strategic stability rules became partially institutionalized, reducing some first-strike incentives during detente.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-soviet-invasion-afghanistan-1979-12-24",
+      "title": "Soviet military intervention in Afghanistan escalates into invasion",
+      "event_date": "1979-12-24",
+      "region": "Afghanistan; Central Asia",
+      "category": "War and Conflict",
+      "summary": "Soviet forces entered Afghanistan and took direct control of the security and political center in Kabul.",
+      "impact": "Detente deteriorated sharply, sanctions and geopolitical confrontation intensified, and long-run regional instability increased.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-sdi-announced-1983-03-23",
+      "title": "Reagan announces the Strategic Defense Initiative",
+      "event_date": "1983-03-23",
+      "region": "United States; Global",
+      "category": "Nuclear Policy",
+      "summary": "President Reagan announced a long-term research program to develop missile defenses later known as SDI.",
+      "impact": "Strategic competition widened from offensive arms ceilings to high-technology defense races and bargaining leverage.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-gorbachev-becomes-general-secretary-1985-03-11",
+      "title": "Gorbachev becomes CPSU General Secretary",
+      "event_date": "1985-03-11",
+      "region": "Soviet Union",
+      "category": "Political Transition",
+      "summary": "Mikhail Gorbachev assumed Soviet top leadership, beginning a reform era associated with glasnost and perestroika.",
+      "impact": "Soviet policy flexibility increased, enabling later arms-control progress and reducing military intervention in Eastern Europe.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-inf-treaty-signed-1987-12-08",
+      "title": "INF Treaty signed in Washington",
+      "event_date": "1987-12-08",
+      "region": "United States; Soviet Union; Europe",
+      "category": "Arms Control",
+      "summary": "The United States and the Soviet Union signed the INF Treaty eliminating an entire class of land-based intermediate-range missiles.",
+      "impact": "Verification-based disarmament improved confidence and materially reduced theater-level nuclear risk in Europe.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-berlin-wall-falls-1989-11-09",
+      "title": "Berlin Wall opens and begins to fall",
+      "event_date": "1989-11-09",
+      "region": "Germany; Europe",
+      "category": "Systemic Transition",
+      "summary": "East German authorities opened border crossings, and mass public action quickly dismantled the Berlin Wall's practical function.",
+      "impact": "The event accelerated Eastern European regime transitions and signaled rapid collapse of the postwar bloc order.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-two-plus-four-treaty-1990-09-12",
+      "title": "Two Plus Four Treaty signed in Moscow",
+      "event_date": "1990-09-12",
+      "region": "Germany; Europe",
+      "category": "Treaty Settlement",
+      "summary": "The two German states and four WWII powers signed the final settlement treaty resolving Germany's external status questions.",
+      "impact": "The agreement cleared core legal-security obstacles to full German sovereignty and reunification.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-german-reunification-1990-10-03",
+      "title": "German reunification is formally completed",
+      "event_date": "1990-10-03",
+      "region": "Germany; Europe",
+      "category": "Systemic Transition",
+      "summary": "The German Democratic Republic acceded to the Federal Republic of Germany, restoring a unified German state.",
+      "impact": "European political-economic integration and post-Cold War security architecture were fundamentally reshaped.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-warsaw-pact-dissolved-1991-07-01",
+      "title": "Warsaw Pact is formally dissolved",
+      "event_date": "1991-07-01",
+      "region": "Eastern Europe",
+      "category": "Military Alliance",
+      "summary": "Warsaw Pact members formally terminated the alliance framework and its military-political structures.",
+      "impact": "The institutional military pillar of the Eastern bloc ended, reducing bloc-to-bloc confrontation risk in Europe.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    },
+    {
+      "slug": "cold-war-soviet-union-dissolves-1991-12-25",
+      "title": "Soviet Union effectively dissolves after Gorbachev resignation",
+      "event_date": "1991-12-25",
+      "region": "Soviet Union; Eurasia",
+      "category": "Systemic Transition",
+      "summary": "Gorbachev resigned and Soviet state institutions ceased operating as a union-level superpower framework.",
+      "impact": "The bipolar Cold War order ended and global strategic, fiscal, and commodity-risk regimes re-priced around a new system.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "review"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_slug": "cold-war-iron-curtain-speech-1946-03-05",
+      "source_url": "https://www.nationalarchives.gov.uk/education/resources/cold-war-on-file/iron-curtain-speech/",
+      "relevance_rank": 1,
+      "citation_note": "Transcript archive of the 5 March 1946 speech."
+    },
+    {
+      "event_slug": "cold-war-truman-doctrine-1947-03-12",
+      "source_url": "https://history.state.gov/milestones/1945-1952/truman-doctrine",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone record for the doctrine announcement."
+    },
+    {
+      "event_slug": "cold-war-marshall-plan-proposal-1947-06-05",
+      "source_url": "https://history.state.gov/milestones/1945-1952/marshall-plan",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone record referencing Marshall's June 1947 proposal."
+    },
+    {
+      "event_slug": "cold-war-berlin-blockade-begins-1948-06-24",
+      "source_url": "https://history.state.gov/milestones/1945-1952/berlin-airlift",
+      "relevance_rank": 1,
+      "citation_note": "Official timeline with blockade start date and crisis progression."
+    },
+    {
+      "event_slug": "cold-war-nato-founded-1949-04-04",
+      "source_url": "https://history.state.gov/milestones/1945-1952/nato",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone for NATO treaty establishment."
+    },
+    {
+      "event_slug": "cold-war-soviet-first-atomic-test-1949-08-29",
+      "source_url": "https://www.ctbto.org/news-and-events/international-day-against-nuclear-tests",
+      "relevance_rank": 1,
+      "citation_note": "CTBTO page cites 29 Aug 1949 as first Soviet nuclear test date."
+    },
+    {
+      "event_slug": "cold-war-korean-war-begins-1950-06-25",
+      "source_url": "https://history.state.gov/milestones/1945-1952/korean-war",
+      "relevance_rank": 1,
+      "citation_note": "Official U.S. diplomatic history treatment of Korean War onset context."
+    },
+    {
+      "event_slug": "cold-war-warsaw-pact-signed-1955-05-14",
+      "source_url": "https://www.nato.int/cps/en/natohq/declassified_138294.htm",
+      "relevance_rank": 1,
+      "citation_note": "NATO historical entry lists Warsaw Pact creation date and structure."
+    },
+    {
+      "event_slug": "cold-war-berlin-wall-construction-1961-08-13",
+      "source_url": "https://history.state.gov/milestones/1953-1960/berlin-crises",
+      "relevance_rank": 1,
+      "citation_note": "Official crisis timeline records Wall construction in Aug 1961."
+    },
+    {
+      "event_slug": "cold-war-cuban-missile-crisis-public-1962-10-22",
+      "source_url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+      "relevance_rank": 1,
+      "citation_note": "Official chronology of U.S.-Soviet missile confrontation in Cuba."
+    },
+    {
+      "event_slug": "cold-war-prague-spring-crushed-1968-08-20",
+      "source_url": "https://history.state.gov/milestones/1961-1968/soviet-invasion-czechoslavkia",
+      "relevance_rank": 1,
+      "citation_note": "Official account of Soviet-led intervention start on 20-21 Aug 1968."
+    },
+    {
+      "event_slug": "cold-war-salt-i-abm-signed-1972-05-26",
+      "source_url": "https://history.state.gov/milestones/1969-1976/salt",
+      "relevance_rank": 1,
+      "citation_note": "Official SALT record with ABM/SALT I signing date."
+    },
+    {
+      "event_slug": "cold-war-soviet-invasion-afghanistan-1979-12-24",
+      "source_url": "https://history.state.gov/milestones/1977-1980/soviet-invasion-afghanistan",
+      "relevance_rank": 1,
+      "citation_note": "Official history entry documenting late-December Soviet intervention."
+    },
+    {
+      "event_slug": "cold-war-sdi-announced-1983-03-23",
+      "source_url": "https://www.reaganlibrary.gov/archives/speech/address-nation-defense-and-national-security",
+      "relevance_rank": 1,
+      "citation_note": "Primary speech source for SDI announcement."
+    },
+    {
+      "event_slug": "cold-war-gorbachev-becomes-general-secretary-1985-03-11",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "relevance_rank": 1,
+      "citation_note": "Official narrative covering Gorbachev-era policy shift."
+    },
+    {
+      "event_slug": "cold-war-inf-treaty-signed-1987-12-08",
+      "source_url": "https://www.acq.osd.mil/asda/ssipm/sdc/tc/inf/INFtext.html",
+      "relevance_rank": 1,
+      "citation_note": "Official treaty text records signature date and legal terms."
+    },
+    {
+      "event_slug": "cold-war-inf-treaty-signed-1987-12-08",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "relevance_rank": 2,
+      "citation_note": "Broader diplomatic context for late Cold War arms control."
+    },
+    {
+      "event_slug": "cold-war-berlin-wall-falls-1989-11-09",
+      "source_url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+      "relevance_rank": 1,
+      "citation_note": "Official account of Nov 1989 Wall opening and cascade effects."
+    },
+    {
+      "event_slug": "cold-war-two-plus-four-treaty-1990-09-12",
+      "source_url": "https://www.auswaertiges-amt.de/en/aussenpolitik/themen/uebersicht-248550",
+      "relevance_rank": 1,
+      "citation_note": "Official German treaty repository listing the 12 Sep 1990 agreement."
+    },
+    {
+      "event_slug": "cold-war-german-reunification-1990-10-03",
+      "source_url": "https://www.archives.gov/presidential-libraries/events/german-reunification",
+      "relevance_rank": 1,
+      "citation_note": "NARA page confirming 3 Oct 1990 reunification date context."
+    },
+    {
+      "event_slug": "cold-war-german-reunification-1990-10-03",
+      "source_url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+      "relevance_rank": 2,
+      "citation_note": "Official U.S. diplomatic context linking 1989 events to 1990 reunification."
+    },
+    {
+      "event_slug": "cold-war-warsaw-pact-dissolved-1991-07-01",
+      "source_url": "https://www.nato.int/cps/en/natohq/declassified_138294.htm",
+      "relevance_rank": 1,
+      "citation_note": "NATO historical entry includes formal end date in July 1991."
+    },
+    {
+      "event_slug": "cold-war-soviet-union-dissolves-1991-12-25",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "relevance_rank": 1,
+      "citation_note": "Official timeline for Gorbachev resignation and Soviet dissolution sequence."
+    },
+    {
+      "event_slug": "cold-war-soviet-union-dissolves-1991-12-25",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "relevance_rank": 2,
+      "citation_note": "Late Cold War diplomatic trajectory and system transition context."
+    }
+  ]
+}

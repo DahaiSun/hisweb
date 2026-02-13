@@ -1,0 +1,520 @@
+{
+  "sources": [
+    {
+      "source_name": "UK National Archives - Gold Standard and Great Depression",
+      "source_url": "https://www.nationalarchives.gov.uk/education/resources/great-depression/gold-standard/",
+      "source_type": "archive",
+      "publisher": "The National Archives (UK)",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Archival educational resource with documented 1931 UK gold standard exit context."
+    },
+    {
+      "source_name": "IMF History Timeline",
+      "source_url": "https://www.imf.org/en/About/History/Timeline",
+      "source_type": "official",
+      "publisher": "International Monetary Fund",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official IMF institutional timeline covering debt and currency crises."
+    },
+    {
+      "source_name": "G7 Toronto Archive - Plaza Agreement Statement (1985)",
+      "source_url": "https://g7.utoronto.ca/finance/fm850922.htm",
+      "source_type": "archive",
+      "publisher": "G7 Information Centre, University of Toronto",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Archival text of G5 finance ministers and central bank governors statement."
+    },
+    {
+      "source_name": "G7 Toronto Archive - Louvre Accord Statement (1987)",
+      "source_url": "https://g7.utoronto.ca/finance/fm870222.htm",
+      "source_type": "archive",
+      "publisher": "G7 Information Centre, University of Toronto",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Archival statement documenting post-Plaza exchange-rate coordination."
+    },
+    {
+      "source_name": "Federal Reserve Bank of New York - President McDonough speech on LTCM (1998)",
+      "source_url": "https://www.newyorkfed.org/newsevents/speeches/1998/dun980915.html",
+      "source_type": "official",
+      "publisher": "Federal Reserve Bank of New York",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Primary policy speech source from crisis period discussing LTCM and systemic risk."
+    },
+    {
+      "source_name": "WTO - China marks 20 years of WTO membership",
+      "source_url": "https://www.wto.org/english/news_e/news21_e/china_10dec21_e.htm",
+      "source_type": "official",
+      "publisher": "World Trade Organization",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official WTO page that states accession date and institutional context."
+    },
+    {
+      "source_name": "ECB - The euro changeover (cash introduction)",
+      "source_url": "https://www.ecb.europa.eu/euro/changeover/html/index.en.html",
+      "source_type": "official",
+      "publisher": "European Central Bank",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official ECB record for euro notes and coins introduction."
+    },
+    {
+      "source_name": "ECB speech - Lessons from global financial crisis and euro area crisis",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2017/html/ecb.sp170907.en.html",
+      "source_type": "official",
+      "publisher": "European Central Bank",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "ECB speech explicitly referencing 9 August 2007 money market disruption milestone."
+    },
+    {
+      "source_name": "FHFA press release - Conservatorship of Fannie Mae and Freddie Mac",
+      "source_url": "https://www.fhfa.gov/news/news-release/fhfa-places-fannie-mae-and-freddie-mac-into-conservatorship",
+      "source_type": "official",
+      "publisher": "Federal Housing Finance Agency",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Primary regulator announcement for September 2008 conservatorship action."
+    },
+    {
+      "source_name": "FOMC Minutes - October 29, 2008",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20081029.htm",
+      "source_type": "official",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official minutes documenting coordinated global policy actions around October 2008."
+    },
+    {
+      "source_name": "Federal Reserve testimony - Bernanke, May 22, 2013",
+      "source_url": "https://www.federalreserve.gov/newsevents/testimony/bernanke20130522a.htm",
+      "source_type": "official",
+      "publisher": "Board of Governors of the Federal Reserve System",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Primary source tied to taper communication shock chronology."
+    },
+    {
+      "source_name": "UK Parliament Research Briefing - Brexit referendum result",
+      "source_url": "https://commonslibrary.parliament.uk/research-briefings/cbp-7639/",
+      "source_type": "official",
+      "publisher": "UK Parliament House of Commons Library",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official parliamentary briefing with referendum timing and outcomes."
+    },
+    {
+      "source_name": "Bank of England - Gilt market operation announcement (Sep 2022)",
+      "source_url": "https://www.bankofengland.co.uk/news/2022/september/bank-of-england-announces-gilt-market-operation",
+      "source_type": "official",
+      "publisher": "Bank of England",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Primary central bank announcement for temporary long-dated gilt purchases."
+    },
+    {
+      "source_name": "UN Digital Library - Security Council Resolution 660 (1990)",
+      "source_url": "https://digitallibrary.un.org/record/856?ln=en",
+      "source_type": "official",
+      "publisher": "United Nations",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official UN record associated with Iraq-Kuwait invasion response."
+    },
+    {
+      "source_name": "UN Digital Library - Letter dated 20 March 2003 from the US and UK",
+      "source_url": "https://digitallibrary.un.org/record/488176?ln=en",
+      "source_type": "official",
+      "publisher": "United Nations",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Official UN record documenting war commencement legal notification context."
+    },
+    {
+      "source_name": "UN General Assembly Resolution 68/262 (2014)",
+      "source_url": "https://docs.un.org/en/A/RES/68/262",
+      "source_type": "official",
+      "publisher": "United Nations General Assembly",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Primary UN document responding to Crimea status change."
+    },
+    {
+      "source_name": "UN General Assembly ES-11/1 (2022)",
+      "source_url": "https://documents.un.org/doc/undoc/gen/n22/293/36/pdf/n2229336.pdf",
+      "source_type": "official",
+      "publisher": "United Nations General Assembly",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Primary UN emergency session resolution on the February 2022 invasion."
+    },
+    {
+      "source_name": "UN News - Secretary-General condemns Hamas attacks (2023)",
+      "source_url": "https://news.un.org/en/story/2023/10/1142082",
+      "source_type": "official",
+      "publisher": "United Nations News",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "UN reporting source timestamped with 7 October 2023 attack context."
+    },
+    {
+      "source_name": "CNBC - S&P downgrades US credit rating to AA+ (2011)",
+      "source_url": "https://www.cnbc.com/id/44079536",
+      "source_type": "news",
+      "publisher": "CNBC",
+      "access_date": "2026-02-10",
+      "notes_on_reliability": "Market-news source for immediate rating action timing and reaction framing."
+    }
+  ],
+  "events": [
+    {
+      "slug": "uk-gold-standard-exit-1931-09-21",
+      "title": "United Kingdom leaves the gold standard",
+      "event_date": "1931-09-21",
+      "region": "United Kingdom; Global",
+      "category": "Currency Regime",
+      "summary": "The UK suspended gold convertibility for sterling during severe balance-of-payments and confidence pressures.",
+      "impact": "The move accelerated competitive devaluations and marked a major break in interwar monetary stability.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "mexico-debt-crisis-payment-halt-1982-08-20",
+      "title": "Mexico debt crisis triggers sovereign financing shock",
+      "event_date": "1982-08-20",
+      "region": "Mexico; Latin America",
+      "category": "Sovereign Debt",
+      "summary": "Mexico signaled it could not continue servicing debt on existing terms, catalyzing a wider emerging-market debt crisis.",
+      "impact": "Cross-border bank balance sheets repriced sovereign risk and policy support mechanisms expanded multilaterally.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "plaza-accord-1985-09-22",
+      "title": "Plaza Accord launches coordinated effort to weaken the US dollar",
+      "event_date": "1985-09-22",
+      "region": "United States; Japan; Western Europe",
+      "category": "International Coordination",
+      "summary": "G5 finance ministers and central bank governors agreed on coordinated action to address major exchange-rate misalignments.",
+      "impact": "FX expectations reset quickly, shaping global capital flows and trade-competitiveness dynamics.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "louvre-accord-1987-02-22",
+      "title": "Louvre Accord aims to stabilize exchange rates after Plaza",
+      "event_date": "1987-02-22",
+      "region": "United States; G7 economies",
+      "category": "International Coordination",
+      "summary": "Major economies agreed to cooperate to foster greater stability of exchange rates after substantial dollar adjustment.",
+      "impact": "The accord signaled active policy coordination to limit disorderly currency moves and financial volatility.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "mexican-peso-crisis-1994-12-20",
+      "title": "Mexican peso crisis erupts and spills across emerging markets",
+      "event_date": "1994-12-20",
+      "region": "Mexico; Emerging Markets",
+      "category": "Currency Crisis",
+      "summary": "A sharp peso adjustment triggered a funding and confidence shock that spread through regional and global portfolios.",
+      "impact": "Risk premia widened across emerging markets and crisis-management facilities were rapidly mobilized.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "ltcm-systemic-risk-intervention-1998-09-23",
+      "title": "Authorities coordinate private-sector stabilization around LTCM",
+      "event_date": "1998-09-23",
+      "region": "United States; Global",
+      "category": "Financial Stability",
+      "summary": "Severe losses at Long-Term Capital Management prompted a coordinated response to contain broader market dislocation risks.",
+      "impact": "The episode became a benchmark case for leverage, liquidity spirals, and counterparty concentration risk management.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-wto-accession-2001-12-11",
+      "title": "China joins the WTO",
+      "event_date": "2001-12-11",
+      "region": "China; Global",
+      "category": "Trade Policy",
+      "summary": "China became a WTO member, integrating more deeply into global rules-based trade frameworks.",
+      "impact": "Global supply chains, trade volumes, and sector-level capital allocation patterns shifted over subsequent years.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "euro-cash-introduction-2002-01-01",
+      "title": "Euro banknotes and coins enter circulation",
+      "event_date": "2002-01-01",
+      "region": "Euro Area",
+      "category": "Currency Regime",
+      "summary": "Euro cash replaced legacy national currencies across participating member states.",
+      "impact": "European transaction and pricing systems were transformed under a unified physical currency regime.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "global-money-market-seizure-2007-08-09",
+      "title": "Global money markets seize as crisis stress becomes visible",
+      "event_date": "2007-08-09",
+      "region": "United States; Europe; Global",
+      "category": "Financial Crisis",
+      "summary": "Money market conditions deteriorated sharply, exposing fragilities in funding structures and securitized credit channels.",
+      "impact": "Central bank liquidity operations intensified and market participants repriced short-term funding and credit risk.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "fannie-freddie-conservatorship-2008-09-07",
+      "title": "Fannie Mae and Freddie Mac are placed into conservatorship",
+      "event_date": "2008-09-07",
+      "region": "United States",
+      "category": "Crisis Policy",
+      "summary": "U.S. housing-finance agencies were placed into conservatorship under federal authority amid escalating mortgage-market stress.",
+      "impact": "Credit guarantees and sovereign backstop expectations were re-evaluated across fixed-income markets.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "coordinated-central-bank-rate-cut-2008-10-08",
+      "title": "Major central banks deliver coordinated emergency rate cuts",
+      "event_date": "2008-10-08",
+      "region": "Global",
+      "category": "Monetary Policy",
+      "summary": "Key central banks jointly lowered policy rates in response to acute global financial stress.",
+      "impact": "The action signaled synchronized crisis response and influenced global expectations for policy support depth.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-sovereign-rating-downgrade-2011-08-05",
+      "title": "S&P downgrades the US long-term sovereign credit rating",
+      "event_date": "2011-08-05",
+      "region": "United States; Global",
+      "category": "Sovereign Debt",
+      "summary": "Standard and Poor's lowered the U.S. sovereign rating from AAA to AA+ after debt-ceiling and fiscal governance disputes.",
+      "impact": "Risk sentiment deteriorated and volatility rose across global equity and credit markets.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "taper-tantrum-signal-2013-05-22",
+      "title": "Fed taper signal triggers global rate repricing",
+      "event_date": "2013-05-22",
+      "region": "United States; Global",
+      "category": "Monetary Policy",
+      "summary": "Congressional testimony signaled potential moderation in asset purchases, prompting rapid repricing in bond markets.",
+      "impact": "Yields rose sharply, especially in duration-sensitive and emerging-market assets, tightening global financial conditions.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "brexit-referendum-result-2016-06-23",
+      "title": "UK referendum votes to leave the European Union",
+      "event_date": "2016-06-23",
+      "region": "United Kingdom; Europe",
+      "category": "Political Transition",
+      "summary": "The UK electorate voted to leave the EU, launching a multi-year political and legal transition process.",
+      "impact": "Sterling and UK risk assets repriced abruptly while longer-term trade and investment assumptions shifted.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "boe-emergency-gilt-purchases-2022-09-28",
+      "title": "Bank of England launches temporary long-dated gilt purchases",
+      "event_date": "2022-09-28",
+      "region": "United Kingdom",
+      "category": "Financial Stability",
+      "summary": "The BoE announced temporary gilt purchases to restore orderly market functioning during severe pension-liability stress.",
+      "impact": "The intervention curtailed disorderly yield dynamics and highlighted fiscal-financial stability linkages.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "iraq-invades-kuwait-1990-08-02",
+      "title": "Iraq invades Kuwait",
+      "event_date": "1990-08-02",
+      "region": "Middle East",
+      "category": "Geopolitical Shock",
+      "summary": "Iraqi forces entered Kuwait, triggering immediate UN Security Council action and broad geopolitical escalation.",
+      "impact": "Oil-market risk premia rose sharply and global macro expectations adjusted to potential supply disruption.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "iraq-war-begins-2003-03-20",
+      "title": "Iraq War begins with coalition military operations",
+      "event_date": "2003-03-20",
+      "region": "Middle East; Global",
+      "category": "War and Conflict",
+      "summary": "Coalition military operations in Iraq commenced, marking a major geopolitical and security turning point.",
+      "impact": "Energy markets and global risk pricing incorporated sustained conflict and policy uncertainty.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "unga-resolution-68-262-crimea-2014-03-27",
+      "title": "UN General Assembly adopts Resolution 68/262 on Ukraine territorial integrity",
+      "event_date": "2014-03-27",
+      "region": "Ukraine; Europe",
+      "category": "Sanctions Policy",
+      "summary": "The UN General Assembly adopted Resolution 68/262 following Crimea's status change, affirming Ukraine's territorial integrity.",
+      "impact": "The vote framed subsequent sanctions, legal positions, and risk premia linked to Russia-Ukraine tensions.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "russia-full-scale-invasion-ukraine-2022-02-24",
+      "title": "Russia launches full-scale invasion of Ukraine",
+      "event_date": "2022-02-24",
+      "region": "Ukraine; Europe; Global",
+      "category": "Geopolitical Shock",
+      "summary": "Russian forces launched a full-scale invasion of Ukraine, triggering emergency UN deliberations and broad sanctions responses.",
+      "impact": "Energy, commodities, rates, and cross-border risk assets repriced around a prolonged conflict regime.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "hamas-israel-war-escalation-2023-10-07",
+      "title": "Hamas attacks trigger major Israel-Gaza war escalation",
+      "event_date": "2023-10-07",
+      "region": "Middle East; Global",
+      "category": "Geopolitical Shock",
+      "summary": "Large-scale attacks from Gaza and Israel's military response triggered a major regional security escalation.",
+      "impact": "Oil and safe-haven assets reflected heightened geopolitical risk and uncertainty over regional spillovers.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_slug": "uk-gold-standard-exit-1931-09-21",
+      "source_url": "https://www.nationalarchives.gov.uk/education/resources/great-depression/gold-standard/",
+      "relevance_rank": 1,
+      "citation_note": "Archival source for UK gold standard suspension context."
+    },
+    {
+      "event_slug": "mexico-debt-crisis-payment-halt-1982-08-20",
+      "source_url": "https://www.imf.org/en/About/History/Timeline",
+      "relevance_rank": 1,
+      "citation_note": "IMF timeline references 1982 debt-crisis period."
+    },
+    {
+      "event_slug": "plaza-accord-1985-09-22",
+      "source_url": "https://g7.utoronto.ca/finance/fm850922.htm",
+      "relevance_rank": 1,
+      "citation_note": "Plaza statement archive text."
+    },
+    {
+      "event_slug": "louvre-accord-1987-02-22",
+      "source_url": "https://g7.utoronto.ca/finance/fm870222.htm",
+      "relevance_rank": 1,
+      "citation_note": "Louvre accord archive text."
+    },
+    {
+      "event_slug": "mexican-peso-crisis-1994-12-20",
+      "source_url": "https://www.imf.org/en/About/History/Timeline",
+      "relevance_rank": 1,
+      "citation_note": "IMF timeline references the 1994-95 Tequila crisis period."
+    },
+    {
+      "event_slug": "ltcm-systemic-risk-intervention-1998-09-23",
+      "source_url": "https://www.newyorkfed.org/newsevents/speeches/1998/dun980915.html",
+      "relevance_rank": 1,
+      "citation_note": "NY Fed crisis-era speech with LTCM systemic risk discussion."
+    },
+    {
+      "event_slug": "china-wto-accession-2001-12-11",
+      "source_url": "https://www.wto.org/english/news_e/news21_e/china_10dec21_e.htm",
+      "relevance_rank": 1,
+      "citation_note": "WTO official page citing accession anniversary and date."
+    },
+    {
+      "event_slug": "euro-cash-introduction-2002-01-01",
+      "source_url": "https://www.ecb.europa.eu/euro/changeover/html/index.en.html",
+      "relevance_rank": 1,
+      "citation_note": "ECB changeover page for euro notes and coins launch."
+    },
+    {
+      "event_slug": "global-money-market-seizure-2007-08-09",
+      "source_url": "https://www.ecb.europa.eu/press/key/date/2017/html/ecb.sp170907.en.html",
+      "relevance_rank": 1,
+      "citation_note": "ECB source referencing 9 August 2007 as crisis inflection in money markets."
+    },
+    {
+      "event_slug": "fannie-freddie-conservatorship-2008-09-07",
+      "source_url": "https://www.fhfa.gov/news/news-release/fhfa-places-fannie-mae-and-freddie-mac-into-conservatorship",
+      "relevance_rank": 1,
+      "citation_note": "Primary U.S. regulator announcement."
+    },
+    {
+      "event_slug": "coordinated-central-bank-rate-cut-2008-10-08",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20081029.htm",
+      "relevance_rank": 1,
+      "citation_note": "FOMC minutes documenting coordinated global policy action context."
+    },
+    {
+      "event_slug": "us-sovereign-rating-downgrade-2011-08-05",
+      "source_url": "https://www.cnbc.com/id/44079536",
+      "relevance_rank": 1,
+      "citation_note": "Contemporaneous market report on S&P downgrade timing."
+    },
+    {
+      "event_slug": "taper-tantrum-signal-2013-05-22",
+      "source_url": "https://www.federalreserve.gov/newsevents/testimony/bernanke20130522a.htm",
+      "relevance_rank": 1,
+      "citation_note": "Primary testimony source for taper communication timing."
+    },
+    {
+      "event_slug": "brexit-referendum-result-2016-06-23",
+      "source_url": "https://commonslibrary.parliament.uk/research-briefings/cbp-7639/",
+      "relevance_rank": 1,
+      "citation_note": "UK Parliament briefing on referendum results and chronology."
+    },
+    {
+      "event_slug": "boe-emergency-gilt-purchases-2022-09-28",
+      "source_url": "https://www.bankofengland.co.uk/news/2022/september/bank-of-england-announces-gilt-market-operation",
+      "relevance_rank": 1,
+      "citation_note": "BoE announcement of temporary gilt market operations."
+    },
+    {
+      "event_slug": "iraq-invades-kuwait-1990-08-02",
+      "source_url": "https://digitallibrary.un.org/record/856?ln=en",
+      "relevance_rank": 1,
+      "citation_note": "UN Security Council Resolution 660 record tied to invasion response."
+    },
+    {
+      "event_slug": "iraq-war-begins-2003-03-20",
+      "source_url": "https://digitallibrary.un.org/record/488176?ln=en",
+      "relevance_rank": 1,
+      "citation_note": "UN record for 20 March 2003 coalition letter and operation context."
+    },
+    {
+      "event_slug": "unga-resolution-68-262-crimea-2014-03-27",
+      "source_url": "https://docs.un.org/en/A/RES/68/262",
+      "relevance_rank": 1,
+      "citation_note": "Official UNGA resolution document."
+    },
+    {
+      "event_slug": "russia-full-scale-invasion-ukraine-2022-02-24",
+      "source_url": "https://documents.un.org/doc/undoc/gen/n22/293/36/pdf/n2229336.pdf",
+      "relevance_rank": 1,
+      "citation_note": "UNGA ES-11/1 emergency session document linked to invasion timeline."
+    },
+    {
+      "event_slug": "hamas-israel-war-escalation-2023-10-07",
+      "source_url": "https://news.un.org/en/story/2023/10/1142082",
+      "relevance_rank": 1,
+      "citation_note": "UN source with same-day conflict escalation record."
+    }
+  ]
+}

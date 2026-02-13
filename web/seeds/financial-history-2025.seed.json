@@ -1,0 +1,609 @@
+{
+  "sources": [
+    {
+      "source_name": "BOJ Change in Guideline for Money Market Operations (2025-01-24)",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250124a.htm",
+      "source_type": "official",
+      "publisher": "Bank of Japan",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "ECB Monetary Policy Decisions (2025-03-06)",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250306~d4340800b3.en.html",
+      "source_type": "official",
+      "publisher": "European Central Bank",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "White House EO on Reciprocal Tariffs (2025-04-02)",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/",
+      "source_type": "official",
+      "publisher": "The White House",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "White House EO Modifying Reciprocal Tariff Rates (2025-04-09)",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/modifying-reciprocal-tariff-rates-to-reflect-trading-partner-retaliation-and-alignment/",
+      "source_type": "official",
+      "publisher": "The White House",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "White House EO on Reciprocal Tariffs and PRC Discussions (2025-05-12)",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/05/modifying-reciprocal-tariff-rates-to-reflect-discussions-with-the-peoples-republic-of-china/",
+      "source_type": "official",
+      "publisher": "The White House",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "ECB Monetary Policy Decisions (2025-06-05)",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250605~3b5f67d007.en.html",
+      "source_type": "official",
+      "publisher": "European Central Bank",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "BOJ Statement on Monetary Policy (2025-06-17)",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250617a.htm",
+      "source_type": "official",
+      "publisher": "Bank of Japan",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FOMC Updates Long-Run Goals and Monetary Policy Strategy (2025-08-22)",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+      "source_type": "official",
+      "publisher": "Federal Reserve",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "White House EO on Scope of Reciprocal Tariffs and Trade/Security Procedures (2025-09-05)",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/09/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and-security-agreements/",
+      "source_type": "official",
+      "publisher": "The White House",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FOMC Statement (2025-09-17)",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+      "source_type": "official",
+      "publisher": "Federal Reserve",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FOMC Statement (2025-10-29)",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm",
+      "source_type": "official",
+      "publisher": "Federal Reserve",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FOMC Statement (2025-12-10)",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+      "source_type": "official",
+      "publisher": "Federal Reserve",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "ECB Monetary Policy Decisions (2025-12-18)",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp251218~58b0e415a6.en.html",
+      "source_type": "official",
+      "publisher": "European Central Bank",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "BOJ Change in Guideline for Money Market Operations (2025-12-19)",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k251219a.pdf",
+      "source_type": "official",
+      "publisher": "Bank of Japan",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "Treasury Sanctions Russian Energy Sector and Shadow Fleet (2025-01-10)",
+      "source_url": "https://home.treasury.gov/news/press-releases/jy2777",
+      "source_type": "official",
+      "publisher": "U.S. Treasury",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "White House Amendment on Reciprocal Tariffs and Updated Duties on Low-Value Imports from PRC (2025-04-08)",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/amendment-to-recipricol-tariffs-and-updated-duties-as-applied-to-low-value-imports-from-the-peoples-republic-of-china/",
+      "source_type": "official",
+      "publisher": "The White House",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "AP: China raises retaliatory tariffs on U.S. goods to 125% (2025-04-11)",
+      "source_url": "https://apnews.com/article/2e05057e973e1e26d1b95c5be003b4cd",
+      "source_type": "news",
+      "publisher": "Associated Press",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "AP: Oil prices jump and stocks fall after Israel strikes Iran (2025-06-13)",
+      "source_url": "https://apnews.com/article/fe6d0aed826aec5f041ed492f19ea12d",
+      "source_type": "news",
+      "publisher": "Associated Press",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "Treasury Targets Rosneft, Lukoil and Related Networks (2025-10-22)",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0290",
+      "source_type": "official",
+      "publisher": "U.S. Treasury",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FRED Series: S&P 500 Index (SP500)",
+      "source_url": "https://fred.stlouisfed.org/series/SP500",
+      "source_type": "dataset",
+      "publisher": "Federal Reserve Bank of St. Louis",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FRED Series: CBOE Volatility Index (VIXCLS)",
+      "source_url": "https://fred.stlouisfed.org/series/VIXCLS",
+      "source_type": "dataset",
+      "publisher": "Federal Reserve Bank of St. Louis",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "FRED Series: Brent Crude Oil Spot Price (DCOILBRENTEU)",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "source_type": "dataset",
+      "publisher": "Federal Reserve Bank of St. Louis",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "Bank of England Monetary Policy Summary and Minutes (2025-02-05)",
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/february-2025",
+      "source_type": "official",
+      "publisher": "Bank of England",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "ECB Monetary Policy Decisions (2025-07-24)",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250724~50bc70e13f.en.html",
+      "source_type": "official",
+      "publisher": "European Central Bank",
+      "access_date": "2026-02-06"
+    },
+    {
+      "source_name": "Bank of England Monetary Policy Summary and Minutes (2025-11-05)",
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/november-2025",
+      "source_type": "official",
+      "publisher": "Bank of England",
+      "access_date": "2026-02-06"
+    }
+  ],
+  "events": [
+    {
+      "slug": "boj-guideline-shift-2025-01-24",
+      "title": "BOJ lifts overnight call-rate guideline to around 0.5%",
+      "event_date": "2025-01-24",
+      "region": "Japan",
+      "category": "Monetary Policy",
+      "summary": "At its January meeting, the Bank of Japan changed the money-market operations guideline to keep the uncollateralized overnight call rate around 0.5%.",
+      "impact": "Reinforced Japan policy normalization and repriced yen rates, JGB yields, and global carry exposures.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "ecb-rate-cut-2025-03-06",
+      "title": "ECB cuts key policy rates by 25 bps in March decision",
+      "event_date": "2025-03-06",
+      "region": "Euro Area",
+      "category": "Monetary Policy",
+      "summary": "The ECB Governing Council lowered all three key policy rates by 25 basis points, citing updated inflation and transmission assessments.",
+      "impact": "Lowered euro-area front-end yields and influenced financing conditions across sovereign and credit markets.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-reciprocal-tariff-order-2025-04-02",
+      "title": "U.S. issues reciprocal tariff order and sets 10% baseline",
+      "event_date": "2025-04-02",
+      "region": "United States",
+      "category": "Trade Policy",
+      "summary": "A U.S. executive order declared a national emergency tied to goods trade deficits and set a broad reciprocal-tariff framework with a 10% additional duty baseline.",
+      "impact": "Raised global trade-policy uncertainty, affected cross-border supply-chain assumptions, and drove risk repricing across FX and equities.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-reciprocal-tariff-modification-2025-04-09",
+      "title": "U.S. temporarily suspends partner-specific reciprocal rates for 90 days",
+      "event_date": "2025-04-09",
+      "region": "United States",
+      "category": "Trade Policy",
+      "summary": "A follow-up executive order suspended most country-specific reciprocal rates for 90 days, maintained a 10% additional rate for most partners, and adjusted China-related tariff terms.",
+      "impact": "Triggered rapid revaluation of tariff paths, global shipping expectations, and multinational earnings sensitivity.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-prc-tariff-modification-2025-05-12",
+      "title": "U.S. adjusts PRC reciprocal-tariff structure after discussions",
+      "event_date": "2025-05-12",
+      "region": "United States",
+      "category": "Trade Policy",
+      "summary": "A subsequent U.S. order modified PRC-related reciprocal tariffs and introduced a 90-day suspension framework affecting additional ad valorem rates.",
+      "impact": "Repriced bilateral trade risk and shifted near-term assumptions for goods flows, tariff pass-through, and sector-level margins.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "ecb-rate-cut-2025-06-05",
+      "title": "ECB delivers a second 2025 rate cut of 25 bps",
+      "event_date": "2025-06-05",
+      "region": "Euro Area",
+      "category": "Monetary Policy",
+      "summary": "In June, the ECB again reduced all three key rates by 25 basis points, with policy rates moving lower across the corridor.",
+      "impact": "Deepened euro-area easing expectations and fed through to pricing in government-bond curves and bank funding costs.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "boj-jgb-reduction-plan-2025-06-17",
+      "title": "BOJ unveils multi-quarter JGB purchase reduction plan",
+      "event_date": "2025-06-17",
+      "region": "Japan",
+      "category": "Balance Sheet Policy",
+      "summary": "The BOJ kept the call-rate guideline at around 0.5% and announced a plan to reduce monthly JGB purchases toward about 2 trillion yen by early 2027.",
+      "impact": "Changed expectations for Japan liquidity conditions and long-end duration supply-demand dynamics.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "fomc-strategy-update-2025-08-22",
+      "title": "FOMC approves updates to long-run goals and policy strategy",
+      "event_date": "2025-08-22",
+      "region": "United States",
+      "category": "Central Bank Framework",
+      "summary": "The FOMC unanimously approved updates to its Statement on Longer-Run Goals and Monetary Policy Strategy after the 2025 framework review.",
+      "impact": "Adjusted market interpretation of reaction-function communication and longer-horizon policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-tariff-scope-procedure-order-2025-09-05",
+      "title": "U.S. updates reciprocal-tariff scope and agreement procedures",
+      "event_date": "2025-09-05",
+      "region": "United States",
+      "category": "Trade Policy",
+      "summary": "A September executive order updated the scope framework for reciprocal tariffs and set procedures for trade and security agreements with partner economies.",
+      "impact": "Added a structured pathway for country-specific tariff outcomes and affected medium-term trade scenario pricing.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "fed-rate-cut-2025-09-17",
+      "title": "Fed lowers target range to 4.00%-4.25%",
+      "event_date": "2025-09-17",
+      "region": "United States",
+      "category": "Monetary Policy",
+      "summary": "The FOMC cut the federal funds target range by 25 basis points to 4.00%-4.25% amid a shift in risk balance.",
+      "impact": "Marked the start of late-2025 easing, influencing global duration pricing and broad risk-asset discount rates.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "fed-rate-cut-qt-end-2025-10-29",
+      "title": "Fed cuts to 3.75%-4.00% and sets end-date for balance-sheet runoff",
+      "event_date": "2025-10-29",
+      "region": "United States",
+      "category": "Monetary Policy",
+      "summary": "The FOMC lowered rates by another 25 basis points and stated that reduction of aggregate securities holdings would conclude on December 1.",
+      "impact": "Reinforced easing expectations and reduced uncertainty around the transition from runoff to steadier balance-sheet management.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "fed-rate-cut-ample-reserve-purchases-2025-12-10",
+      "title": "Fed cuts to 3.50%-3.75% and signals short-term Treasury purchases",
+      "event_date": "2025-12-10",
+      "region": "United States",
+      "category": "Monetary Policy",
+      "summary": "The FOMC cut the policy range by 25 basis points to 3.50%-3.75% and indicated purchases of shorter-term Treasuries as needed to maintain ample reserves.",
+      "impact": "Linked policy-rate easing with reserve-management operations, shaping front-end rates and money-market liquidity expectations.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "ecb-rate-hold-2025-12-18",
+      "title": "ECB keeps key rates unchanged in December meeting",
+      "event_date": "2025-12-18",
+      "region": "Euro Area",
+      "category": "Monetary Policy",
+      "summary": "The ECB left all three key rates unchanged and published updated staff projections indicating inflation converging toward target in the medium term.",
+      "impact": "Anchored end-of-year rate expectations and recalibrated market pricing for the 2026 easing trajectory.",
+      "importance_score": 3,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "boj-guideline-shift-2025-12-19",
+      "title": "BOJ raises overnight call-rate guideline to around 0.75%",
+      "event_date": "2025-12-19",
+      "region": "Japan",
+      "category": "Monetary Policy",
+      "summary": "At its December meeting, the BOJ set the intermeeting guideline for the uncollateralized overnight call rate at around 0.75%.",
+      "impact": "Accelerated global attention on Japanese rate normalization and its spillovers into FX, carry trades, and sovereign-bond allocations.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-russia-energy-sanctions-2025-01-10",
+      "title": "U.S. expands sanctions on Russian energy producers and shipping network",
+      "event_date": "2025-01-10",
+      "region": "United States",
+      "category": "Sanctions Policy",
+      "summary": "The U.S. Treasury announced broad sanctions targeting Russian energy entities and associated maritime infrastructure.",
+      "impact": "Energy supply risk premia rose and oil benchmarks repriced higher as markets reassessed near-term shipping and compliance constraints.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "tariff-shock-volatility-2025-04-04",
+      "title": "Tariff shock drives sharp risk-off move in equities and volatility",
+      "event_date": "2025-04-04",
+      "region": "Global",
+      "category": "Trade Policy",
+      "summary": "Following the reciprocal-tariff framework rollout, risk assets sold off and implied volatility surged in a rapid cross-asset repricing.",
+      "impact": "Between April 2 and April 4, S&P 500 fell about 10.5% while VIX more than doubled, reflecting a severe policy-risk shock.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-china-tariff-amendment-2025-04-08",
+      "title": "U.S. amends reciprocal tariff terms focused on PRC-related import channels",
+      "event_date": "2025-04-08",
+      "region": "United States",
+      "category": "Trade Policy",
+      "summary": "A White House amendment updated PRC-related tariff treatment, including low-value import channels and duty schedules.",
+      "impact": "Added uncertainty to cross-border pricing and logistics assumptions, reinforcing elevated volatility in global equity and FX markets.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "china-retaliatory-tariff-125-2025-04-11",
+      "title": "China raises retaliatory tariffs on U.S. goods to 125%",
+      "event_date": "2025-04-11",
+      "region": "China",
+      "category": "Trade Policy",
+      "summary": "China announced a major escalation in retaliatory tariffs on U.S. imports, lifting additional duties to 125%.",
+      "impact": "Escalation widened downside tails for global trade and corporate margin assumptions, sustaining higher risk premia across cyclicals.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "mideast-risk-shock-2025-06-13",
+      "title": "Middle East conflict shock lifts oil and hits global risk sentiment",
+      "event_date": "2025-06-13",
+      "region": "Middle East",
+      "category": "Geopolitical Shock",
+      "summary": "Military escalation involving Israel and Iran triggered a broad risk-off reaction across commodity, equity, and volatility markets.",
+      "impact": "Brent jumped over 7% in a day, while U.S. equities fell and volatility gauges rose, highlighting rapid geopolitical risk repricing.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "us-russia-energy-sanctions-2025-10-22",
+      "title": "U.S. targets Rosneft and Lukoil-linked trading networks with sanctions",
+      "event_date": "2025-10-22",
+      "region": "United States",
+      "category": "Sanctions Policy",
+      "summary": "The U.S. Treasury announced sanctions tied to Rosneft and Lukoil-related commercial structures and facilitators.",
+      "impact": "Oil benchmarks advanced sharply and energy risk premia widened as markets incorporated renewed sanction-driven supply and routing risks.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "boe-rate-cut-2025-02-05",
+      "title": "Bank of England cuts Bank Rate to 4.5%",
+      "event_date": "2025-02-05",
+      "region": "United Kingdom",
+      "category": "Monetary Policy",
+      "summary": "The MPC reduced Bank Rate to 4.5% in February 2025, marking a policy easing step after the prior tightening cycle.",
+      "impact": "Sterling rate expectations and gilt front-end pricing repriced lower, with spillovers to European rate-sensitive assets.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "ecb-rate-hold-2025-07-24",
+      "title": "ECB keeps key policy rates unchanged in July",
+      "event_date": "2025-07-24",
+      "region": "Euro Area",
+      "category": "Monetary Policy",
+      "summary": "The ECB left its three key interest rates unchanged at the July meeting while emphasizing a data-dependent path.",
+      "impact": "Helped anchor near-term rate-cut timing expectations and reduced immediate uncertainty in euro area bond curves.",
+      "importance_score": 3,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "boe-rate-hold-2025-11-05",
+      "title": "Bank of England keeps Bank Rate at 4.0% in November",
+      "event_date": "2025-11-05",
+      "region": "United Kingdom",
+      "category": "Monetary Policy",
+      "summary": "The MPC maintained Bank Rate at 4.0% in November 2025, signaling caution around inflation persistence and activity risks.",
+      "impact": "Reinforced a higher-for-longer interpretation for UK front-end rates and influenced relative pricing versus ECB and Fed paths.",
+      "importance_score": 3,
+      "confidence_score": 5,
+      "status": "published"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_slug": "boj-guideline-shift-2025-01-24",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250124a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "ecb-rate-cut-2025-03-06",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250306~d4340800b3.en.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-reciprocal-tariff-order-2025-04-02",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-reciprocal-tariff-modification-2025-04-09",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/modifying-reciprocal-tariff-rates-to-reflect-trading-partner-retaliation-and-alignment/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-prc-tariff-modification-2025-05-12",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/05/modifying-reciprocal-tariff-rates-to-reflect-discussions-with-the-peoples-republic-of-china/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "ecb-rate-cut-2025-06-05",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250605~3b5f67d007.en.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "boj-jgb-reduction-plan-2025-06-17",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2025/k250617a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "fomc-strategy-update-2025-08-22",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250822a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-tariff-scope-procedure-order-2025-09-05",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/09/modifying-the-scope-of-reciprocal-tariffs-and-establishing-procedures-for-implementing-trade-and-security-agreements/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "fed-rate-cut-2025-09-17",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250917a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "fed-rate-cut-qt-end-2025-10-29",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "fed-rate-cut-ample-reserve-purchases-2025-12-10",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "ecb-rate-hold-2025-12-18",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp251218~58b0e415a6.en.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "boj-guideline-shift-2025-12-19",
+      "source_url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k251219a.pdf",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-russia-energy-sanctions-2025-01-10",
+      "source_url": "https://home.treasury.gov/news/press-releases/jy2777",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-russia-energy-sanctions-2025-01-10",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "tariff-shock-volatility-2025-04-04",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "tariff-shock-volatility-2025-04-04",
+      "source_url": "https://fred.stlouisfed.org/series/SP500",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "tariff-shock-volatility-2025-04-04",
+      "source_url": "https://fred.stlouisfed.org/series/VIXCLS",
+      "relevance_rank": 3
+    },
+    {
+      "event_slug": "us-china-tariff-amendment-2025-04-08",
+      "source_url": "https://www.whitehouse.gov/presidential-actions/2025/04/amendment-to-recipricol-tariffs-and-updated-duties-as-applied-to-low-value-imports-from-the-peoples-republic-of-china/",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "china-retaliatory-tariff-125-2025-04-11",
+      "source_url": "https://apnews.com/article/2e05057e973e1e26d1b95c5be003b4cd",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "mideast-risk-shock-2025-06-13",
+      "source_url": "https://apnews.com/article/fe6d0aed826aec5f041ed492f19ea12d",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "mideast-risk-shock-2025-06-13",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "mideast-risk-shock-2025-06-13",
+      "source_url": "https://fred.stlouisfed.org/series/SP500",
+      "relevance_rank": 3
+    },
+    {
+      "event_slug": "mideast-risk-shock-2025-06-13",
+      "source_url": "https://fred.stlouisfed.org/series/VIXCLS",
+      "relevance_rank": 4
+    },
+    {
+      "event_slug": "us-russia-energy-sanctions-2025-10-22",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0290",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "us-russia-energy-sanctions-2025-10-22",
+      "source_url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+      "relevance_rank": 2
+    },
+    {
+      "event_slug": "boe-rate-cut-2025-02-05",
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/february-2025",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "ecb-rate-hold-2025-07-24",
+      "source_url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.mp250724~50bc70e13f.en.html",
+      "relevance_rank": 1
+    },
+    {
+      "event_slug": "boe-rate-hold-2025-11-05",
+      "source_url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2025/november-2025",
+      "relevance_rank": 1
+    }
+  ]
+}

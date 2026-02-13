@@ -1,0 +1,396 @@
+{
+  "sources": [
+    {
+      "source_name": "U.S. Office of the Historian - The East German Uprising, 1953",
+      "source_url": "https://history.state.gov/milestones/1953-1960/east-german-uprising",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. diplomatic history milestone with chronology and context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - The Suez Crisis, 1956",
+      "source_url": "https://history.state.gov/milestones/1953-1960/suez",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official milestone source documenting key Suez crisis dates and Cold War context."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Sputnik, 1957",
+      "source_url": "https://history.state.gov/milestones/1953-1960/sputnik",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for Sputnik launch date and strategic implications."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - U-2 Overflights and the Capture of Francis Gary Powers, 1960",
+      "source_url": "https://history.state.gov/milestones/1953-1960/u2-incident",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official chronology of the U-2 incident and summit fallout."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Bay of Pigs Invasion and its Aftermath",
+      "source_url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official timeline for the April 1961 invasion and consequences."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Limited Test Ban Treaty, 1963",
+      "source_url": "https://history.state.gov/milestones/1961-1968/limited-ban",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official diplomatic history of the LTBT negotiations and signature."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Nuclear Non-Proliferation Treaty (NPT), 1968",
+      "source_url": "https://history.state.gov/milestones/1961-1968/npt",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source on NPT negotiation context and July 1968 opening for signature."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Helsinki Final Act, 1975",
+      "source_url": "https://history.state.gov/milestones/1969-1976/helsinki",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official milestone describing the CSCE process and signing date."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Strategic Arms Limitations Talks/Treaty (SALT) I and II",
+      "source_url": "https://history.state.gov/milestones/1969-1976/salt",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official overview for SALT I and SALT II negotiations and outcomes."
+    },
+    {
+      "source_name": "Congress.gov - SALT II Treaty Document 96-25",
+      "source_url": "https://www.congress.gov/treaty-document/96th-congress/25",
+      "source_type": "official",
+      "publisher": "U.S. Library of Congress",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. treaty record specifying SALT II formal signing information."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - U.S.-Soviet Relations, 1981-1991",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official source for late Cold War summits and arms-control diplomacy."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Presidential Travel: Malta (George H. W. Bush)",
+      "source_url": "https://history.state.gov/departmenthistory/travels/president/malta",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official U.S. travel record listing Malta summit dates (December 1-3, 1989)."
+    },
+    {
+      "source_name": "OSCE - Heads of State sign Treaty on Conventional Armed Forces in Europe",
+      "source_url": "https://www.osce.org/node/58665",
+      "source_type": "official",
+      "publisher": "Organization for Security and Co-operation in Europe",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official OSCE reference for CFE Treaty signing at Paris Summit on 19 November 1990."
+    },
+    {
+      "source_name": "U.S. Office of the Historian - Collapse of the Soviet Union",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "source_type": "official",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "access_date": "2026-02-11",
+      "notes_on_reliability": "Official chronology of 1991 collapse sequence, including coup attempt and post-union agreements."
+    }
+  ],
+  "events": [
+    {
+      "slug": "cold-war-east-german-uprising-1953-06-17",
+      "title": "East German uprising is suppressed by Soviet-backed force",
+      "event_date": "1953-06-17",
+      "region": "East Germany; Europe",
+      "category": "War and Conflict",
+      "summary": "Mass anti-government protests in East Germany were suppressed under Soviet-backed martial force after rapid nationwide escalation.",
+      "impact": "The crackdown reinforced bloc control lines in Central Europe and signaled high intervention risk in Soviet-aligned states.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-suez-crisis-escalation-1956-10-29",
+      "title": "Suez Crisis enters military phase with Israeli invasion of Sinai",
+      "event_date": "1956-10-29",
+      "region": "Middle East; Europe",
+      "category": "Geopolitical Shock",
+      "summary": "Israeli forces entered Sinai, followed by British and French intervention, turning the Suez dispute into a major armed crisis.",
+      "impact": "The confrontation intensified superpower signaling and accelerated reordering of influence in the Middle East.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-sputnik-1-launch-1957-10-04",
+      "title": "Soviet Union launches Sputnik 1",
+      "event_date": "1957-10-04",
+      "region": "Soviet Union; Global",
+      "category": "Technology and Arms Race",
+      "summary": "The USSR launched the first artificial satellite, demonstrating major advances in rocketry and strategic delivery potential.",
+      "impact": "Perceived technology gaps widened security competition and accelerated U.S. defense, missile, and space investment.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-u2-incident-1960-05-01",
+      "title": "U-2 reconnaissance aircraft is downed over Soviet territory",
+      "event_date": "1960-05-01",
+      "region": "Soviet Union; United States",
+      "category": "Intelligence Crisis",
+      "summary": "A U.S. U-2 aircraft was shot down inside the Soviet Union, creating an immediate bilateral diplomatic rupture.",
+      "impact": "Summit diplomacy deteriorated sharply and mutual mistrust deepened at a critical stage of nuclear competition.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-bay-of-pigs-invasion-1961-04-17",
+      "title": "Bay of Pigs invasion begins in Cuba",
+      "event_date": "1961-04-17",
+      "region": "Cuba; Caribbean",
+      "category": "War and Conflict",
+      "summary": "A U.S.-backed exile force landed at the Bay of Pigs in an effort to overthrow Fidel Castro's government.",
+      "impact": "The failed operation strengthened Cuba-Soviet alignment and increased superpower confrontation risk in the Western Hemisphere.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-limited-test-ban-treaty-signed-1963-08-05",
+      "title": "Limited Test Ban Treaty is signed in Moscow",
+      "event_date": "1963-08-05",
+      "region": "United States; Soviet Union; United Kingdom",
+      "category": "Arms Control",
+      "summary": "The U.S., USSR, and UK signed the Limited Test Ban Treaty prohibiting nuclear tests in the atmosphere, outer space, and underwater.",
+      "impact": "The agreement established a practical precedent for later verification-based arms-control frameworks.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-npt-opened-for-signature-1968-07-01",
+      "title": "Nuclear Non-Proliferation Treaty opens for signature",
+      "event_date": "1968-07-01",
+      "region": "Global",
+      "category": "Arms Control",
+      "summary": "The NPT opened for signature, creating a global framework to limit the spread of nuclear weapons capability.",
+      "impact": "Non-proliferation norms became institutionalized, shaping long-term strategic planning and alliance risk assumptions.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-helsinki-final-act-signed-1975-08-01",
+      "title": "Helsinki Final Act is signed by 35 states",
+      "event_date": "1975-08-01",
+      "region": "Europe; North America",
+      "category": "Detente",
+      "summary": "The CSCE Helsinki Final Act was signed, covering security principles, economic cooperation, and human-rights commitments.",
+      "impact": "The framework reduced near-term military uncertainty and later strengthened dissident and rights-based pressure in Eastern Europe.",
+      "importance_score": 4,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-salt-ii-signed-1979-06-18",
+      "title": "SALT II treaty is signed in Vienna",
+      "event_date": "1979-06-18",
+      "region": "United States; Soviet Union",
+      "category": "Arms Control",
+      "summary": "U.S. President Jimmy Carter and Soviet leader Leonid Brezhnev signed the SALT II treaty limiting strategic delivery systems.",
+      "impact": "Even without ratification, the accord influenced force-structure planning and strategic signaling in both blocs.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-geneva-summit-reagan-gorbachev-1985-11-19",
+      "title": "Reagan and Gorbachev hold first Geneva summit",
+      "event_date": "1985-11-19",
+      "region": "United States; Soviet Union",
+      "category": "Summit Diplomacy",
+      "summary": "Ronald Reagan and Mikhail Gorbachev met in Geneva for their first summit, reopening sustained top-level dialogue.",
+      "impact": "Negotiation channels stabilized expectations around strategic competition and created momentum for later arms-control agreements.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-reykjavik-summit-1986-10-11",
+      "title": "Reagan-Gorbachev Reykjavik summit begins",
+      "event_date": "1986-10-11",
+      "region": "United States; Soviet Union",
+      "category": "Summit Diplomacy",
+      "summary": "Leaders met in Reykjavik for high-stakes nuclear talks that failed to produce an immediate treaty but narrowed key gaps.",
+      "impact": "The summit materially advanced the negotiating baseline that fed into the INF treaty process.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-malta-summit-1989-12-02",
+      "title": "Bush-Gorbachev Malta summit opens",
+      "event_date": "1989-12-02",
+      "region": "United States; Soviet Union; Europe",
+      "category": "Systemic Transition",
+      "summary": "U.S. President George H. W. Bush and Soviet leader Mikhail Gorbachev met in Malta for a pivotal post-Berlin Wall summit.",
+      "impact": "The meeting signaled reduced confrontation intent and accelerated the political transition to a post-Cold War order.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-cfe-treaty-signed-1990-11-19",
+      "title": "Treaty on Conventional Armed Forces in Europe is signed",
+      "event_date": "1990-11-19",
+      "region": "Europe",
+      "category": "Arms Control",
+      "summary": "States from NATO and the Warsaw Pact signed the CFE Treaty in Paris, setting conventional-force ceilings and verification rules.",
+      "impact": "The treaty lowered large-scale conventional war risk in Europe and improved transparency during bloc transformation.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-august-coup-attempt-1991-08-19",
+      "title": "Hardline August coup attempt begins in the Soviet Union",
+      "event_date": "1991-08-19",
+      "region": "Soviet Union",
+      "category": "Political Transition",
+      "summary": "Soviet hardliners launched an attempted coup against reform leadership, triggering mass resistance and rapid institutional breakdown.",
+      "impact": "Central union authority weakened decisively, accelerating disintegration of the Soviet state framework.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    },
+    {
+      "slug": "cold-war-belavezha-accords-signed-1991-12-08",
+      "title": "Belavezha Accords are signed by Russia, Ukraine, and Belarus",
+      "event_date": "1991-12-08",
+      "region": "Post-Soviet Eurasia",
+      "category": "Systemic Transition",
+      "summary": "Leaders of Russia, Ukraine, and Belarus signed the Belavezha Accords, declaring the Soviet Union ceased to exist and founding the CIS.",
+      "impact": "The accords formalized terminal regime change in Eurasia and reset the geopolitical baseline ahead of final Soviet dissolution.",
+      "importance_score": 5,
+      "confidence_score": 5,
+      "status": "published"
+    }
+  ],
+  "event_sources": [
+    {
+      "event_slug": "cold-war-east-german-uprising-1953-06-17",
+      "source_url": "https://history.state.gov/milestones/1953-1960/east-german-uprising",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone entry covering June 1953 uprising chronology."
+    },
+    {
+      "event_slug": "cold-war-suez-crisis-escalation-1956-10-29",
+      "source_url": "https://history.state.gov/milestones/1953-1960/suez",
+      "relevance_rank": 1,
+      "citation_note": "Official source noting Israeli attack date of 29 October 1956 and crisis escalation."
+    },
+    {
+      "event_slug": "cold-war-sputnik-1-launch-1957-10-04",
+      "source_url": "https://history.state.gov/milestones/1953-1960/sputnik",
+      "relevance_rank": 1,
+      "citation_note": "Official source documenting the first satellite launch date."
+    },
+    {
+      "event_slug": "cold-war-u2-incident-1960-05-01",
+      "source_url": "https://history.state.gov/milestones/1953-1960/u2-incident",
+      "relevance_rank": 1,
+      "citation_note": "Official source on the U-2 shootdown and resulting diplomatic crisis."
+    },
+    {
+      "event_slug": "cold-war-bay-of-pigs-invasion-1961-04-17",
+      "source_url": "https://history.state.gov/milestones/1961-1968/bay-of-pigs",
+      "relevance_rank": 1,
+      "citation_note": "Official timeline gives 17 April 1961 landing date."
+    },
+    {
+      "event_slug": "cold-war-limited-test-ban-treaty-signed-1963-08-05",
+      "source_url": "https://history.state.gov/milestones/1961-1968/limited-ban",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone source for LTBT signature and context."
+    },
+    {
+      "event_slug": "cold-war-npt-opened-for-signature-1968-07-01",
+      "source_url": "https://history.state.gov/milestones/1961-1968/npt",
+      "relevance_rank": 1,
+      "citation_note": "Official milestone source for NPT signing period and strategic context."
+    },
+    {
+      "event_slug": "cold-war-helsinki-final-act-signed-1975-08-01",
+      "source_url": "https://history.state.gov/milestones/1969-1976/helsinki",
+      "relevance_rank": 1,
+      "citation_note": "Official source stating signature at Helsinki on 1 August 1975."
+    },
+    {
+      "event_slug": "cold-war-salt-ii-signed-1979-06-18",
+      "source_url": "https://history.state.gov/milestones/1969-1976/salt",
+      "relevance_rank": 1,
+      "citation_note": "Official SALT overview with late-stage SALT II chronology."
+    },
+    {
+      "event_slug": "cold-war-salt-ii-signed-1979-06-18",
+      "source_url": "https://www.congress.gov/treaty-document/96th-congress/25",
+      "relevance_rank": 2,
+      "citation_note": "U.S. treaty record confirms SALT II signed at Vienna on June 18, 1979."
+    },
+    {
+      "event_slug": "cold-war-geneva-summit-reagan-gorbachev-1985-11-19",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "relevance_rank": 1,
+      "citation_note": "Official timeline for summit diplomacy in the mid-1980s."
+    },
+    {
+      "event_slug": "cold-war-reykjavik-summit-1986-10-11",
+      "source_url": "https://history.state.gov/milestones/1981-1988/u.s.-soviet-relations",
+      "relevance_rank": 1,
+      "citation_note": "Official source covering Reykjavik and follow-on arms-control dynamics."
+    },
+    {
+      "event_slug": "cold-war-malta-summit-1989-12-02",
+      "source_url": "https://history.state.gov/departmenthistory/travels/president/malta",
+      "relevance_rank": 1,
+      "citation_note": "Official travel record listing Bush-Gorbachev summit dates in Malta."
+    },
+    {
+      "event_slug": "cold-war-cfe-treaty-signed-1990-11-19",
+      "source_url": "https://www.osce.org/node/58665",
+      "relevance_rank": 1,
+      "citation_note": "OSCE source documenting signature date and treaty intent."
+    },
+    {
+      "event_slug": "cold-war-august-coup-attempt-1991-08-19",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "relevance_rank": 1,
+      "citation_note": "Official timeline of August 1991 coup attempt and aftermath."
+    },
+    {
+      "event_slug": "cold-war-belavezha-accords-signed-1991-12-08",
+      "source_url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "relevance_rank": 1,
+      "citation_note": "Official chronology covering December 1991 union-level dissolution sequence."
+    }
+  ]
+}
