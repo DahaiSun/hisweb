@@ -314,7 +314,7 @@ A change is done only if:
 - Add editorial review UI and workflow states.
 - Add production monitoring and alerting.
 
-## 13. Project Progress (as of 2026-02-13)
+## 13. Project Progress (as of 2026-02-14)
 
 ### 13.1 Delivered in this cycle
 - Expanded curated seed coverage to `235` sources, `314` events, `338` event-source links (`all published`).
@@ -350,6 +350,7 @@ A change is done only if:
 - Extended demo timeline generation with a dedicated `world-war-ii` timeline slug.
 - Hardened seed import behavior when DB is unavailable: importer now auto-falls back to demo merge logic instead of exiting with hard failure for this case.
 - Completed real database import path with PostgreSQL schema applied and seed written into DB tables.
+- Re-deployed Cloud Run service on `2026-02-14` using image `europe-west1-docker.pkg.dev/gen-lang-client-0153103557/cloud-run-source-deploy/hisweb:20260214-165832` (Cloud Build `aef0e34c-5b42-4f97-a395-330d89842c8f`), moving revision from `hisweb-00005-pmk` to `hisweb-00006-7wz` with `100%` traffic on latest revision.
 
 ### 13.2 Current data and timeline state
 - Seed date range: `1900-07-03` to `2025-12-19`.
@@ -372,7 +373,7 @@ A change is done only if:
   - `world-war-ii events=47`
   - `us-wars-since-1900 events=24`
   - `ccp-history-since-1921 events=67`
-  - `cloud-run-url=https://hisweb-886542139628.europe-west1.run.app`
+  - `cloud-run-url=https://hisweb-lghu5s66iq-ew.a.run.app`
 
 ### 13.3 Validation completed
 - `npm run seed:check`
@@ -384,6 +385,13 @@ A change is done only if:
   - `gcloud run deploy hisweb --source web --region europe-west1 ...`
   - `GET /` on deployed URL returns `200`
   - `GET /api/v1/timelines` on deployed URL returns `200`
+- Cloud Run redeploy validation (`2026-02-14`):
+  - build id: `aef0e34c-5b42-4f97-a395-330d89842c8f`
+  - image: `europe-west1-docker.pkg.dev/gen-lang-client-0153103557/cloud-run-source-deploy/hisweb:20260214-165832`
+  - revision: `hisweb-00006-7wz` (`latestReadyRevisionName`)
+  - service URL: `https://hisweb-lghu5s66iq-ew.a.run.app`
+  - traffic: latest revision `100%`
+  - health checks: `GET / = 200`, `GET /events/stream = 200`
 - direct PostgreSQL upsert import for `seeds/china-us-classics-2.seed.json` (equivalent write path applied successfully)
 - timeline rebuild for `global-financial-turning-points`, `crisis-and-stabilization`, `us-soviet-cold-war`, `china-us-since-1900`, `china-soviet-relations`, `world-war-ii`, `us-wars-since-1900`, `ccp-history-since-1921`
 
