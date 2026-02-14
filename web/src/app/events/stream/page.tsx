@@ -255,7 +255,14 @@ function layoutEvents(events: EventListItem[], months: MonthCell[]) {
   });
 
   const laneRightEdges: number[] = [];
-  const positioned: PositionedEvent[] = [];
+  const rawPositioned: Array<{
+    event: EventListItem;
+    leftPx: number;
+    widthPx: number;
+    lane: number;
+    monthIndex: number;
+    shortTitle: string;
+  }> = [];
 
   for (const event of sorted) {
     const serial = toMonthSerial(event.event_date);
@@ -285,20 +292,33 @@ function layoutEvents(events: EventListItem[], months: MonthCell[]) {
     if (lane === laneRightEdges.length) laneRightEdges.push(-999);
     laneRightEdges[lane] = centerX + widthPx / 2;
 
-    const topRem = TOP_BASE_REM + lane * LANE_STEP_REM + (monthIndex % 2 === 0 ? 0 : LANE_OFFSET_REM);
-
-    positioned.push({
+    rawPositioned.push({
       event,
       leftPx: centerX,
       widthPx,
-      topRem,
+      lane,
+      monthIndex,
       shortTitle: compactTitle,
     });
   }
 
+  const laneCount = laneRightEdges.length;
+  const positioned: PositionedEvent[] = rawPositioned.map((item) => {
+    const visualLane = laneCount - 1 - item.lane;
+    const topRem =
+      TOP_BASE_REM + visualLane * LANE_STEP_REM + (item.monthIndex % 2 === 0 ? 0 : LANE_OFFSET_REM);
+    return {
+      event: item.event,
+      leftPx: item.leftPx,
+      widthPx: item.widthPx,
+      topRem,
+      shortTitle: item.shortTitle,
+    };
+  });
+
   return {
     positioned,
-    laneCount: laneRightEdges.length,
+    laneCount,
   };
 }
 
