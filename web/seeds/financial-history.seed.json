@@ -2406,6 +2406,398 @@
       "source_type": "news",
       "publisher": "NPR",
       "access_date": "2026-02-13"
+    },
+    {
+      "source_name": "Global Times infographic: Xi-Putin meetings (2013-2018)",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "source_type": "news",
+      "publisher": "Global Times",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Chinese domestic media infographic with a chronological list of Xi-Putin meetings through June 2018; used as PRC-side chronology aid."
+    },
+    {
+      "source_name": "Al Jazeera: Xi tells Putin China and Russia are driving world changes (2023-03-21)",
+      "source_url": "https://www.aljazeera.com/news/2023/3/21/xi-tells-putin-that-china-and-russia-are-driving-world-changes",
+      "source_type": "news",
+      "publisher": "Al Jazeera",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Non-PRC international coverage of the March 2023 Moscow summit."
+    },
+    {
+      "source_name": "Al Jazeera: Xi and Putin vow a new era at Beijing summit (2024-05-16)",
+      "source_url": "https://www.aljazeera.com/news/2024/5/16/xi-and-putin-vow-a-new-era-and-decry-us-influence-at-beijing-summit",
+      "source_type": "news",
+      "publisher": "Al Jazeera",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Non-PRC international coverage of the May 2024 Beijing summit."
+    },
+    {
+      "source_name": "US News (Reuters): Xi and Putin meet at SCO summit in Astana (2024-07-03)",
+      "source_url": "https://www.usnews.com/news/world/articles/2024-07-03/chinas-xi-russias-putin-agree-to-respond-firmly-to-us-dual-containment-politics",
+      "source_type": "news",
+      "publisher": "U.S. News & World Report / Reuters",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Non-PRC wire-based coverage of the Astana SCO meeting."
+    },
+    {
+      "source_name": "AP: Putin hosts Xi and BRICS leaders at Kazan summit (2024-10-22)",
+      "source_url": "https://apnews.com/article/russia-brics-summit-kazan-putin-xi-modi-364f0f69adf6cb6f5ddf2b0f5f9f332b",
+      "source_type": "news",
+      "publisher": "Associated Press",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Non-PRC international wire coverage of the Kazan BRICS summit meeting context."
+    },
+    {
+      "source_name": "Xinhua: Xi Jinping has video call with Vladimir Putin (2025-01-21)",
+      "source_url": "https://english.news.cn/20250121/9f6e6f0e2f6f4600bc33f995f0c8e95e/c.html",
+      "source_type": "news",
+      "publisher": "Xinhua",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "PRC-side report on the January 2025 Xi-Putin virtual meeting."
+    },
+    {
+      "source_name": "Chinese Embassy in the U.S.: Joint declaration issued during May 2025 summit",
+      "source_url": "https://us.china-embassy.gov.cn/eng./zgyw/202505/t20250509_11617838.htm",
+      "source_type": "official",
+      "publisher": "Embassy of the People's Republic of China in the United States",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "PRC official publication tied to the May 2025 leader-level meeting in Moscow."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2013-03-22)",
+      "source_url": "https://en.kremlin.ru/events/president/news/17626",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2013-09-05)",
+      "source_url": "https://en.kremlin.ru/events/president/news/19143",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2013-10-07)",
+      "source_url": "https://en.kremlin.ru/events/president/news/19389",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2014-02-06)",
+      "source_url": "https://en.kremlin.ru/events/president/news/45580",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2014-05-20)",
+      "source_url": "https://en.kremlin.ru/events/president/news/46095",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2014-07-15)",
+      "source_url": "https://en.kremlin.ru/events/president/news/46208",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2014-09-11)",
+      "source_url": "https://en.kremlin.ru/events/president/news/46480",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2014-11-09)",
+      "source_url": "https://en.kremlin.ru/events/president/news/46810",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2015-05-08)",
+      "source_url": "https://en.kremlin.ru/events/president/news/47173",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2015-07-09)",
+      "source_url": "https://en.kremlin.ru/events/president/news/48463",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2015-07-10)",
+      "source_url": "https://en.kremlin.ru/events/president/news/48731",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2015-09-03)",
+      "source_url": "https://en.kremlin.ru/events/president/news/47978",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2015-11-15)",
+      "source_url": "https://en.kremlin.ru/events/president/news/49790",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2015-11-30)",
+      "source_url": "https://en.kremlin.ru/events/president/news/49550",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2016-06-24)",
+      "source_url": "https://en.kremlin.ru/events/president/news/51176",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2016-06-25)",
+      "source_url": "https://en.kremlin.ru/events/president/news/51001",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2016-09-04)",
+      "source_url": "https://en.kremlin.ru/events/president/news/52032",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2016-10-15)",
+      "source_url": "https://en.kremlin.ru/events/president/news/53416",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2016-11-19)",
+      "source_url": "https://en.kremlin.ru/events/president/news/52500",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2017-05-15)",
+      "source_url": "https://en.kremlin.ru/events/president/news/54491",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2017-07-04)",
+      "source_url": "https://en.kremlin.ru/events/president/news/53617",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2017-09-04)",
+      "source_url": "https://en.kremlin.ru/events/president/news/55529",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2017-11-10)",
+      "source_url": "https://en.kremlin.ru/events/president/news/56032",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2018-06-08)",
+      "source_url": "https://en.kremlin.ru/events/president/news/59221",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2018-06-09)",
+      "source_url": "https://en.kremlin.ru/events/president/news/59269",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2018-09-11)",
+      "source_url": "https://en.kremlin.ru/events/president/news/59090",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2018-11-30)",
+      "source_url": "https://en.kremlin.ru/events/president/news/59287",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2019-06-05)",
+      "source_url": "https://en.kremlin.ru/events/president/news/59858",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2019-06-28)",
+      "source_url": "https://en.kremlin.ru/events/president/news/60899",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2019-11-13)",
+      "source_url": "https://en.kremlin.ru/events/president/news/61224",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2021-06-28)",
+      "source_url": "https://en.kremlin.ru/events/president/news/65908",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2021-12-15)",
+      "source_url": "https://en.kremlin.ru/events/president/news/67302",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2022-02-04)",
+      "source_url": "https://en.kremlin.ru/events/president/news/67735",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2022-09-15)",
+      "source_url": "https://en.kremlin.ru/events/president/news/69309",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2022-12-30)",
+      "source_url": "https://en.kremlin.ru/events/president/news/70231",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2023-03-21)",
+      "source_url": "https://en.kremlin.ru/events/president/news/70743",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2023-10-18)",
+      "source_url": "https://en.kremlin.ru/events/president/news/72515",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2024-05-16)",
+      "source_url": "https://en.kremlin.ru/events/president/news/74052",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2024-07-03)",
+      "source_url": "https://en.kremlin.ru/events/president/news/74442",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2024-10-22)",
+      "source_url": "https://en.kremlin.ru/events/president/news/75321",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2025-01-21)",
+      "source_url": "https://en.kremlin.ru/events/president/news/76196",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
+    },
+    {
+      "source_name": "Kremlin readout: Xi-Putin meeting (2025-05-08)",
+      "source_url": "https://en.kremlin.ru/events/president/news/77361",
+      "source_type": "official",
+      "publisher": "President of Russia (Kremlin)",
+      "access_date": "2026-02-18",
+      "notes_on_reliability": "Official Russian presidential readout used as primary timestamp and venue reference."
     }
   ],
   "events": [
@@ -6752,6 +7144,510 @@
       "importance_score": 4,
       "confidence_score": 5,
       "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-moscow-meeting-2013-03-22",
+      "title": "Xi and Putin hold first Moscow summit after Xi takes office",
+      "event_date": "2013-03-22",
+      "region": "Moscow, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Moscow, Russia during Xi Jinping's first Russia visit after taking office.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-st-petersburg-g20-2013-09-05",
+      "title": "Xi and Putin meet on G20 sidelines in St Petersburg",
+      "event_date": "2013-09-05",
+      "region": "St Petersburg, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in St Petersburg, Russia during the G20 Leaders' Summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-bali-apec-2013-10-07",
+      "title": "Xi and Putin meet on APEC sidelines in Bali",
+      "event_date": "2013-10-07",
+      "region": "Bali, Indonesia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Bali, Indonesia during the APEC Leaders' Meeting.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-sochi-olympics-2014-02-06",
+      "title": "Xi and Putin meet in Sochi during Winter Olympics diplomacy",
+      "event_date": "2014-02-06",
+      "region": "Sochi, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Sochi, Russia during the Winter Olympics opening diplomacy.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-shanghai-cica-2014-05-20",
+      "title": "Xi and Putin meet in Shanghai during CICA summit",
+      "event_date": "2014-05-20",
+      "region": "Shanghai, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Shanghai, China during the CICA summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-fortaleza-brics-2014-07-15",
+      "title": "Xi and Putin meet at BRICS summit in Fortaleza",
+      "event_date": "2014-07-15",
+      "region": "Fortaleza, Brazil",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Fortaleza, Brazil during the BRICS summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-dushanbe-sco-2014-09-11",
+      "title": "Xi and Putin meet at SCO summit in Dushanbe",
+      "event_date": "2014-09-11",
+      "region": "Dushanbe, Tajikistan",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Dushanbe, Tajikistan during the SCO summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-apec-2014-11-09",
+      "title": "Xi and Putin meet during Beijing APEC summit",
+      "event_date": "2014-11-09",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during the APEC Leaders' Meeting.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-moscow-victoryday-2015-05-08",
+      "title": "Xi and Putin hold Moscow talks around Victory Day commemoration",
+      "event_date": "2015-05-08",
+      "region": "Moscow, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Moscow, Russia during Victory Day commemorations and bilateral talks.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-ufa-brics-2015-07-09",
+      "title": "Xi and Putin meet at BRICS summit in Ufa",
+      "event_date": "2015-07-09",
+      "region": "Ufa, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Ufa, Russia during the BRICS summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-ufa-sco-2015-07-10",
+      "title": "Xi and Putin hold second Ufa meeting during SCO summit",
+      "event_date": "2015-07-10",
+      "region": "Ufa, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Ufa, Russia during the SCO summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-vday-2015-09-03",
+      "title": "Xi and Putin meet in Beijing during WWII commemoration events",
+      "event_date": "2015-09-03",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during WWII victory commemorations in China.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-antalya-g20-2015-11-15",
+      "title": "Xi and Putin meet on G20 sidelines in Antalya",
+      "event_date": "2015-11-15",
+      "region": "Antalya, Turkey",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Antalya, Turkey during the G20 Leaders' Summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-paris-cop21-2015-11-30",
+      "title": "Xi and Putin meet during Paris climate conference",
+      "event_date": "2015-11-30",
+      "region": "Paris, France",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Paris, France during the Paris climate conference.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-tashkent-sco-2016-06-24",
+      "title": "Xi and Putin meet at SCO summit in Tashkent",
+      "event_date": "2016-06-24",
+      "region": "Tashkent, Uzbekistan",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Tashkent, Uzbekistan during the SCO summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-state-visit-2016-06-25",
+      "title": "Xi and Putin hold Beijing summit during Putin state visit",
+      "event_date": "2016-06-25",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during Putin's state visit to China.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-hangzhou-g20-2016-09-04",
+      "title": "Xi and Putin meet during Hangzhou G20 summit",
+      "event_date": "2016-09-04",
+      "region": "Hangzhou, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Hangzhou, China during the G20 Leaders' Summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-goa-brics-2016-10-15",
+      "title": "Xi and Putin meet at BRICS summit in Goa",
+      "event_date": "2016-10-15",
+      "region": "Goa, India",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Goa, India during the BRICS summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-lima-apec-2016-11-19",
+      "title": "Xi and Putin meet on APEC sidelines in Lima",
+      "event_date": "2016-11-19",
+      "region": "Lima, Peru",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Lima, Peru during the APEC Leaders' Meeting.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-bri-2017-05-15",
+      "title": "Xi and Putin meet during first Belt and Road Forum in Beijing",
+      "event_date": "2017-05-15",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during the Belt and Road Forum.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-moscow-state-visit-2017-07-04",
+      "title": "Xi and Putin hold Moscow summit during Xi state visit",
+      "event_date": "2017-07-04",
+      "region": "Moscow, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Moscow, Russia during Xi's state visit to Russia.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-xiamen-brics-2017-09-04",
+      "title": "Xi and Putin meet at BRICS summit in Xiamen",
+      "event_date": "2017-09-04",
+      "region": "Xiamen, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Xiamen, China during the BRICS summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-danang-apec-2017-11-10",
+      "title": "Xi and Putin meet on APEC sidelines in Da Nang",
+      "event_date": "2017-11-10",
+      "region": "Da Nang, Vietnam",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Da Nang, Vietnam during the APEC Leaders' Meeting.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-state-visit-2018-06-08",
+      "title": "Xi and Putin hold Beijing summit during Putin state visit",
+      "event_date": "2018-06-08",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during Putin's state visit and Friendship Medal ceremony.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-qingdao-sco-2018-06-09",
+      "title": "Xi and Putin meet at SCO summit in Qingdao",
+      "event_date": "2018-06-09",
+      "region": "Qingdao, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Qingdao, China during the SCO summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-vladivostok-eef-2018-09-11",
+      "title": "Xi and Putin meet at Eastern Economic Forum in Vladivostok",
+      "event_date": "2018-09-11",
+      "region": "Vladivostok, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Vladivostok, Russia during the Eastern Economic Forum.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-buenosaires-g20-2018-11-30",
+      "title": "Xi and Putin meet on G20 sidelines in Buenos Aires",
+      "event_date": "2018-11-30",
+      "region": "Buenos Aires, Argentina",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Buenos Aires, Argentina during the G20 Leaders' Summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-moscow-state-visit-2019-06-05",
+      "title": "Xi and Putin hold Moscow summit during Xi state visit",
+      "event_date": "2019-06-05",
+      "region": "Moscow, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Moscow, Russia during Xi's state visit to Russia.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-osaka-g20-2019-06-28",
+      "title": "Xi and Putin meet on G20 sidelines in Osaka",
+      "event_date": "2019-06-28",
+      "region": "Osaka, Japan",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Osaka, Japan during the G20 Leaders' Summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-brasilia-brics-2019-11-13",
+      "title": "Xi and Putin meet at BRICS summit in Brasilia",
+      "event_date": "2019-11-13",
+      "region": "Brasilia, Brazil",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Brasilia, Brazil during the BRICS summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-video-meeting-2021-06-28",
+      "title": "Xi and Putin hold virtual summit on treaty framework and strategic coordination",
+      "event_date": "2021-06-28",
+      "region": "Beijing-Moscow (video link)",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing-Moscow (video link) during a virtual summit on bilateral treaty and strategic coordination.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-video-meeting-2021-12-15",
+      "title": "Xi and Putin hold year-end virtual summit",
+      "event_date": "2021-12-15",
+      "region": "Beijing-Moscow (video link)",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing-Moscow (video link) during a year-end virtual summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-olympics-2022-02-04",
+      "title": "Xi and Putin meet in Beijing at Winter Olympics opening diplomacy",
+      "event_date": "2022-02-04",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during the Winter Olympics opening diplomacy.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-samarkand-sco-2022-09-15",
+      "title": "Xi and Putin meet at SCO summit in Samarkand",
+      "event_date": "2022-09-15",
+      "region": "Samarkand, Uzbekistan",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Samarkand, Uzbekistan during the SCO summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-video-meeting-2022-12-30",
+      "title": "Xi and Putin hold year-end virtual meeting",
+      "event_date": "2022-12-30",
+      "region": "Beijing-Moscow (video link)",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing-Moscow (video link) during a year-end virtual meeting.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-moscow-state-visit-2023-03-21",
+      "title": "Xi and Putin hold extended Moscow summit during Xi state visit",
+      "event_date": "2023-03-21",
+      "region": "Moscow, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Moscow, Russia during Xi's state visit to Russia amid Ukraine war.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 5,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-bri-2023-10-18",
+      "title": "Xi and Putin meet during third Belt and Road Forum in Beijing",
+      "event_date": "2023-10-18",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during the third Belt and Road Forum.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-beijing-state-visit-2024-05-16",
+      "title": "Xi and Putin hold Beijing summit at start of Putin new term diplomacy",
+      "event_date": "2024-05-16",
+      "region": "Beijing, China",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing, China during Putin's first foreign trip of his new term.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-astana-sco-2024-07-03",
+      "title": "Xi and Putin meet at SCO summit in Astana",
+      "event_date": "2024-07-03",
+      "region": "Astana, Kazakhstan",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Astana, Kazakhstan during the SCO summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-kazan-brics-2024-10-22",
+      "title": "Xi and Putin meet at BRICS summit in Kazan",
+      "event_date": "2024-10-22",
+      "region": "Kazan, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Kazan, Russia during the BRICS summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-video-meeting-2025-01-21",
+      "title": "Xi and Putin hold New Year virtual summit",
+      "event_date": "2025-01-21",
+      "region": "Beijing-Moscow (video link)",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Beijing-Moscow (video link) during a New Year virtual summit.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 3,
+      "confidence_score": 4,
+      "status": "published"
+    },
+    {
+      "slug": "china-us-xi-putin-moscow-victoryday-2025-05-08",
+      "title": "Xi and Putin hold Moscow summit around WWII victory commemoration",
+      "event_date": "2025-05-08",
+      "region": "Moscow, Russia",
+      "category": "Summit Diplomacy",
+      "summary": "Xi Jinping and Vladimir Putin held talks in Moscow, Russia during 80th WWII victory commemoration diplomacy.",
+      "impact": "The meeting signaled continued Sino-Russian strategic coordination, affecting U.S.-China-Russia triangle risk assessment and policy signaling.",
+      "importance_score": 4,
+      "confidence_score": 4,
+      "status": "published"
     }
   ],
   "event_sources": [
@@ -9146,6 +10042,444 @@
       "event_slug": "covid-us-public-health-emergency-end-2023-05-11",
       "source_url": "https://www.npr.org/2023/05/11/1175465317/covid-public-health-emergency-ends",
       "relevance_rank": 2
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-meeting-2013-03-22",
+      "source_url": "https://en.kremlin.ru/events/president/news/17626",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-meeting-2013-03-22",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-st-petersburg-g20-2013-09-05",
+      "source_url": "https://en.kremlin.ru/events/president/news/19143",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-st-petersburg-g20-2013-09-05",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-bali-apec-2013-10-07",
+      "source_url": "https://en.kremlin.ru/events/president/news/19389",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-bali-apec-2013-10-07",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-sochi-olympics-2014-02-06",
+      "source_url": "https://en.kremlin.ru/events/president/news/45580",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-sochi-olympics-2014-02-06",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-shanghai-cica-2014-05-20",
+      "source_url": "https://en.kremlin.ru/events/president/news/46095",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-shanghai-cica-2014-05-20",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-fortaleza-brics-2014-07-15",
+      "source_url": "https://en.kremlin.ru/events/president/news/46208",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-fortaleza-brics-2014-07-15",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-dushanbe-sco-2014-09-11",
+      "source_url": "https://en.kremlin.ru/events/president/news/46480",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-dushanbe-sco-2014-09-11",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-apec-2014-11-09",
+      "source_url": "https://en.kremlin.ru/events/president/news/46810",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-apec-2014-11-09",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-victoryday-2015-05-08",
+      "source_url": "https://en.kremlin.ru/events/president/news/47173",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-victoryday-2015-05-08",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-ufa-brics-2015-07-09",
+      "source_url": "https://en.kremlin.ru/events/president/news/48463",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-ufa-brics-2015-07-09",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-ufa-sco-2015-07-10",
+      "source_url": "https://en.kremlin.ru/events/president/news/48731",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-ufa-sco-2015-07-10",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-vday-2015-09-03",
+      "source_url": "https://en.kremlin.ru/events/president/news/47978",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-vday-2015-09-03",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-antalya-g20-2015-11-15",
+      "source_url": "https://en.kremlin.ru/events/president/news/49790",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-antalya-g20-2015-11-15",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-paris-cop21-2015-11-30",
+      "source_url": "https://en.kremlin.ru/events/president/news/49550",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-paris-cop21-2015-11-30",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-tashkent-sco-2016-06-24",
+      "source_url": "https://en.kremlin.ru/events/president/news/51176",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-tashkent-sco-2016-06-24",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-state-visit-2016-06-25",
+      "source_url": "https://en.kremlin.ru/events/president/news/51001",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-state-visit-2016-06-25",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-hangzhou-g20-2016-09-04",
+      "source_url": "https://en.kremlin.ru/events/president/news/52032",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-hangzhou-g20-2016-09-04",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-goa-brics-2016-10-15",
+      "source_url": "https://en.kremlin.ru/events/president/news/53416",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-goa-brics-2016-10-15",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-lima-apec-2016-11-19",
+      "source_url": "https://en.kremlin.ru/events/president/news/52500",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-lima-apec-2016-11-19",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-bri-2017-05-15",
+      "source_url": "https://en.kremlin.ru/events/president/news/54491",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-bri-2017-05-15",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-state-visit-2017-07-04",
+      "source_url": "https://en.kremlin.ru/events/president/news/53617",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-state-visit-2017-07-04",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-xiamen-brics-2017-09-04",
+      "source_url": "https://en.kremlin.ru/events/president/news/55529",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-xiamen-brics-2017-09-04",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-danang-apec-2017-11-10",
+      "source_url": "https://en.kremlin.ru/events/president/news/56032",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-danang-apec-2017-11-10",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-state-visit-2018-06-08",
+      "source_url": "https://en.kremlin.ru/events/president/news/59221",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-state-visit-2018-06-08",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-qingdao-sco-2018-06-09",
+      "source_url": "https://en.kremlin.ru/events/president/news/59269",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-qingdao-sco-2018-06-09",
+      "source_url": "https://www.globaltimes.cn/page/201806/1109498.shtml",
+      "relevance_rank": 2,
+      "citation_note": "Chinese-side chronological compilation used for cross-check up to June 2018."
+    },
+    {
+      "event_slug": "china-us-xi-putin-vladivostok-eef-2018-09-11",
+      "source_url": "https://en.kremlin.ru/events/president/news/59090",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-buenosaires-g20-2018-11-30",
+      "source_url": "https://en.kremlin.ru/events/president/news/59287",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-state-visit-2019-06-05",
+      "source_url": "https://en.kremlin.ru/events/president/news/59858",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-osaka-g20-2019-06-28",
+      "source_url": "https://en.kremlin.ru/events/president/news/60899",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-brasilia-brics-2019-11-13",
+      "source_url": "https://en.kremlin.ru/events/president/news/61224",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-video-meeting-2021-06-28",
+      "source_url": "https://en.kremlin.ru/events/president/news/65908",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-video-meeting-2021-12-15",
+      "source_url": "https://en.kremlin.ru/events/president/news/67302",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-olympics-2022-02-04",
+      "source_url": "https://en.kremlin.ru/events/president/news/67735",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-samarkand-sco-2022-09-15",
+      "source_url": "https://en.kremlin.ru/events/president/news/69309",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-video-meeting-2022-12-30",
+      "source_url": "https://en.kremlin.ru/events/president/news/70231",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-state-visit-2023-03-21",
+      "source_url": "https://en.kremlin.ru/events/president/news/70743",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-state-visit-2023-03-21",
+      "source_url": "https://www.aljazeera.com/news/2023/3/21/xi-tells-putin-that-china-and-russia-are-driving-world-changes",
+      "relevance_rank": 2,
+      "citation_note": "International non-PRC media corroboration of the Moscow summit timing and agenda framing."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-bri-2023-10-18",
+      "source_url": "https://en.kremlin.ru/events/president/news/72515",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-state-visit-2024-05-16",
+      "source_url": "https://en.kremlin.ru/events/president/news/74052",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-beijing-state-visit-2024-05-16",
+      "source_url": "https://www.aljazeera.com/news/2024/5/16/xi-and-putin-vow-a-new-era-and-decry-us-influence-at-beijing-summit",
+      "relevance_rank": 2,
+      "citation_note": "International non-PRC media corroboration of the Beijing summit."
+    },
+    {
+      "event_slug": "china-us-xi-putin-astana-sco-2024-07-03",
+      "source_url": "https://en.kremlin.ru/events/president/news/74442",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-astana-sco-2024-07-03",
+      "source_url": "https://www.usnews.com/news/world/articles/2024-07-03/chinas-xi-russias-putin-agree-to-respond-firmly-to-us-dual-containment-politics",
+      "relevance_rank": 2,
+      "citation_note": "Reuters-based non-PRC corroboration of the Astana meeting."
+    },
+    {
+      "event_slug": "china-us-xi-putin-kazan-brics-2024-10-22",
+      "source_url": "https://en.kremlin.ru/events/president/news/75321",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-kazan-brics-2024-10-22",
+      "source_url": "https://apnews.com/article/russia-brics-summit-kazan-putin-xi-modi-364f0f69adf6cb6f5ddf2b0f5f9f332b",
+      "relevance_rank": 2,
+      "citation_note": "AP non-PRC corroboration for the Kazan summit context."
+    },
+    {
+      "event_slug": "china-us-xi-putin-video-meeting-2025-01-21",
+      "source_url": "https://en.kremlin.ru/events/president/news/76196",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-video-meeting-2025-01-21",
+      "source_url": "https://english.news.cn/20250121/9f6e6f0e2f6f4600bc33f995f0c8e95e/c.html",
+      "relevance_rank": 2,
+      "citation_note": "PRC-side publication for the January 2025 virtual meeting."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-victoryday-2025-05-08",
+      "source_url": "https://en.kremlin.ru/events/president/news/77361",
+      "relevance_rank": 1,
+      "citation_note": "Primary meeting readout from the Russian presidential website."
+    },
+    {
+      "event_slug": "china-us-xi-putin-moscow-victoryday-2025-05-08",
+      "source_url": "https://us.china-embassy.gov.cn/eng./zgyw/202505/t20250509_11617838.htm",
+      "relevance_rank": 2,
+      "citation_note": "PRC official publication tied to the May 2025 Moscow summit outcomes."
     }
   ]
 }
